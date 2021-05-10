@@ -150,7 +150,6 @@ Shen,1,0%,3.0,Rek'Sai,1,0%,1.7,Galio,3,33%,7.5,Jhin,2,0%,3.6,Alistar,4,25%,2.4,R
 Gragas,FIRST TIME PLAYING,FIRST TIME PLAYING,FIRST TIME PLAYING,Kindred,1,100%,3.0,Syndra,3,33%,2.1,Kai'Sa,20,55%,4.0,Sett,8,63%,2.3,Aatrox,11,18%,2.1,Graves,2,0%,2.0,Galio,2,50%,2.4,Xayah,5,0%,2.2,Leona,5,0%,2.2,0
 Gragas,FIRST TIME PLAYING,FIRST TIME PLAYING,FIRST TIME PLAYING,Lillia,4,25%,1.2,Lucian,1,100%,4.3,Kai'Sa,20,55%,4.0,Sett,8,63%,2.3,Aatrox,11,18%,2.1,Graves,2,0%,2.0,Viktor,3,0%,0.6,Jhin,2,0%,2.4,Leona,5,0%,2.2,0
 Jayce,2,100%,2.4,Nidalee,14,36%,3.5,Syndra,11,55%,2.1,Aphelios,6,33%,2.4,Thresh,6,67%,3.3,Gnar,14,36%,2.4,Olaf,10,30%,2.9,Zoe,6,50%,10.2,Miss Fortune,1,0%,2.0,Leona,5,40%,1.9,0
-bluetop,bluetopgp,bluetopwr,bluetopkda,bluejungle,bluejunglegp,bluejunglewr,bluejunglekda,bluemid,bluemidgp,bluemidwr,bluemidkda,blueadc,blueadcgp,blueadcwr,blueadckda,bluesupport,bluesupportgp,bluesupportwr,bluesupportkda,redtop,redtopgp,redtopwr,redtopkda,redjungle,redjunglegp,redjunglewr,redjunglekda,redmid,redmidgp,redmidwr,redmidkda,redadc,redadcgp,redadcwr,redadckda,redsupport,redsupportgp,redsupportwr,redsupportkda,result
 Aatrox,12,92%,6.3,Lillia,10,50%,4.6,Syndra,9,44%,4.0,Kai'Sa,25,88%,4.9,Sett,2,50%,3.5,Renekton,15,33%,2.8,Graves,3,33%,2.3,Zoe,4,50%,7.8,Miss Fortune,3,0%,1.0,Thresh,1,0%,0.2,0
 Gragas,3,33%,3.0,Graves,5,60%,4.4,Orianna,1,0%,3.7,Miss Fortune,1,0%,5.5,Leona,9,33%,1.4,Camille,1,100%,1.4,Nidalee,2,50%,3.3,Galio,FIRST TIME PLAYING,FIRST TIME PLAYING,FIRST TIME PLAYING,Samira,3,33%,3.2,Alistar,13,69%,4.8,1
 Ornn,2,50%,3.3,Graves,6,33%,5.3,Zoe,6,50%,10.2,Samira,4,25%,3.8,Alistar,12,33%,2.3,Gnar,6,17%,0.9,Olaf,4,50%,2.7,Sylas,1,0%,1.0,Jhin,1,0%,0.6,Rell,14,43%,2.6,0
@@ -158,3 +157,8 @@ Ornn,5,20%,2.8,Graves,3,33%,2.3,Galio,10,40%,3.5,Kai'Sa,12,42%,2.6,Sett,3,67%,2.
 Kennen,1,0%,1.8,Olaf,2,0%,2.4,Orianna,FIRST TIME PLAYING,FIRST TIME PLAYING,FIRST TIME PLAYING,Samira,3,33%,3.2,Galio,1,0%,11.0,Camille,11,64%,2.9,Graves,5,60%,4.4,Akali,2,50%,2.7,Lucian,1,100%,7.0,Leona,9,33%,1.4,1
 Ornn,2,0%,2.3,Graves,10,50%,4.8,Galio,4,25%,3.6,Samira,7,57%,2.9,Gragas,3,0%,1.8,Aatrox,5,60%,3.2,Lillia,7,71%,5.6,Twisted Fate,5,80%,4.2,Kai'Sa,6,67%,4.6,Thresh,5,60%,3.8,1
 Gnar,6,17%,0.9,Olaf,4,50%,2.7,Syndra,11,55%,2.1,Ezreal,6,50%,3.7,Alistar,18,33%,2.9,Jayce,3,67%,1.9,Graves,6,33%,5.3,Zoe,6,50%,10.2,Jhin,1,0%,2.5,Galio,2,0%,1.0,0
+Aatrox,14,64%,4.1,Olaf,14,86%,5.4,Orianna,21,90%,7.6,Samira,5,60%,3.5,Leona,7,86%,4.6,Gragas,3,0%,0.4,Graves,1,0%,1.0,Zoe,5,20%,4.6,Kai'Sa,14,21%,2.7,Alistar,9,22%,2.5,0
+Aatrox,1,0%,0.2,Nidalee,2,50%,3.3,Zoe,FIRST TIME PLAYING,FIRST TIME PLAYING,FIRST TIME PLAYING,Aphelios,2,0%,0.6,Leona,2,0%,0.8,Camille,11,64%,2.9,Lillia,11,64%,7.7,Yone,1,100%,8.0,Jinx,1,100%,12.0,Thresh,2,50%,4.3,1
+Gnar,6,67%,2.9,Lillia,7,71%,5.6,Twisted Fate,5,80%,4.2,Vayne,4,50%,2.0,Sett,4,75%,2.9,Camille,7,43%,1.7,Graves,10,50%,4.8,Galio,4,25%,3.6,Samira,7,57%,2.9,Gragas,3,0%,1.8,0
+Aatrox,14,64%,4.1,Olaf,14,86%,5.4,Orianna,21,90%,7.6,Lucian,1,100%,3.8,Braum,2,100%,4.3,Ornn,7,14%,2.0,Lillia,3,0%,2.2,Jayce,6,50%,7.2,Vayne,1,0%,3.0,Maokai,1,0%,1.6,0
+Renekton,12,83%,5.2,Nidalee,10,70%,5.0,Syndra,8,75%,3.2,Kai'Sa,FIRST TIME PLAYING,FIRST TIME PLAYING,FIRST TIME PLAYING,Alistar,13,69%,3.8,Aatrox,14,36%,2.3,Taliyah,5,60%,8.9,Sett,3,0%,1.5,Miss Fortune,FIRST TIME PLAYING,FIRST TIME PLAYING,FIRST TIME PLAYING,Leona,4,25%,1.6,0
