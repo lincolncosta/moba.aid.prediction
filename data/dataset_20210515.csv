@@ -1493,3 +1493,871 @@ NA1/3783876375,Camille,1,0%,1.5,Dr. Mundo,1,0%,0.5,Annie,1,0%,3.0,Ezreal,1,0%,0.
 NA1/3783746813,Gragas,7,43%,2.8,Olaf,2,100%,9.0,Seraphine,3,100%,11.0,Kai'Sa,7,57%,3.9,Thresh,11,55%,3.1,Wukong,4,50%,2.6,Udyr,2,50%,7.3,Galio,2,50%,3.6,Samira,3,33%,3.0,Nautilus,1,0%,2.5,0
 ESPORTSTMNT03/1760500,Gragas,10,60%,3.5,Olaf,13,62%,3.6,Syndra,70,49%,3.4,Ezreal,32,59%,5.2,Bard,20,60%,5.6,Gnar,3,0%,1.1,Graves,25,44%,3.7,Azir,23,35%,2.4,Senna,6,0%,2.5,Thresh,28,61%,4.5,0
 NA1/3783986643,Sion,4,25%,1.4,Olaf,3,33%,3.0,Syndra,3,0%,2.0,Xayah,3,33%,3.2,Alistar,4,25%,2.9,Gangplank,8,63%,4.1,Lillia,3,67%,2.4,Azir,2,50%,4.7,Sivir,2,100%,11.3,Thresh,11,55%,3.1,1
+ESPORTSTMNT02/1698012,Renekton,4,25%,2.3,Taliyah,1,0%,0.5,Sett,1,0%,1.5,Miss Fortune,5,40%,2.2,Rell,3,33%,1.7,Gnar,6,67%,6.8,Udyr,5,60%,4.0,Syndra,6,67%,8.0,Kalista,26,23%,2.4,Alistar,80,48%,2.5,1
+ESPORTSTMNT06/1570343,Gnar,23,57%,2.4,Graves,0,0,0,Sylas,3,33%,1.8,Xayah,2,0%,1.0,Leona,5,60%,3.4,Irelia,11,55%,4.1,Taliyah,9,56%,2.4,Twisted Fate,4,50%,15.3,Kai'Sa,12,58%,3.4,Alistar,27,44%,2.3,1
+ESPORTSTMNT02/1698014,Aatrox,4,25%,2.5,Kayn,1,100%,7.5,Seraphine,1,100%,7.5,Senna,3,67%,3.3,Maokai,1,100%,16.0,Sion,5,40%,3.7,Udyr,5,0%,1.5,Syndra,7,14%,2.8,Kai'Sa,11,9%,1.5,Rakan,12,42%,2.9,0
+ESPORTSTMNT06/1570353,Sion,6,33%,2.8,Olaf,3,0%,1.1,Orianna,1,0%,0.5,Ashe,8,13%,1.8,Braum,48,56%,3.0,Camille,13,54%,3.5,Jarvan IV,26,88%,7.2,Azir,25,72%,5.1,Kai'Sa,21,67%,5.9,Rakan,6,33%,2.9,1
+ESPORTSTMNT06/1570368,Gnar,7,57%,2.9,Hecarim,3,33%,3.6,Galio,1,100%,21.0,Kai'Sa,7,43%,2.5,Rell,5,40%,2.4,Wukong,5,80%,2.9,Lillia,5,60%,3.8,Syndra,4,50%,3.0,Samira,2,50%,3.1,Gragas,1,0%,1.3,0
+ESPORTSTMNT06/1570398,Gnar,17,47%,3.3,Jarvan IV,3,33%,2.6,Orianna,7,43%,2.2,Kai'Sa,11,55%,4.9,Alistar,27,63%,3.7,Aatrox,9,56%,2.9,Udyr,1,0%,5.5,Viktor,1,0%,1.7,Xayah,5,40%,4.5,Rell,5,0%,1.6,0
+ESPORTSTMNT03/1760696,Gangplank,5,20%,6.2,Udyr,8,50%,5.3,Orianna,13,77%,7.5,Kai'Sa,15,60%,4.4,Rell,7,57%,3.6,Gnar,2,50%,3.0,Dr. Mundo,1,0%,5.0,Vel'Koz,1,0%,3.5,Xayah,2,0%,0.6,Leona,7,57%,2.2,0
+ESPORTSTMNT03/1750651,Jayce,6,50%,3.3,Udyr,2,50%,2.0,Orianna,12,50%,4.3,Xayah,40,73%,5.8,Leona,13,46%,3.7,Ornn,9,33%,2.9,Jarvan IV,15,40%,3.3,Corki,20,65%,5.9,Kai'Sa,21,52%,5.5,Rell,6,50%,2.9,0
+ESPORTSTMNT03/1760768,Gnar,5,60%,4.8,Lillia,6,33%,3.9,Orianna,12,25%,3.5,Xayah,11,45%,3.2,Nautilus,24,29%,1.7,Vladimir,9,44%,2.6,Hecarim,3,0%,1.7,Sett,1,0%,1.5,Kai'Sa,6,17%,3.6,Leona,6,50%,3.4,0
+ESPORTSTMNT03/1760783,Gragas,5,80%,7.7,Olaf,4,50%,3.9,Cassiopeia,1,0%,2.0,Miss Fortune,1,0%,1.6,Thresh,2,0%,2.1,Camille,6,67%,7.3,Hecarim,4,100%,10.8,Anivia,2,100%,3.5,Vayne,2,100%,7.8,Galio,4,50%,3.7,1
+ESPORTSTMNT05/1832104,Gnar,3,33%,2.2,Olaf,6,33%,2.9,Azir,2,50%,4.0,Xayah,0,0,0,Alistar,6,50%,3.2,Wukong,4,50%,3.0,Graves,2,50%,7.3,Seraphine,3,100%,13.0,Kai'Sa,2,50%,2.6,Rell,6,17%,1.5,1
+ESPORTSTMNT03/1760800,Camille,21,62%,2.3,Lillia,10,70%,5.6,Galio,12,58%,11.3,Jinx,14,71%,5.7,Alistar,40,70%,3.3,Gnar,4,50%,2.8,Jarvan IV,24,71%,5.0,Azir,3,33%,5.4,Xayah,21,48%,3.8,Rell,3,33%,1.9,0
+ESPORTSTMNT03/1760816,Shen,3,67%,5.7,Kha'Zix,1,0%,2.3,Vladimir,1,0%,1.3,Kai'Sa,9,44%,4.0,Galio,4,50%,3.7,Mordekaiser,1,100%,2.5,Lillia,11,36%,3.3,Lucian,5,40%,1.6,Samira,4,75%,4.8,Alistar,3,33%,2.1,1
+ESPORTSTMNT05/1832108,Gnar,7,100%,13.5,Pantheon,3,100%,11.2,Seraphine,2,100%,15.5,Senna,6,83%,12.1,Tahm Kench,8,63%,4.4,Camille,3,33%,0.9,Gragas,12,58%,3.5,Ryze,3,67%,31.0,Kai'Sa,14,64%,3.8,Leona,3,0%,0.7,0
+ESPORTSTMNT03/1750741,Renekton,18,56%,3.5,Lillia,15,53%,4.5,Azir,35,60%,4.8,Vayne,3,67%,5.3,Gragas,8,38%,3.4,Quinn,5,60%,2.9,Nidalee,21,71%,4.9,Ekko,7,71%,4.9,Jhin,49,45%,8.0,Rell,5,60%,1.5,1
+ESPORTSTMNT03/1760831,Gnar,10,60%,4.0,Graves,5,60%,4.7,Galio,12,67%,4.3,Sivir,2,100%,10.5,Alistar,34,50%,4.3,Gangplank,4,25%,1.6,Skarner,1,0%,1.5,Azir,10,60%,3.2,Ezreal,27,74%,4.3,Rell,7,57%,2.8,0
+ESPORTSTMNT05/1832109,Volibear,3,33%,4.0,Pantheon,1,0%,0.5,Azir,3,33%,1.2,Kai'Sa,8,38%,2.6,Rell,4,25%,2.0,Kennen,4,75%,6.1,Kindred,3,67%,8.3,Twisted Fate,2,50%,5.8,Senna,2,50%,5.8,Wukong,1,100%,18.0,1
+ESPORTSTMNT03/1760848,Gangplank,3,67%,4.0,Hecarim,3,67%,7.3,Orianna,5,80%,7.1,Kai'Sa,5,40%,2.4,Leona,5,20%,1.7,Aatrox,4,75%,5.3,Lillia,11,82%,5.5,Irelia,3,67%,3.7,Senna,2,50%,6.2,Galio,4,75%,4.7,1
+ESPORTSTMNT03/1760856,Ornn,8,38%,3.4,Udyr,2,0%,2.3,Viktor,6,33%,2.6,Aphelios,14,36%,4.2,Thresh,16,56%,3.1,Gnar,17,53%,3.0,Graves,14,50%,3.4,Orianna,15,80%,6.6,Kai'Sa,13,54%,4.3,Nautilus,18,72%,2.8,1
+ESPORTSTMNT03/1750782,Cho'Gath,8,63%,3.4,Graves,12,50%,5.8,Yone,3,100%,6.5,Miss Fortune,5,60%,12.7,Seraphine,2,100%,6.3,Gangplank,12,42%,3.3,Taliyah,2,50%,3.1,Sylas,6,33%,1.9,Kai'Sa,17,35%,3.8,Alistar,47,45%,2.5,0
+ESPORTSTMNT03/1750802,Gragas,7,86%,4.3,Rek'Sai,9,78%,3.5,Zoe,20,75%,5.4,Samira,2,100%,7.0,Rell,9,56%,3.6,Aatrox,34,50%,3.6,Taliyah,13,69%,3.7,Galio,12,67%,4.4,Kai'Sa,31,81%,6.6,Sett,9,44%,3.1,0
+NA1/3786520964,Nasus,5,60%,1.6,Udyr,1,0%,0.0,Orianna,9,44%,4.1,Jhin,13,54%,3.2,Thresh,3,0%,1.7,Volibear,1,100%,11.0,Lillia,9,56%,3.8,Zoe,10,40%,3.0,Senna,0,0,0,Tahm Kench,2,100%,24.0,1
+ESPORTSTMNT03/1750835,Gangplank,25,44%,2.4,Graves,25,44%,3.7,Azir,23,35%,2.4,Kai'Sa,14,29%,2.5,Alistar,32,56%,4.2,Rumble,3,33%,2.7,Kindred,13,31%,2.4,Twisted Fate,5,40%,3.2,Aphelios,7,43%,3.5,Thresh,69,59%,3.7,1
+NA1/3786521325,Aatrox,11,73%,3.7,Udyr,6,67%,4.5,Yone,4,75%,5.0,Seraphine,0,0,0,Rell,3,33%,2.6,Malphite,10,60%,3.0,Jarvan IV,9,44%,4.1,Viktor,7,43%,4.0,Xayah,4,50%,3.5,Rakan,5,40%,5.8,0
+ESPORTSTMNT03/1760939,Renekton,9,56%,3.6,Nidalee,11,64%,4.5,Azir,9,67%,4.6,Kai'Sa,19,63%,3.5,Poppy,1,100%,5.0,Volibear,1,0%,1.0,Taliyah,2,50%,3.3,Zoe,16,81%,5.2,Lucian,10,60%,4.5,Rell,6,33%,2.0,0
+ESPORTSTMNT03/1750856,Gnar,39,67%,3.5,Lillia,6,33%,2.2,Azir,46,59%,3.9,Kai'Sa,29,66%,5.0,Pantheon,2,100%,4.7,Kennen,25,48%,2.5,Graves,31,39%,3.9,Zoe,15,60%,5.4,Jhin,5,40%,5.5,Nautilus,17,35%,2.3,0
+NA1/3785943375,Shen,13,77%,4.3,Graves,20,80%,5.6,Orianna,23,74%,4.7,Senna,0,0,0,Tahm Kench,0,0,0,Camille,9,56%,2.6,Olaf,15,53%,3.6,Viktor,7,14%,1.5,Kai'Sa,38,50%,3.7,Lulu,2,0%,0.8,0
+NA1/3786502228,Camille,12,58%,3.1,Lillia,8,50%,3.3,Galio,15,47%,3.3,Ezreal,17,35%,2.9,Rell,9,56%,2.4,Gangplank,26,50%,3.6,Hecarim,8,25%,1.7,Orianna,11,64%,3.9,Senna,9,78%,5.1,Rakan,4,25%,2.1,0
+NA1/3786232791,Jax,6,67%,3.2,Olaf,28,71%,4.5,Seraphine,4,100%,9.2,Ezreal,27,78%,5.9,Rell,16,81%,2.5,Camille,29,52%,2.3,Udyr,18,39%,3.6,Kayle,2,50%,5.0,Senna,6,67%,3.6,Karma,11,64%,4.7,0
+NA1/3786172695,Camille,11,55%,2.5,Udyr,16,56%,4.5,Ryze,27,44%,3.5,Senna,10,50%,5.0,Maokai,11,64%,3.6,Volibear,0,0,0,Dr. Mundo,3,67%,5.6,Orianna,15,33%,3.5,Miss Fortune,10,50%,2.7,Galio,7,57%,2.9,0
+NA1/3786233052,Volibear,12,58%,2.5,Taliyah,7,43%,3.1,Karma,10,60%,6.1,Draven,5,40%,2.6,Thresh,24,58%,2.8,Gnar,23,74%,4.1,Elise,18,78%,5.4,Orianna,5,60%,3.5,Kai'Sa,32,66%,4.9,Rell,16,81%,2.5,1
+NA1/3785943725,Gragas,4,25%,3.3,Lillia,9,33%,3.1,Yone,4,50%,2.3,Miss Fortune,4,75%,4.6,Nautilus,8,25%,1.8,Malphite,5,80%,3.8,Graves,20,80%,5.6,Syndra,13,62%,3.4,Senna,0,0,0,Tahm Kench,0,0,0,1
+NA1/3786502638,Aatrox,0,0,0,Udyr,12,67%,5.7,Yone,13,62%,2.9,Kai'Sa,20,60%,3.7,Alistar,9,56%,3.2,Sylas,6,67%,3.1,Dr. Mundo,3,33%,2.5,Tristana,2,0%,1.3,Senna,10,50%,5.0,Galio,12,42%,4.4,0
+NA1/3786173053,Volibear,7,43%,2.1,Skarner,7,71%,6.1,Azir,4,50%,1.4,Kai'Sa,21,67%,5.5,Rakan,4,25%,2.1,Gnar,7,57%,2.4,Elise,1,0%,3.3,Yone,6,50%,3.1,Ezreal,17,35%,2.9,Rell,9,56%,2.4,0
+NA1/3786503021,Camille,11,55%,2.5,Hecarim,16,44%,3.0,Azir,21,43%,3.3,Senna,10,50%,5.0,Leona,5,60%,4.6,Malphite,0,0,0,Olaf,8,50%,3.2,Yone,13,62%,2.9,Kai'Sa,20,60%,3.7,Galio,7,57%,2.9,0
+NA1/3786173378,Wukong,8,38%,1.5,Olaf,9,33%,2.3,Zoe,17,59%,5.4,Ezreal,17,35%,2.9,Rell,9,56%,2.4,Darius,14,71%,4.1,Trundle,18,56%,4.2,Viktor,13,46%,2.5,Xayah,11,18%,2.6,Rakan,4,25%,2.1,0
+ESPORTSTMNT06/1570419,Volibear,1,100%,0.8,Graves,5,40%,4.6,Syndra,23,39%,3.0,Kai'Sa,5,40%,2.2,Leona,7,57%,2.8,Gragas,4,75%,4.3,Olaf,9,56%,4.3,Orianna,18,61%,5.6,Xayah,15,53%,5.0,Sett,3,67%,4.9,0
+EUW1/5094013201,Garen,0,0,0,Udyr,2,0%,1.9,Zoe,2,0%,2.3,Jhin,0,0,0,Thresh,8,13%,1.3,Darius,1,100%,2.2,Karthus,3,67%,3.0,Corki,8,63%,4.0,Sivir,1,100%,5.3,Leona,10,60%,3.5,1
+ESPORTSTMNT06/1570421,Gnar,14,50%,4.3,Udyr,2,50%,8.3,Neeko,1,0%,3.0,Kai'Sa,12,58%,3.4,Alistar,27,44%,2.3,Wukong,4,75%,2.6,Lillia,5,60%,3.8,Galio,8,50%,4.7,Xayah,2,50%,6.5,Rakan,23,52%,4.1,1
+EUW1/5093763746,Garen,0,0,0,Graves,3,0%,0.4,Azir,10,20%,1.9,Kai'Sa,0,0,0,Braum,1,0%,0.6,Kennen,1,100%,4.5,Udyr,5,40%,3.3,Corki,8,63%,4.0,Lucian,2,100%,4.6,Alistar,4,75%,6.4,1
+ESPORTSTMNT06/1570422,Aatrox,26,65%,5.6,Lillia,5,60%,3.0,Zoe,13,46%,3.9,Vayne,1,0%,0.0,Thresh,17,76%,4.1,Karma,6,50%,2.9,Udyr,0,0,0,Yone,3,33%,3.0,Kai'Sa,7,86%,6.3,Galio,2,100%,8.5,1
+ESPORTSTMNT03/1761122,Aatrox,6,67%,3.2,Udyr,4,75%,11.0,Syndra,8,50%,3.9,Xayah,9,11%,2.1,Thresh,14,36%,2.2,Irelia,2,50%,1.7,Jarvan IV,4,50%,2.1,Azir,27,41%,3.0,Kai'Sa,9,22%,2.2,Nautilus,4,25%,2.4,1
+ESPORTSTMNT06/1580308,Renekton,17,59%,3.2,Graves,5,80%,4.8,Ryze,5,20%,1.9,Seraphine,2,100%,22.0,Nautilus,21,57%,3.0,Volibear,1,0%,0.3,Hecarim,4,25%,2.7,Twisted Fate,1,0%,0.5,Xayah,9,0%,1.7,Rell,6,17%,1.3,0
+EUW1/5094094356,Renekton,3,33%,2.2,Lillia,1,0%,2.0,Viktor,2,0%,1.6,Vayne,4,75%,9.8,Rell,2,50%,2.7,Volibear,4,75%,4.1,Nocturne,1,100%,3.7,Orianna,12,67%,6.3,Kai'Sa,12,67%,8.5,Alistar,4,75%,6.4,1
+ESPORTSTMNT03/1751009,Wukong,2,0%,0.9,Nidalee,5,20%,2.4,Yone,2,0%,0.8,Jhin,16,69%,12.1,Leona,6,50%,3.4,Aatrox,3,33%,1.7,Graves,19,53%,4.2,Ryze,18,56%,4.2,Xayah,21,48%,3.8,Rell,3,33%,1.9,1
+ESPORTSTMNT06/1580331,Gnar,6,50%,3.4,Lillia,4,50%,3.8,Lucian,1,100%,1.5,Miss Fortune,1,100%,3.0,Gragas,3,33%,1.6,Ornn,8,38%,2.5,Skarner,1,0%,5.0,Orianna,2,0%,2.3,Xayah,5,40%,4.5,Rell,5,0%,1.6,0
+ESPORTSTMNT03/1751026,Mordekaiser,0,0,0,Ivern,2,50%,21.0,Yone,5,20%,2.3,Kai'Sa,3,67%,4.3,Nautilus,0,0,0,Gragas,2,50%,1.3,Graves,6,33%,2.8,LeBlanc,4,50%,3.2,Vayne,1,0%,2.0,Alistar,1,0%,0.3,0
+ESPORTSTMNT03/1751052,Gragas,4,25%,2.3,Graves,9,44%,5.8,Orianna,23,39%,4.6,Aphelios,18,50%,5.9,Alistar,34,50%,4.3,Kennen,13,54%,2.1,Udyr,3,67%,5.0,Azir,14,71%,3.7,Jhin,12,75%,7.1,Rell,4,50%,2.2,1
+ESPORTSTMNT05/1822196,Gnar,7,100%,13.5,Hecarim,10,90%,7.8,Orianna,15,80%,8.2,Kai'Sa,20,65%,4.7,Alistar,6,67%,4.9,Cho'Gath,2,0%,0.8,Kindred,3,67%,8.3,Twisted Fate,2,50%,5.8,Senna,2,50%,5.8,Sett,1,0%,2.0,0
+ESPORTSTMNT03/1751084,Gnar,1,100%,2.2,Udyr,6,67%,6.7,Ryze,3,67%,4.3,Kai'Sa,14,57%,3.2,Alistar,12,75%,3.5,Gangplank,1,0%,7.0,Olaf,23,52%,3.8,Viktor,5,60%,4.6,Xayah,11,45%,3.2,Leona,7,29%,2.3,0
+ESPORTSTMNT05/1822199,Gragas,4,75%,4.4,Kindred,2,100%,3.7,Syndra,9,56%,2.9,Jhin,7,57%,6.3,Alistar,5,60%,2.2,Sett,6,33%,1.9,Lillia,4,25%,1.7,Irelia,2,50%,2.1,Miss Fortune,1,0%,7.0,Rell,0,0,0,0
+ESPORTSTMNT03/1751121,Aatrox,9,22%,2.0,Shyvana,1,100%,5.0,Jayce,1,100%,8.0,Ezreal,3,100%,12.7,Alistar,17,65%,3.4,Sion,1,0%,2.5,Nidalee,9,33%,3.4,Zoe,5,40%,10.8,Kai'Sa,7,43%,3.0,Leona,7,57%,2.2,0
+ESPORTSTMNT03/1751146,Renekton,3,0%,1.5,Nidalee,13,62%,2.7,Viktor,3,0%,0.3,Xayah,14,71%,4.3,Rakan,13,77%,3.5,Gnar,9,33%,4.1,Lillia,8,38%,4.0,Syndra,8,50%,3.9,Draven,10,80%,5.1,Rell,7,57%,2.9,1
+ESPORTSTMNT03/1751159,Gragas,6,50%,5.6,Skarner,3,67%,3.7,Orianna,13,77%,7.5,Aphelios,13,77%,4.3,Thresh,23,48%,3.4,Rumble,1,0%,1.6,Udyr,10,60%,5.7,Yone,1,0%,10.0,Kalista,24,71%,4.7,Blitzcrank,7,57%,4.0,0
+ESPORTSTMNT03/1751168,Renekton,45,49%,3.1,Olaf,21,57%,3.5,Twisted Fate,16,69%,4.3,Ezreal,47,60%,4.6,Nautilus,8,38%,1.7,Quinn,2,0%,2.4,Lillia,8,75%,6.2,Ryze,30,50%,4.7,Kai'Sa,11,64%,4.3,Rell,13,62%,3.0,0
+ESPORTSTMNT05/1822205,Gnar,2,0%,0.7,Taliyah,3,33%,1.6,Ziggs,1,0%,1.0,Samira,5,40%,2.8,Rell,6,17%,1.5,Malphite,5,80%,4.5,Jarvan IV,3,33%,3.0,Azir,3,33%,1.2,Jhin,2,50%,21.0,Gragas,2,50%,3.6,1
+ESPORTSTMNT03/1751207,Gnar,9,67%,3.8,Lillia,10,50%,2.9,Vayne,1,100%,15.0,Seraphine,2,100%,15.0,Senna,2,50%,3.2,Irelia,1,0%,1.5,Udyr,1,0%,1.3,Galio,3,33%,3.5,Xayah,4,25%,3.4,Nautilus,1,0%,1.5,0
+ESPORTSTMNT03/1751228,Gnar,50,60%,3.5,Lillia,7,43%,3.1,Lucian,1,0%,0.6,Ezreal,27,56%,6.4,Seraphine,4,25%,2.8,Gangplank,13,31%,2.2,Kayn,5,40%,2.1,Zoe,6,50%,4.9,Senna,4,75%,5.7,Tahm Kench,20,25%,2.2,1
+ESPORTSTMNT03/1751247,Gragas,7,86%,4.3,Taliyah,9,67%,4.1,Tristana,5,80%,4.5,Samira,2,100%,7.0,Alistar,32,66%,4.1,Aatrox,29,76%,3.7,Graves,12,50%,5.8,Syndra,16,56%,3.7,Kai'Sa,10,30%,2.8,Leona,8,63%,4.9,0
+ESPORTSTMNT03/1751266,Aatrox,17,53%,3.5,Gragas,18,39%,2.6,Zoe,7,57%,4.8,Samira,5,20%,2.0,Leona,8,38%,2.2,Gangplank,25,44%,2.4,Graves,25,44%,3.7,Syndra,16,31%,2.5,Kai'Sa,14,29%,2.5,Galio,7,43%,3.5,0
+NA1/3786268922,Maokai,0,0,0,Hecarim,13,46%,2.4,Tristana,5,40%,2.9,Kai'Sa,20,60%,3.7,Bard,9,67%,4.9,Aatrox,11,73%,3.7,Gragas,2,50%,4.4,Azir,9,33%,3.2,Samira,0,0,0,Alistar,4,25%,1.7,0
+NA1/3786118815,Malphite,5,80%,3.8,Olaf,17,71%,5.2,Viktor,7,57%,5.1,Senna,0,0,0,Tahm Kench,0,0,0,Gragas,14,50%,3.1,Graves,21,48%,2.7,Syndra,7,57%,3.1,Kog'Maw,1,0%,1.5,Lulu,2,0%,1.2,0
+NA1/3786019263,Camille,7,57%,3.3,Graves,11,36%,2.9,Twisted Fate,8,75%,4.3,Ezreal,21,48%,3.5,Braum,16,56%,3.1,Shen,9,33%,2.1,Nocturne,7,71%,4.4,Galio,10,70%,4.1,Kai'Sa,41,59%,4.7,Rakan,7,57%,3.6,1
+NA1/3786388662,Shen,15,53%,4.2,Graves,5,80%,3.9,Zoe,12,67%,6.2,Kai'Sa,38,50%,3.7,Thresh,11,73%,4.7,Renekton,14,57%,2.3,Taliyah,4,25%,2.1,Yone,6,50%,3.1,Xayah,13,46%,4.3,Leona,10,30%,2.2,0
+NA1/3786019565,Aatrox,30,57%,3.3,Lillia,7,71%,4.8,Twisted Fate,4,100%,13.0,Senna,6,67%,3.6,Rell,17,41%,2.3,Ornn,3,67%,5.0,Hecarim,2,50%,1.5,Kassadin,4,25%,3.1,Aphelios,6,50%,2.1,Thresh,11,55%,3.2,0
+NA1/3786119262,Gragas,14,50%,3.1,Graves,21,48%,2.7,Ryze,12,50%,3.5,Kai'Sa,18,67%,6.1,Leona,3,33%,2.3,Malphite,5,80%,3.8,Olaf,17,71%,5.2,Syndra,13,62%,3.4,Samira,0,0,0,Alistar,0,0,0,1
+NA1/3786219122,Aatrox,11,73%,3.7,Lillia,9,56%,3.8,Syndra,24,50%,3.5,Senna,0,0,0,Tahm Kench,2,100%,24.0,Shen,0,0,0,Hecarim,13,46%,2.4,Ekko,12,58%,4.0,Kai'Sa,20,60%,3.7,Blitzcrank,2,0%,1.4,0
+NA1/3786389096,Gangplank,11,18%,1.4,Udyr,2,0%,6.8,Zilean,1,0%,5.5,Kalista,4,25%,4.6,Thresh,8,13%,4.4,Aatrox,11,36%,1.8,Graves,5,80%,3.9,Viktor,7,14%,1.5,Kai'Sa,38,50%,3.7,Alistar,15,53%,3.3,1
+NA1/3786219464,Maokai,0,0,0,Hecarim,13,46%,2.4,Irelia,10,30%,1.6,Vayne,5,100%,3.8,Yuumi,4,50%,4.8,Sylas,6,83%,3.4,Lillia,9,56%,3.8,Tristana,4,50%,4.2,Ezreal,0,0,0,Gragas,5,20%,2.6,0
+ESPORTSTMNT03/1751540,Gangplank,1,100%,5.0,Graves,25,64%,4.6,Ryze,4,50%,2.2,Aphelios,8,50%,5.0,Thresh,62,63%,4.1,Gnar,27,56%,2.9,Lillia,6,17%,2.2,Orianna,8,38%,5.0,Kai'Sa,15,40%,3.4,Nautilus,2,50%,1.8,0
+ESPORTSTMNT06/1570484,Gragas,4,50%,2.1,Graves,4,25%,1.9,Orianna,7,43%,4.2,Senna,4,25%,3.9,Tahm Kench,1,0%,1.0,Sett,7,86%,2.8,Hecarim,9,56%,5.1,Taliyah,3,67%,5.4,Kai'Sa,6,17%,2.4,Rell,3,33%,1.1,1
+ESPORTSTMNT03/1751571,Cho'Gath,1,0%,1.0,Graves,2,0%,1.0,Viktor,2,0%,1.8,Kai'Sa,2,0%,1.6,Leona,5,20%,1.5,Jayce,6,50%,2.6,Jarvan IV,6,67%,4.1,LeBlanc,1,100%,5.5,Aphelios,8,50%,3.4,Thresh,20,70%,3.5,1
+ESPORTSTMNT05/1822210,Ornn,5,40%,3.4,Hecarim,3,33%,2.4,Syndra,4,0%,1.9,Jhin,0,0,0,Thresh,3,33%,2.4,Volibear,6,67%,4.7,Kindred,2,100%,3.7,Orianna,11,73%,12.9,Kai'Sa,14,64%,3.8,Nautilus,12,75%,2.9,1
+ESPORTSTMNT03/1751609,Aatrox,14,57%,4.2,Lillia,2,0%,0.7,Orianna,1,0%,4.0,Sivir,1,0%,2.5,Alistar,4,50%,4.5,Gangplank,23,65%,3.1,Olaf,15,53%,3.2,Ekko,3,100%,2.5,Vayne,4,25%,1.6,Rell,11,55%,3.0,1
+ESPORTSTMNT03/1751616,Gnar,5,80%,3.3,Lillia,5,80%,4.7,Ekko,2,50%,4.0,Varus,2,100%,8.3,Sett,3,67%,3.7,Jayce,1,0%,0.4,Hecarim,0,0,0,Zoe,2,0%,1.8,Senna,3,0%,0.8,Rumble,0,0,0,0
+ESPORTSTMNT06/1570513,Fiora,2,50%,1.8,Kha'Zix,9,44%,3.2,Karma,8,63%,8.2,Kai'Sa,17,65%,4.0,Rakan,11,45%,2.7,Jax,7,43%,1.5,Jarvan IV,10,60%,4.5,Orianna,11,73%,4.1,Vayne,4,25%,3.2,Galio,1,0%,0.5,0
+ESPORTSTMNT05/1822216,Gnar,7,100%,13.5,Hecarim,10,90%,7.8,Viktor,8,75%,5.1,Kai'Sa,20,65%,4.7,Rell,7,86%,4.7,Malphite,5,80%,4.5,Jarvan IV,3,33%,3.0,Orianna,8,38%,2.3,Samira,1,0%,1.5,Gragas,2,50%,3.6,0
+ESPORTSTMNT03/1751632,Malphite,5,40%,1.9,Olaf,4,25%,1.3,Azir,6,17%,1.9,Senna,8,38%,5.9,Galio,6,50%,4.6,Gnar,10,60%,2.9,Lillia,5,60%,3.6,Corki,6,67%,5.1,Aphelios,9,44%,1.9,Thresh,7,43%,2.8,1
+ESPORTSTMNT03/1751635,Gragas,1,0%,0.7,Udyr,1,0%,1.2,Syndra,1,0%,1.0,Xayah,1,0%,1.3,Leona,5,20%,1.5,Gangplank,3,67%,8.5,Lillia,4,25%,2.1,Orianna,0,0,0,Miss Fortune,3,33%,3.1,Alistar,9,56%,5.3,1
+ESPORTSTMNT06/1580414,Aatrox,4,50%,2.2,Hecarim,3,33%,2.1,Syndra,4,0%,1.3,Samira,3,33%,1.8,Rell,2,0%,2.0,Darius,2,50%,3.4,Jarvan IV,1,100%,17.0,Sylas,3,67%,4.3,Miss Fortune,2,50%,3.3,Thresh,8,25%,1.7,1
+ESPORTSTMNT03/1751668,Gnar,27,37%,1.7,Dr. Mundo,2,0%,1.2,Azir,7,43%,1.8,Senna,8,38%,3.2,Rell,4,25%,1.7,Irelia,2,100%,1.9,Udyr,7,71%,5.0,Viktor,12,75%,6.2,Kai'Sa,14,79%,5.8,Alistar,15,73%,4.6,1
+ESPORTSTMNT05/1822229,Gragas,2,50%,2.0,Kha'Zix,2,100%,6.8,Azir,2,50%,2.8,Kai'Sa,5,80%,5.3,Alistar,5,60%,3.4,Pantheon,2,0%,1.9,Lillia,4,25%,1.7,Ekko,3,0%,1.2,Samira,3,0%,2.0,Nautilus,0,0,0,0
+ESPORTSTMNT03/1751697,Lulu,1,0%,2.7,Olaf,2,50%,2.6,Ryze,2,50%,2.2,Xayah,13,46%,4.7,Alistar,9,56%,3.8,Gnar,7,71%,4.5,Graves,15,47%,3.4,Azir,16,56%,6.0,Kai'Sa,28,61%,3.7,Rakan,20,75%,7.4,1
+NA1/3788514526,Volibear,2,100%,15.5,Olaf,16,69%,3.7,Sylas,6,83%,5.5,Miss Fortune,20,65%,3.4,Rell,4,75%,4.4,Aatrox,11,36%,1.8,Hecarim,11,36%,2.5,Zoe,12,67%,6.2,Kai'Sa,38,50%,3.7,Leona,11,27%,2.0,0
+NA1/3788484619,Ornn,0,0,0,Graves,3,33%,1.9,Azir,11,82%,4.5,Senna,4,25%,1.9,Nautilus,9,56%,2.4,Camille,5,60%,2.5,Olaf,13,69%,3.3,Ryze,12,50%,3.5,Miss Fortune,7,43%,2.3,Bard,3,33%,4.3,1
+NA1/3788484944,Sylas,6,83%,2.7,Olaf,13,69%,3.3,Twisted Fate,15,53%,3.2,Kai'Sa,36,58%,5.0,Rell,23,65%,3.9,Cho'Gath,0,0,0,Hecarim,13,46%,2.4,Yone,13,62%,2.9,Xayah,5,60%,3.9,Rakan,9,56%,5.2,0
+NA1/3788514972,Aatrox,11,36%,1.8,Lillia,9,33%,3.1,Viktor,7,14%,1.5,Kai'Sa,38,50%,3.7,Thresh,11,73%,4.7,Volibear,2,100%,15.5,Olaf,16,69%,3.7,Ekko,11,55%,4.1,Miss Fortune,20,65%,3.4,Yuumi,5,40%,3.9,1
+ESPORTSTMNT03/1761928,Renekton,4,75%,7.5,Skarner,2,50%,2.8,Azir,4,50%,2.3,Vayne,1,100%,19.0,Seraphine,1,100%,21.0,Volibear,0,0,0,Udyr,2,0%,2.8,Viktor,1,0%,0.8,Kalista,1,0%,1.2,Leona,5,60%,2.9,0
+ESPORTSTMNT03/1761983,Sion,5,60%,5.3,Udyr,5,60%,5.5,Seraphine,6,50%,4.0,Kai'Sa,10,60%,4.0,Nautilus,1,100%,2.1,Gragas,5,40%,2.3,Trundle,5,20%,2.6,Azir,2,0%,4.7,Ezreal,6,33%,7.7,Karma,2,0%,7.8,0
+ESPORTSTMNT03/1762001,Aatrox,1,0%,0.3,Taliyah,7,71%,8.6,Sett,3,0%,1.3,Kai'Sa,7,29%,1.5,Braum,1,0%,1.0,Jayce,4,50%,3.0,Graves,2,100%,8.5,Syndra,6,50%,2.2,Samira,1,100%,12.0,Rell,7,57%,3.0,1
+ESPORTSTMNT03/1762038,Sion,2,0%,0.2,Udyr,3,0%,2.0,Syndra,9,44%,4.4,Tristana,4,0%,1.0,Alistar,4,50%,2.6,Aatrox,16,56%,3.0,Dr. Mundo,1,100%,11.0,Azir,5,80%,6.3,Kai'Sa,0,0,0,Gragas,4,75%,4.0,1
+ESPORTSTMNT03/1762129,Gragas,4,75%,7.4,Lillia,12,42%,2.9,Lucian,3,67%,3.5,Kai'Sa,17,53%,3.5,Alistar,24,54%,3.3,Gangplank,14,43%,2.4,Hecarim,4,75%,6.3,Azir,2,0%,1.5,Xayah,8,63%,5.2,Rell,3,33%,1.8,0
+ESPORTSTMNT03/1752096,Gragas,4,75%,2.6,Udyr,6,50%,4.5,Orianna,29,69%,7.4,Tristana,19,47%,4.2,Rell,2,100%,3.0,Aatrox,2,0%,2.7,Olaf,3,33%,3.3,Galio,1,0%,5.0,Vayne,1,0%,18.0,Alistar,0,0,0,0
+ESPORTSTMNT06/1580463,Irelia,1,0%,1.6,Lillia,8,63%,4.1,Orianna,10,60%,6.4,Sivir,7,29%,3.9,Rakan,3,67%,5.5,Gnar,0,0,0,Graves,5,40%,3.4,Galio,0,0,0,Aphelios,6,67%,3.8,Thresh,9,67%,2.5,1
+ESPORTSTMNT03/1762174,Renekton,4,75%,2.6,Lillia,6,50%,5.7,Lucian,2,50%,3.0,Jinx,2,100%,4.3,Seraphine,1,100%,6.5,Quinn,1,0%,1.3,Olaf,7,71%,2.9,Ahri,1,0%,0.7,Ezreal,1,0%,0.8,Galio,2,0%,2.3,0
+ESPORTSTMNT03/1762177,Gragas,4,100%,9.0,Graves,13,46%,4.3,Orianna,18,50%,4.3,Samira,2,50%,1.3,Rell,13,77%,2.9,Renekton,4,75%,2.8,Udyr,5,60%,2.9,Viktor,7,29%,3.1,Aphelios,4,50%,3.7,Alistar,9,56%,2.5,0
+ESPORTSTMNT03/1762181,Cho'Gath,2,0%,0.7,Olaf,1,0%,0.7,Cassiopeia,3,33%,8.0,Senna,11,55%,4.1,Tahm Kench,1,0%,0.4,Renekton,18,61%,3.4,Lillia,7,86%,24.5,Zed,17,76%,3.9,Ezreal,12,67%,7.8,Rell,8,63%,2.7,1
+ESPORTSTMNT03/1762195,Gnar,5,40%,4.1,Lillia,2,50%,10.7,Zoe,9,44%,4.2,Senna,1,0%,3.0,Rell,6,33%,2.4,Renekton,5,40%,1.5,Olaf,6,50%,3.2,Viktor,11,36%,3.3,Xayah,2,50%,8.7,Galio,11,73%,4.3,1
+ESPORTSTMNT03/1762225,Camille,4,100%,4.5,Nidalee,2,50%,10.5,Seraphine,2,50%,7.8,Samira,1,100%,6.0,Galio,5,60%,4.1,Gragas,2,0%,1.4,Lillia,5,40%,1.6,Tristana,3,33%,1.9,Xayah,9,56%,2.9,Alistar,4,25%,1.5,0
+ESPORTSTMNT03/1762228,Cho'Gath,1,0%,1.0,Kayn,6,50%,2.8,Viktor,2,0%,0.8,Kai'Sa,3,67%,3.3,Bard,3,67%,3.3,Karma,1,100%,12.0,Udyr,1,100%,3.0,Ekko,7,43%,3.8,Kalista,3,67%,5.0,Alistar,3,33%,2.0,1
+ESPORTSTMNT06/1580485,Ornn,4,75%,10.4,Hecarim,5,20%,1.4,Twisted Fate,2,50%,2.5,Senna,1,0%,3.3,Seraphine,2,0%,2.8,Nasus,1,100%,3.7,Skarner,6,67%,3.5,Sylas,5,60%,5.2,Kai'Sa,18,44%,3.1,Thresh,21,62%,3.1,1
+ESPORTSTMNT03/1762278,Renekton,8,63%,2.0,Udyr,1,100%,4.5,Orianna,21,71%,5.6,Kai'Sa,10,30%,3.3,Thresh,18,44%,2.8,Gnar,16,13%,1.6,Jarvan IV,2,0%,3.8,Azir,5,20%,3.0,Xayah,3,33%,3.1,Rell,3,33%,2.9,0
+ESPORTSTMNT03/1752232,Renekton,6,50%,2.3,Udyr,0,0,0,Syndra,7,71%,6.4,Kai'Sa,12,33%,4.0,Thresh,8,63%,3.9,Quinn,1,0%,0.5,Pantheon,2,50%,2.9,Orianna,4,25%,3.0,Aphelios,9,56%,3.2,Leona,3,33%,2.4,0
+ESPORTSTMNT06/1580497,Irelia,4,25%,1.3,Lillia,7,57%,2.7,Viktor,3,33%,1.9,Senna,5,60%,4.9,Gragas,5,60%,3.0,Gnar,14,57%,3.0,Nidalee,8,88%,10.8,Azir,15,33%,2.2,Jhin,3,67%,12.5,Rell,12,75%,3.5,1
+ESPORTSTMNT03/1762333,Gnar,4,50%,2.9,Graves,10,80%,6.3,Ryze,11,45%,4.8,Kai'Sa,12,67%,5.0,Rell,3,100%,1.8,Fiora,6,50%,2.1,Hecarim,4,0%,1.6,Ekko,10,30%,3.2,Senna,4,25%,2.8,Zilean,1,0%,1.2,0
+ESPORTSTMNT03/1762338,Ornn,8,38%,4.4,Lillia,4,50%,7.0,Yone,2,50%,4.0,Kai'Sa,9,33%,3.2,Nautilus,3,33%,4.7,Sett,1,0%,0.4,Udyr,2,0%,2.0,Orianna,0,0,0,Xayah,4,25%,1.8,Alistar,2,0%,0.6,0
+ESPORTSTMNT03/1752298,Camille,1,100%,3.3,Nidalee,5,40%,3.3,Galio,1,100%,13.0,Xayah,3,33%,4.7,Sett,2,50%,4.3,Mordekaiser,1,0%,1.3,Udyr,5,20%,2.3,Azir,3,67%,3.5,Kai'Sa,7,43%,4.1,Lulu,1,0%,2.0,0
+ESPORTSTMNT06/1580513,Camille,0,0,0,Skarner,1,0%,8.0,Ekko,3,0%,1.1,Kai'Sa,3,0%,2.1,Rell,5,0%,1.5,Volibear,3,67%,5.0,Trundle,4,75%,4.5,Azir,7,57%,3.9,Jhin,3,100%,10.0,Gragas,3,100%,7.0,1
+ESPORTSTMNT03/1752338,Gnar,7,29%,2.5,Olaf,4,75%,2.6,Ryze,1,100%,2.5,Xayah,3,67%,5.6,Rakan,0,0,0,Renekton,3,0%,1.6,Lillia,3,33%,2.3,Viktor,1,0%,6.0,Kai'Sa,8,13%,2.5,Leona,10,80%,3.2,0
+ESPORTSTMNT03/1752397,Ornn,3,33%,3.4,Lillia,4,75%,3.9,Syndra,15,60%,3.2,Kai'Sa,12,58%,4.0,Gragas,2,0%,1.7,Gnar,5,100%,6.3,Udyr,7,71%,6.1,Orianna,13,46%,4.0,Xayah,1,100%,4.8,Rell,7,71%,3.1,1
+NA1/3790760786,Kalista,2,100%,10.0,Nidalee,22,68%,8.8,Twisted Fate,16,88%,4.4,Senna,15,93%,7.8,Tahm Kench,26,54%,2.5,Gnar,34,68%,3.5,Hecarim,14,57%,3.5,Orianna,19,42%,3.0,Ezreal,34,53%,3.7,Bard,3,33%,4.3,0
+NA1/3790820598,Renekton,24,71%,2.6,Olaf,21,81%,4.8,Orianna,48,65%,4.9,Xayah,36,53%,5.0,Galio,29,69%,5.2,Aatrox,7,29%,1.7,Kayn,4,50%,2.8,Ekko,11,55%,4.1,Kai'Sa,16,56%,4.2,Leona,16,69%,2.9,0
+NA1/3790950220,Shen,13,77%,4.3,Olaf,17,71%,5.2,Syndra,13,62%,3.4,Kai'Sa,0,0,0,Bard,0,0,0,Camille,11,55%,2.5,Graves,17,41%,3.2,Ryze,27,44%,3.5,Xayah,9,44%,3.5,Alistar,8,50%,3.4,0
+NA1/3790761180,Gnar,23,74%,4.1,Nidalee,22,68%,8.8,Zoe,23,83%,5.3,Aphelios,24,71%,4.2,Thresh,37,41%,2.5,Jayce,4,25%,1.5,Olaf,13,69%,3.3,Ryze,12,50%,3.5,Twitch,2,50%,3.4,Yuumi,1,100%,6.7,1
+NA1/3790950720,Camille,11,55%,2.5,Lillia,15,53%,4.2,Corki,10,30%,2.4,Senna,10,50%,5.0,Maokai,11,64%,3.6,Shen,13,77%,4.3,Hecarim,12,50%,3.5,Viktor,7,57%,5.1,Kai'Sa,0,0,0,Bard,0,0,0,1
+NA1/3790990739,Renekton,24,71%,2.6,Olaf,21,81%,4.8,Orianna,48,65%,4.9,Xayah,36,53%,5.0,Galio,16,69%,7.0,Camille,7,57%,3.3,Rengar,5,60%,2.5,Ekko,11,55%,4.1,Kai'Sa,16,56%,4.2,Leona,16,69%,2.9,0
+NA1/3790761638,Gnar,23,74%,4.1,Olaf,28,71%,4.5,Zoe,23,83%,5.3,Aphelios,24,71%,4.2,Thresh,37,41%,2.5,Gragas,14,50%,3.1,Lillia,22,64%,3.9,Tristana,1,0%,1.0,Miss Fortune,7,43%,2.3,Alistar,11,55%,5.5,0
+ESPORTSTMNT03/1752558,Gnar,12,42%,2.0,Lillia,10,40%,2.7,Viktor,16,38%,4.2,Aphelios,20,40%,2.9,Thresh,30,50%,2.7,Gangplank,26,77%,3.8,Kayn,5,60%,2.1,Syndra,54,70%,5.0,Kai'Sa,35,77%,5.3,Jarvan IV,1,0%,1.2,0
+ESPORTSTMNT03/1752579,Ornn,5,100%,7.0,Kayn,5,60%,2.1,Syndra,54,70%,5.0,Kalista,32,56%,4.0,Rell,8,100%,3.9,Camille,12,67%,3.5,Lillia,10,40%,2.7,Viktor,16,38%,4.2,Samira,14,57%,3.7,Alistar,37,46%,2.2,0
+ESPORTSTMNT03/1752582,Jayce,12,50%,2.1,Lillia,10,40%,2.7,Viktor,16,38%,4.2,Samira,14,57%,3.7,Rell,12,42%,2.2,Wukong,6,33%,2.6,Nidalee,23,83%,6.1,Syndra,54,70%,5.0,Kai'Sa,35,77%,5.3,Alistar,32,75%,3.6,1
+ESPORTSTMNT03/1752600,Pantheon,1,100%,1.6,Udyr,5,40%,4.8,Zoe,31,52%,3.9,Tristana,9,44%,4.6,Alistar,11,45%,2.9,Camille,7,57%,3.1,Olaf,18,39%,2.3,Twisted Fate,5,40%,4.5,Kai'Sa,23,22%,2.3,Rell,5,60%,2.5,0
+ESPORTSTMNT03/1752678,Gangplank,4,0%,1.3,Udyr,11,45%,3.2,Azir,31,45%,3.5,Kai'Sa,23,22%,2.3,Alistar,33,45%,3.0,Gnar,11,27%,2.1,Lillia,11,27%,2.7,Orianna,20,45%,4.5,Kalista,11,36%,3.0,Rakan,7,57%,4.2,1
+ESPORTSTMNT03/1752738,Gangplank,15,53%,3.6,Lillia,8,25%,2.3,Viktor,15,47%,3.2,Vayne,8,63%,3.6,Rell,6,33%,1.5,Urgot,3,33%,4.3,Udyr,3,67%,5.8,Azir,6,50%,4.3,Jhin,3,67%,6.2,Alistar,0,0,0,1
+ESPORTSTMNT06/1580539,Karma,15,60%,2.8,Garen,9,78%,4.3,Orianna,8,50%,3.8,Aphelios,6,67%,5.5,Thresh,18,83%,5.4,Aatrox,1,0%,1.0,Graves,4,50%,2.3,Azir,2,0%,1.0,Kai'Sa,6,17%,1.9,Lulu,1,0%,0.7,0
+ESPORTSTMNT06/1580551,Camille,2,0%,1.8,Kha'Zix,4,25%,4.2,Sylas,7,43%,2.2,Kai'Sa,6,17%,1.9,Rell,1,0%,0.8,Renekton,14,71%,3.2,Lillia,3,67%,4.9,Cassiopeia,5,20%,2.0,Miss Fortune,11,91%,6.2,Alistar,7,71%,3.3,1
+ESPORTSTMNT03/1752809,Ornn,4,25%,1.6,Graves,4,50%,2.5,Azir,4,25%,2.1,Kai'Sa,8,50%,4.4,Alistar,4,25%,1.5,Sylas,2,0%,1.8,Olaf,6,33%,2.9,Seraphine,4,50%,3.4,Senna,9,44%,4.8,Nautilus,33,61%,4.1,0
+ESPORTSTMNT06/1570653,Gragas,3,67%,1.6,Graves,12,33%,3.0,Seraphine,1,100%,21.0,Xayah,6,33%,2.4,Alistar,2,50%,5.4,Renekton,9,33%,2.2,Lillia,6,50%,2.9,Yone,2,50%,3.2,Ezreal,14,50%,4.6,Rell,6,33%,3.2,0
+ESPORTSTMNT06/1580563,Volibear,6,67%,3.9,Jarvan IV,6,50%,2.6,Viktor,4,100%,6.5,Kai'Sa,11,45%,3.0,Leona,6,67%,2.4,Fiora,6,67%,2.7,Lillia,1,0%,2.3,Lucian,8,88%,4.2,Senna,12,58%,4.4,Alistar,7,14%,2.4,0
+ESPORTSTMNT03/1752834,Camille,5,80%,2.6,Lillia,7,29%,4.9,Orianna,6,67%,8.0,Tahm Kench,1,100%,10.0,Senna,1,100%,11.0,Ornn,7,0%,1.2,Nidalee,2,50%,10.5,Viktor,3,33%,6.0,Kai'Sa,8,50%,2.9,Rell,4,0%,1.1,0
+ESPORTSTMNT06/1580567,Sett,12,75%,2.6,Udyr,2,50%,4.5,Twisted Fate,2,50%,3.4,Ezreal,14,50%,3.4,Rell,6,17%,1.4,Gnar,2,50%,3.6,Skarner,6,67%,3.8,Corki,14,50%,6.4,Senna,3,67%,6.3,Tahm Kench,8,75%,5.6,1
+ESPORTSTMNT03/1752849,Aatrox,7,29%,1.5,Skarner,4,0%,1.1,Orianna,5,60%,3.7,Senna,7,14%,3.4,Tahm Kench,1,0%,3.0,Pantheon,5,80%,2.2,Graves,12,50%,5.5,Azir,8,100%,6.1,Ashe,6,33%,2.8,Karma,5,60%,3.7,1
+ESPORTSTMNT03/1762813,Gnar,16,13%,1.6,Udyr,2,0%,1.2,Orianna,12,58%,3.8,Sivir,3,0%,2.5,Rell,3,33%,2.9,Jayce,9,78%,3.7,Nocturne,11,64%,3.2,Sylas,9,44%,3.1,Samira,3,67%,5.0,Gragas,4,100%,13.0,1
+ESPORTSTMNT03/1762819,Volibear,2,100%,14.0,Hecarim,4,100%,10.8,Orianna,3,67%,2.0,Xayah,10,60%,4.6,Leona,1,100%,6.0,Gnar,6,50%,3.2,Olaf,5,80%,7.4,Viktor,1,0%,0.7,Kai'Sa,5,40%,2.4,Rakan,10,60%,5.3,0
+ESPORTSTMNT06/1580574,Neeko,2,50%,1.3,Evelynn,1,0%,8.0,Irelia,1,0%,1.2,Aphelios,3,67%,4.2,Thresh,21,48%,3.2,Cho'Gath,2,50%,3.9,Graves,12,58%,6.1,Karma,8,63%,8.2,Ezreal,22,77%,6.7,Blitzcrank,5,80%,2.8,1
+ESPORTSTMNT03/1752944,Ornn,12,75%,4.3,Hecarim,5,20%,3.3,Cassiopeia,8,13%,3.8,Senna,8,50%,4.9,Tahm Kench,7,29%,2.7,Gnar,4,25%,4.1,Lillia,0,0,0,Azir,9,44%,2.5,Aphelios,3,67%,3.6,Thresh,0,0,0,1
+EUW1/5100138889,Gnar,2,50%,5.2,Hecarim,5,40%,4.4,Orianna,3,33%,5.3,Kai'Sa,3,0%,4.6,Nautilus,2,50%,7.2,Fiora,0,0,0,Gragas,2,50%,2.2,Azir,10,20%,1.9,Aphelios,0,0,0,Thresh,8,13%,1.3,1
+ESPORTSTMNT06/1580575,Renekton,7,29%,1.9,Hecarim,17,47%,3.2,Zoe,6,50%,6.5,Kalista,22,59%,3.8,Rell,16,56%,2.6,Aatrox,5,40%,4.8,Skarner,24,83%,3.9,Ryze,21,71%,5.5,Kai'Sa,22,73%,4.7,Galio,8,75%,6.3,1
+ESPORTSTMNT03/1762891,Ornn,13,54%,3.6,Lillia,5,20%,3.7,Lucian,3,33%,5.0,Jhin,6,67%,6.4,Rell,3,33%,1.5,Sion,4,25%,1.3,Hecarim,4,75%,6.3,Zoe,5,60%,3.8,Kai'Sa,25,72%,4.9,Sett,2,50%,2.8,1
+ESPORTSTMNT06/1580577,Sett,7,86%,2.8,Udyr,6,17%,1.8,Vladimir,9,78%,5.3,Aphelios,2,50%,4.1,Thresh,36,67%,3.6,Gnar,10,70%,4.4,Lillia,6,83%,5.3,Syndra,10,80%,3.9,Kai'Sa,16,63%,3.8,Blitzcrank,2,50%,3.8,1
+ESPORTSTMNT03/1762926,Gnar,3,33%,2.6,Olaf,5,20%,1.8,Syndra,8,25%,4.9,Xayah,7,43%,2.7,Nautilus,5,20%,1.1,Gragas,2,50%,2.4,Lillia,3,33%,2.3,Azir,5,40%,3.1,Kai'Sa,8,13%,2.5,Leona,10,80%,3.2,1
+ESPORTSTMNT03/1762933,Gragas,5,80%,7.7,Lillia,11,82%,5.5,Yone,2,100%,10.5,Kai'Sa,3,100%,10.3,Alistar,6,83%,9.2,Garen,1,0%,1.0,Skarner,2,0%,1.5,Azir,5,20%,2.8,Xayah,3,0%,1.0,Braum,1,0%,2.3,0
+ESPORTSTMNT03/1762934,Renekton,18,61%,3.4,Lillia,7,86%,24.5,Irelia,26,73%,3.0,Ezreal,12,67%,7.8,Braum,12,67%,4.4,Gnar,1,0%,1.0,Nidalee,2,50%,6.8,Sett,0,0,0,Vayne,1,0%,1.3,Alistar,2,0%,0.6,0
+ESPORTSTMNT03/1752994,Camille,6,50%,2.1,Lillia,7,43%,2.6,Galio,7,29%,5.7,Aphelios,11,73%,4.8,Alistar,9,22%,2.1,Renekton,15,33%,1.7,Olaf,5,60%,3.1,Orianna,7,57%,5.0,Xayah,8,63%,6.3,Rell,7,57%,1.7,1
+ESPORTSTMNT06/1580588,Renekton,7,57%,3.4,Udyr,3,67%,7.0,Azir,10,60%,3.9,Ashe,6,50%,5.3,Sett,2,50%,2.0,Gnar,8,38%,1.7,Lillia,4,50%,3.5,Corki,6,67%,4.4,Senna,4,75%,6.3,Gragas,7,57%,3.7,0
+ESPORTSTMNT03/1762980,Gragas,2,50%,1.5,Hecarim,3,33%,2.6,Syndra,3,33%,1.5,Samira,3,33%,5.2,Rell,3,33%,2.6,Camille,14,36%,2.1,Lillia,2,50%,2.9,Jayce,2,50%,2.3,Kai'Sa,18,39%,3.4,Leona,5,20%,0.9,0
+ESPORTSTMNT03/1753038,Cho'Gath,1,0%,2.0,Udyr,3,0%,1.6,Syndra,0,0,0,Senna,5,40%,9.4,Tahm Kench,6,33%,2.7,Karma,1,100%,4.0,Sejuani,3,67%,6.6,Azir,14,64%,4.2,Jinx,6,17%,2.9,Thresh,15,73%,4.1,1
+ESPORTSTMNT03/1753050,Gragas,5,0%,2.1,Lillia,8,63%,3.0,Lucian,2,0%,1.6,Ezreal,12,50%,3.6,Karma,7,57%,8.5,Renekton,4,50%,3.7,Udyr,8,63%,4.5,Annie,10,40%,3.6,Senna,4,50%,5.3,Leona,18,83%,4.6,1
+ESPORTSTMNT06/1580591,Renekton,1,0%,0.8,Lillia,5,40%,2.6,Vel'Koz,3,33%,2.8,Senna,5,20%,3.6,Tahm Kench,6,67%,5.4,Aatrox,11,82%,5.4,Udyr,12,42%,3.8,Azir,4,50%,4.1,Aphelios,22,82%,6.7,Seraphine,1,100%,18.0,1
+ESPORTSTMNT03/1762990,Ornn,2,100%,8.0,Dr. Mundo,2,100%,14.0,Azir,5,80%,15.8,Ashe,4,100%,9.2,Seraphine,2,50%,4.7,Camille,1,0%,0.3,Udyr,1,0%,1.0,Syndra,4,50%,2.2,Jhin,2,0%,2.8,Alistar,2,50%,3.5,0
+ESPORTSTMNT03/1762992,Gnar,9,78%,3.7,Udyr,12,50%,5.3,Orianna,0,0,0,Ezreal,19,58%,4.1,Rakan,17,65%,3.3,Aatrox,3,33%,3.7,Graves,3,33%,4.0,Azir,8,38%,3.8,Karma,3,33%,8.3,Leona,10,50%,2.7,0
+ESPORTSTMNT06/1570675,Ornn,3,0%,1.8,Udyr,3,33%,3.6,Azir,1,0%,2.7,Aphelios,7,43%,2.7,Alistar,7,29%,2.2,Gnar,10,70%,3.2,Lillia,6,67%,8.9,Orianna,8,38%,1.9,Jhin,5,40%,3.7,Gragas,6,67%,3.5,1
+ESPORTSTMNT03/1763022,Renekton,18,33%,3.1,Lillia,4,75%,9.0,Irelia,12,50%,3.5,Senna,4,25%,4.1,Tahm Kench,16,44%,2.9,Volibear,2,50%,2.7,Nidalee,31,71%,6.3,Azir,5,40%,3.2,Ezreal,29,31%,4.6,Braum,6,33%,2.4,0
+ESPORTSTMNT03/1763121,Sion,4,50%,3.8,Olaf,4,50%,2.6,Twisted Fate,3,33%,4.2,Kalista,4,75%,4.0,Gragas,2,0%,1.7,Sylas,3,33%,1.7,Graves,11,64%,3.0,Cassiopeia,3,100%,7.2,Kai'Sa,4,75%,5.0,Rell,8,50%,2.3,1
+ESPORTSTMNT03/1763126,Gragas,8,75%,4.2,Kha'Zix,1,100%,3.2,Azir,32,53%,3.4,Miss Fortune,8,50%,4.0,Rell,8,50%,2.8,Gangplank,43,70%,5.2,Taliyah,5,0%,1.7,Twisted Fate,15,53%,3.2,Kai'Sa,36,58%,5.0,Alistar,11,55%,5.5,0
+ESPORTSTMNT03/1763131,Aatrox,10,70%,3.2,Olaf,8,75%,7.1,Zoe,15,40%,4.2,Kai'Sa,27,74%,6.8,Rell,5,60%,3.1,Ornn,2,0%,1.0,Lillia,4,25%,1.9,Azir,1,0%,0.4,Aphelios,3,33%,2.0,Karma,4,25%,2.9,0
+ESPORTSTMNT03/1753217,Irelia,2,100%,3.0,Udyr,0,0,0,Orianna,5,80%,10.0,Jhin,2,100%,29.0,Thresh,8,63%,3.9,Gnar,7,29%,2.5,Hecarim,5,20%,2.7,Seraphine,1,0%,5.0,Aphelios,3,33%,2.3,Nautilus,0,0,0,0
+ESPORTSTMNT03/1763196,Sion,13,77%,6.8,Kindred,8,63%,2.3,Galio,5,80%,8.0,Senna,2,50%,7.3,Gragas,3,67%,4.2,Neeko,2,50%,0.9,Skarner,8,63%,3.8,Tristana,2,0%,1.8,Aphelios,13,54%,2.3,Thresh,13,77%,5.5,0
+ESPORTSTMNT03/1763219,Riven,10,60%,2.4,Olaf,5,60%,2.4,Azir,32,53%,3.2,Kalista,3,33%,1.7,Thresh,19,63%,4.6,Camille,10,70%,3.9,Lillia,6,33%,3.2,Lucian,6,67%,3.5,Kai'Sa,36,53%,4.5,Rell,5,20%,1.5,0
+ESPORTSTMNT03/1763332,Gragas,14,36%,2.6,Lillia,10,20%,2.9,Sett,3,67%,4.6,Samira,10,20%,3.0,Rell,14,43%,2.6,Renekton,0,0,0,Skarner,2,50%,1.4,Azir,22,64%,3.2,Aphelios,20,60%,5.2,Thresh,5,60%,2.0,0
+ESPORTSTMNT03/1763351,Gragas,8,38%,3.6,Taliyah,3,100%,5.4,Renekton,5,80%,5.3,Kai'Sa,47,62%,4.2,Galio,4,50%,2.5,Sion,7,43%,3.4,Lillia,10,20%,2.9,Sett,3,67%,4.6,Samira,12,33%,3.2,Alistar,18,33%,2.9,0
+ESPORTSTMNT03/1763358,Gragas,14,36%,2.6,Trundle,30,43%,3.4,Syndra,12,58%,2.1,Samira,12,33%,3.2,Rell,14,43%,2.6,Renekton,37,76%,5.0,Skarner,2,50%,1.4,Viktor,10,40%,4.4,Kai'Sa,47,62%,4.2,Alistar,7,86%,3.8,1
+ESPORTSTMNT03/1763374,Mordekaiser,11,73%,3.0,Graves,9,33%,2.4,Viktor,26,62%,4.7,Xayah,34,62%,6.3,Rell,7,43%,2.2,Renekton,26,77%,4.2,Nidalee,30,60%,4.9,Azir,14,71%,4.8,Kai'Sa,40,50%,4.3,Leona,13,69%,2.7,1
+ESPORTSTMNT03/1763434,Renekton,26,77%,4.2,Nidalee,30,60%,4.9,Azir,85,61%,4.6,Ezreal,2,50%,1.6,Galio,11,64%,2.7,Quinn,5,40%,2.3,Lillia,7,43%,4.4,Sett,5,20%,2.0,Kai'Sa,24,25%,3.2,Gragas,8,0%,1.3,0
+ESPORTSTMNT06/1580623,Renekton,16,38%,2.7,Lillia,5,60%,3.0,Akali,1,100%,2.8,Aphelios,5,60%,3.6,Thresh,17,76%,4.1,Ornn,0,0,0,Taliyah,3,33%,6.4,Irelia,1,0%,3.0,Xayah,4,50%,4.9,Rakan,1,0%,3.8,0
+ESPORTSTMNT06/1570713,Ornn,10,40%,2.9,Graves,11,73%,5.0,Syndra,10,80%,3.9,Kai'Sa,16,63%,3.8,Nautilus,23,52%,2.7,Fiora,8,38%,2.5,Kha'Zix,9,44%,3.2,Azir,15,33%,2.3,Sivir,7,71%,4.6,Rell,3,67%,3.9,0
+ESPORTSTMNT03/1763568,Cho'Gath,9,44%,2.6,Olaf,4,25%,1.3,Viktor,9,33%,4.3,Senna,8,38%,5.9,Tahm Kench,4,75%,4.6,Volibear,3,67%,3.8,Lillia,1,0%,1.0,Azir,7,43%,1.8,Aphelios,11,36%,5.8,Thresh,31,61%,4.9,0
+ESPORTSTMNT03/1753566,Gragas,2,50%,3.2,Ivern,2,50%,21.0,Yone,5,20%,2.3,Ashe,1,0%,1.7,Lulu,2,0%,2.7,Gnar,9,33%,4.1,Graves,5,20%,3.3,Syndra,8,50%,3.9,Senna,7,29%,3.6,Braum,1,100%,5.0,1
+ESPORTSTMNT06/1580691,Gangplank,1,0%,8.0,Graves,4,50%,2.3,Twisted Fate,5,20%,3.3,Senna,3,0%,1.1,Galio,3,33%,1.6,Volibear,9,56%,3.2,Kha'Zix,6,83%,4.8,Kassadin,9,78%,6.3,Kai'Sa,11,45%,3.0,Leona,6,67%,2.4,1
+ESPORTSTMNT06/1580700,Yone,1,100%,2.7,Nidalee,8,88%,10.8,Ryze,19,74%,4.9,Kai'Sa,24,67%,4.6,Leona,3,33%,2.5,Gnar,0,0,0,Graves,9,56%,4.4,Kassadin,0,0,0,Senna,4,0%,4.0,Galio,1,0%,3.0,0
+ESPORTSTMNT03/1753659,Renekton,2,50%,2.3,Lillia,0,0,0,Azir,9,44%,2.5,Kai'Sa,18,44%,3.6,Taric,0,0,0,Gangplank,2,50%,1.9,Olaf,16,38%,2.4,Ryze,11,27%,2.0,Vayne,4,25%,2.1,Rell,5,0%,1.9,0
+ESPORTSTMNT03/1763630,Gnar,6,33%,1.6,Nidalee,6,33%,4.4,Ryze,8,38%,2.6,Vayne,4,25%,1.6,Rell,11,55%,3.0,Malphite,1,100%,15.0,Hecarim,10,80%,8.2,Viktor,12,75%,6.2,Senna,7,57%,5.2,Alistar,15,73%,4.6,1
+ESPORTSTMNT06/1570780,Volibear,3,33%,1.6,Olaf,3,100%,10.0,Azir,3,33%,2.9,Kai'Sa,3,67%,3.7,Blitzcrank,2,100%,4.8,Aatrox,5,40%,2.7,Jarvan IV,1,0%,1.4,Viktor,3,0%,1.0,Aphelios,15,27%,2.2,Thresh,12,42%,2.6,0
+ESPORTSTMNT06/1580736,Ornn,15,67%,5.7,Olaf,21,57%,3.2,Lucian,3,67%,3.5,Jhin,7,43%,5.8,Gragas,3,100%,3.3,Malphite,2,50%,9.0,Graves,2,50%,19.0,Orianna,12,58%,3.8,Sivir,3,0%,2.5,Alistar,2,50%,1.6,0
+ESPORTSTMNT06/1580747,Malphite,2,50%,2.5,Olaf,4,75%,3.1,Orianna,20,65%,3.9,Kai'Sa,19,47%,3.7,Nautilus,4,75%,2.3,Sylas,2,0%,2.0,Udyr,6,17%,1.8,Taliyah,19,68%,3.4,Xayah,6,50%,3.7,Alistar,12,50%,3.6,0
+ESPORTSTMNT03/1753744,Gnar,5,100%,8.8,Udyr,8,63%,4.5,Corki,14,64%,7.1,Aphelios,8,38%,2.8,Thresh,15,53%,3.0,Volibear,4,50%,3.4,Lillia,7,43%,2.6,Xerath,6,50%,7.5,Kai'Sa,10,80%,5.8,Nautilus,9,44%,2.2,0
+ESPORTSTMNT06/1580758,Trundle,1,100%,5.0,Skarner,5,80%,6.6,Azir,7,57%,3.9,Senna,7,71%,4.4,Tahm Kench,7,71%,4.1,Gragas,3,67%,1.6,Kayn,1,0%,1.7,Syndra,10,40%,2.9,Ezreal,3,0%,1.6,Thresh,5,40%,2.5,0
+ESPORTSTMNT06/1580778,Gnar,10,20%,1.9,Garen,9,78%,4.3,Viktor,9,67%,3.7,Vayne,3,67%,3.7,Gragas,7,43%,1.7,Lulu,1,0%,1.4,Hecarim,1,0%,1.6,Ryze,5,40%,2.5,Kai'Sa,2,50%,4.2,Leona,16,31%,2.6,0
+ESPORTSTMNT06/1580779,Gnar,12,50%,2.4,Taliyah,5,60%,4.2,Jayce,4,50%,4.7,Jhin,5,40%,4.1,Alistar,7,29%,2.8,Sett,9,56%,2.9,Ekko,1,100%,5.0,Irelia,26,73%,3.0,Ezreal,12,67%,7.8,Rell,8,63%,2.7,1
+ESPORTSTMNT06/1580789,Gragas,2,50%,1.2,Graves,12,50%,2.3,Kassadin,15,53%,4.7,Kai'Sa,14,50%,4.6,Alistar,5,40%,2.1,Aatrox,5,40%,4.8,Lillia,9,67%,5.0,Orianna,11,64%,7.4,Jhin,3,33%,3.9,Sett,7,57%,3.1,0
+ESPORTSTMNT03/1763801,Volibear,2,0%,0.8,Hecarim,4,25%,2.8,Azir,7,29%,3.8,Ezreal,4,25%,3.3,Leona,2,50%,3.2,Camille,7,57%,1.6,Udyr,4,50%,7.6,Ekko,9,44%,3.7,Xayah,20,65%,5.7,Rakan,2,50%,4.6,1
+ESPORTSTMNT03/1753864,Ornn,6,50%,5.8,Nocturne,2,50%,3.8,Orianna,4,25%,1.6,Kai'Sa,9,33%,3.2,Alistar,7,29%,2.1,Gnar,7,86%,5.7,Lillia,0,0,0,Ekko,5,100%,7.6,Xayah,4,100%,9.4,Rell,10,60%,3.5,1
+ESPORTSTMNT03/1753884,Gangplank,32,63%,5.2,Olaf,14,57%,3.3,Azir,20,55%,4.3,Seraphine,2,50%,2.7,Alistar,13,31%,2.5,Ryze,5,80%,6.1,Udyr,7,86%,12.0,Tristana,5,100%,6.5,Samira,2,50%,4.0,Rell,3,67%,2.8,1
+ESPORTSTMNT06/1580800,Gangplank,10,40%,2.2,Lillia,5,20%,2.0,Karma,9,22%,2.6,Aphelios,5,60%,3.5,Braum,2,0%,2.1,Renekton,9,33%,2.2,Nidalee,11,73%,4.4,Lucian,4,75%,6.0,Kai'Sa,12,50%,4.7,Leona,7,57%,2.9,1
+ESPORTSTMNT03/1753915,Renekton,8,63%,2.0,Taliyah,8,63%,4.0,Azir,8,38%,2.0,Aphelios,2,50%,3.7,Thresh,18,44%,2.8,Gragas,2,50%,1.5,Lillia,3,0%,1.3,Lucian,0,0,0,Miss Fortune,1,0%,0.8,Nautilus,2,50%,2.7,0
+ESPORTSTMNT03/1763849,Gragas,3,67%,3.8,Taliyah,4,100%,4.9,Twisted Fate,10,60%,4.1,Kai'Sa,13,54%,5.8,Rakan,6,83%,9.1,Renekton,6,83%,9.3,Lillia,1,0%,1.8,Akali,2,50%,2.2,Kalista,6,17%,2.5,Rell,9,44%,2.0,0
+ESPORTSTMNT06/1580803,Camille,10,80%,3.2,Lillia,4,50%,3.5,Jayce,8,75%,3.9,Seraphine,2,50%,5.0,Leona,14,86%,3.7,Volibear,1,0%,0.4,Rek'Sai,8,50%,3.5,Zoe,24,42%,4.6,Miss Fortune,16,44%,3.1,Nautilus,17,35%,1.8,0
+ESPORTSTMNT03/1763858,Gnar,5,20%,1.9,Skarner,12,67%,5.4,Azir,16,50%,3.5,Samira,2,100%,19.0,Rell,3,67%,3.8,Ivern,1,0%,0.5,Lillia,5,60%,3.6,Yone,1,0%,1.5,Ashe,2,0%,2.3,Braum,7,29%,1.4,0
+ESPORTSTMNT03/1763883,Ornn,1,0%,1.8,Nocturne,1,0%,0.6,Azir,14,64%,4.2,Jinx,6,17%,2.9,Thresh,15,73%,4.1,Aatrox,16,63%,3.8,Lillia,8,100%,8.5,Tristana,5,60%,5.3,Senna,6,17%,3.2,Tahm Kench,7,43%,3.9,1
+ESPORTSTMNT06/1580808,Renekton,7,57%,3.4,Udyr,3,67%,7.0,Orianna,20,60%,5.7,Aphelios,6,67%,4.4,Thresh,18,50%,3.2,Gnar,1,0%,1.0,Olaf,11,27%,2.2,Viktor,12,25%,2.4,Miss Fortune,3,67%,13.3,Rell,6,17%,1.3,0
+ESPORTSTMNT03/1763993,Gragas,5,60%,2.0,Lillia,1,100%,14.0,Lucian,4,75%,2.9,Kai'Sa,3,67%,2.7,Rakan,0,0,0,Volibear,5,40%,1.5,Hecarim,3,33%,1.2,Viktor,0,0,0,Sivir,1,0%,1.0,Rell,5,20%,1.6,0
+NA1/3793263834,Wukong,4,25%,3.3,Kayn,8,63%,3.1,Orianna,3,67%,1.9,Senna,2,50%,4.1,Tahm Kench,1,0%,0.9,Volibear,2,50%,2.7,Graves,4,75%,8.1,Azir,0,0,0,Brand,1,100%,2.4,Thresh,2,50%,3.7,1
+NA1/3793294391,Aatrox,6,50%,2.2,Udyr,2,100%,5.0,Syndra,8,63%,2.6,Kai'Sa,7,57%,3.9,Thresh,11,55%,3.1,Volibear,2,50%,2.7,Shen,1,0%,1.0,Ziggs,1,0%,2.3,Lucian,1,0%,1.3,Blitzcrank,1,0%,0.6,0
+NA1/3793024841,Renekton,2,0%,1.4,Skarner,9,56%,3.6,Tristana,6,67%,11.8,Heimerdinger,1,0%,2.3,Thresh,2,50%,3.7,Wukong,4,25%,3.3,Udyr,2,100%,5.0,Ahri,1,100%,7.0,Veigar,1,100%,5.3,Rell,4,100%,6.6,1
+ESPORTSTMNT03/1764085,Jayce,15,33%,2.0,Kindred,14,57%,2.8,Zoe,9,67%,4.1,Kai'Sa,20,30%,3.0,Alistar,12,42%,2.5,Gnar,3,67%,5.6,Olaf,12,67%,5.2,Orianna,43,56%,3.7,Xayah,2,0%,3.3,Rakan,7,14%,1.6,0
+ESPORTSTMNT03/1764121,Renekton,6,67%,2.9,Olaf,6,50%,3.6,Azir,83,71%,4.5,Samira,4,50%,6.1,Rell,7,14%,1.5,Gragas,7,71%,9.0,Kindred,14,57%,2.8,Viktor,9,22%,3.4,Kai'Sa,20,30%,3.0,Leona,6,33%,2.2,0
+ESPORTSTMNT02/1698319,Camille,4,0%,1.5,Udyr,5,20%,1.3,Galio,2,0%,0.6,Aphelios,0,0,0,Thresh,2,0%,0.9,Gnar,9,22%,2.1,Lillia,4,25%,2.3,Yone,2,50%,2.5,Xayah,0,0,0,Rell,1,100%,8.0,1
+ESPORTSTMNT03/1764123,Jayce,15,33%,2.0,Udyr,6,83%,6.4,Seraphine,4,50%,6.0,Xayah,8,75%,4.2,Thresh,9,56%,3.0,Renekton,6,67%,2.9,Olaf,6,50%,3.6,Orianna,43,56%,3.7,Kai'Sa,6,33%,2.6,Rell,7,14%,1.5,0
+ESPORTSTMNT03/1764144,Gangplank,9,44%,4.3,Nidalee,8,63%,4.8,Azir,44,50%,2.8,Kai'Sa,33,36%,3.3,Alistar,37,46%,2.2,Gnar,11,27%,2.1,Udyr,5,40%,4.8,Orianna,20,45%,4.5,Aphelios,16,44%,3.7,Rell,10,10%,1.6,0
+ESPORTSTMNT02/1698346,Gnar,9,22%,2.1,Olaf,7,29%,2.1,Zoe,7,71%,8.9,Xayah,0,0,0,Gragas,5,40%,4.3,Camille,15,60%,3.1,Trundle,14,29%,2.5,Syndra,19,16%,1.5,Kai'Sa,25,28%,3.3,Rell,7,29%,1.7,0
+ESPORTSTMNT03/1764165,Aatrox,10,30%,2.1,Lillia,11,27%,2.7,Orianna,20,45%,4.5,Kalista,11,36%,3.0,Rell,10,10%,1.6,Gragas,6,67%,4.0,Kayn,2,50%,1.3,Azir,44,50%,2.8,Xayah,12,42%,3.5,Alistar,37,46%,2.2,1
+ESPORTSTMNT02/1688866,Aatrox,22,59%,3.0,Olaf,18,61%,4.1,Zoe,24,54%,4.2,Vayne,5,40%,4.5,Galio,4,25%,1.7,Renekton,7,100%,4.6,Lillia,5,80%,7.6,Seraphine,1,100%,10.0,Samira,6,50%,3.7,Rell,9,56%,2.6,1
+ESPORTSTMNT06/1580836,Aatrox,26,65%,5.6,Lillia,5,60%,3.0,Twisted Fate,7,86%,4.5,Ashe,6,67%,6.0,Alistar,7,43%,3.1,Renekton,3,33%,2.1,Hecarim,5,80%,2.7,Seraphine,3,67%,15.5,Jhin,4,75%,12.0,Morgana,15,67%,4.6,0
+ESPORTSTMNT06/1580845,Renekton,0,0,0,Olaf,6,50%,3.0,Orianna,5,80%,6.5,Xayah,4,50%,4.9,Rell,6,67%,2.8,Volibear,4,75%,3.1,Udyr,8,50%,3.4,Viktor,5,40%,2.9,Aphelios,9,44%,2.9,Braum,18,39%,2.8,0
+ESPORTSTMNT06/1580852,Volibear,2,100%,4.8,Lillia,5,60%,6.6,Yone,1,100%,13.0,Kalista,3,67%,5.6,Leona,5,60%,4.8,Gangplank,4,25%,1.9,Hecarim,4,25%,2.1,Azir,3,33%,2.9,Samira,2,50%,2.7,Nautilus,12,33%,1.6,0
+ESPORTSTMNT03/1754407,Renekton,7,43%,2.4,Skarner,30,77%,4.6,Corki,20,65%,5.9,Xayah,14,36%,2.5,Leona,10,40%,2.5,Gragas,13,69%,3.6,Jarvan IV,30,57%,4.3,Ryze,30,73%,3.7,Jhin,49,45%,8.0,Alistar,23,35%,1.5,1
+ESPORTSTMNT03/1754443,Camille,14,29%,2.0,Udyr,2,50%,2.0,Orianna,12,50%,4.3,Samira,1,0%,1.0,Rell,4,25%,1.3,Gnar,52,52%,3.5,Lillia,15,53%,4.5,Syndra,16,50%,4.3,Aphelios,21,57%,3.2,Thresh,27,59%,3.7,1
+ESPORTSTMNT03/1754457,Aatrox,19,79%,4.1,Lillia,8,63%,6.2,Seraphine,2,50%,6.8,Xayah,18,67%,5.6,Rell,3,33%,1.7,Wukong,1,0%,0.7,Olaf,8,50%,2.1,Ryze,21,57%,3.5,Kai'Sa,36,53%,7.8,Alistar,44,48%,2.8,0
+ESPORTSTMNT03/1764421,Sion,7,43%,2.0,Nidalee,8,88%,9.1,Orianna,30,63%,4.3,Vayne,1,100%,3.5,Leona,24,75%,3.9,Gangplank,8,38%,3.4,Graves,15,60%,3.3,Syndra,0,0,0,Ezreal,19,58%,4.1,Rakan,17,65%,3.3,0
+ESPORTSTMNT03/1764428,Gnar,9,44%,2.1,Skarner,2,0%,0.9,Syndra,5,40%,3.8,Xayah,4,50%,5.0,Rakan,4,75%,5.6,Camille,5,60%,3.2,Lillia,8,100%,8.5,Ekko,7,43%,2.7,Aphelios,13,69%,5.5,Thresh,7,100%,6.6,1
+ESPORTSTMNT03/1754530,Aatrox,17,53%,3.5,Lillia,9,44%,3.9,Zoe,7,57%,4.8,Xayah,34,44%,3.3,Rell,8,25%,2.7,Gragas,7,86%,4.3,Rek'Sai,9,78%,3.5,Ryze,45,58%,3.4,Kai'Sa,38,66%,5.2,Alistar,16,88%,5.0,1
+ESPORTSTMNT03/1754572,Gnar,5,80%,5.4,Jarvan IV,16,56%,3.3,Azir,28,61%,3.5,Seraphine,2,50%,9.0,Alistar,69,54%,3.1,Gangplank,19,63%,5.3,Hecarim,10,20%,2.3,Orianna,19,47%,4.4,Kai'Sa,10,30%,2.8,Rell,5,40%,2.1,0
+ESPORTSTMNT03/1764522,Renekton,2,0%,0.8,Olaf,4,25%,4.0,Corki,1,0%,2.3,Seraphine,2,50%,15.0,Alistar,2,0%,1.7,Volibear,5,40%,1.5,Hecarim,3,33%,1.2,Orianna,0,0,0,Senna,5,40%,9.4,Tahm Kench,6,33%,2.7,1
+ESPORTSTMNT03/1754590,Pantheon,2,0%,0.8,Lillia,9,22%,2.5,Yone,1,0%,0.3,Kai'Sa,14,29%,2.5,Gragas,2,0%,1.2,Camille,17,53%,3.4,Hecarim,9,56%,3.7,Azir,45,67%,4.4,Tristana,14,71%,4.9,Rell,13,62%,3.0,1
+NA1/3795079739,Urgot,2,50%,2.1,Kindred,1,0%,1.2,Sylas,1,0%,0.6,Senna,1,0%,0.3,Sett,3,0%,1.3,Camille,11,55%,1.9,Kayn,1,100%,3.6,Galio,1,100%,8.3,Jhin,2,50%,4.6,Zyra,2,50%,2.3,1
+ESPORTSTMNT03/1754625,Gnar,39,67%,3.5,Nidalee,16,56%,4.3,Azir,46,59%,3.9,Kai'Sa,29,66%,5.0,Galio,8,50%,2.6,Gangplank,26,62%,3.8,Hecarim,10,70%,3.2,Ryze,24,67%,3.7,Samira,1,0%,1.5,Rell,10,60%,4.3,0
+NA1/3795220083,Malphite,10,60%,3.0,Sejuani,2,0%,1.7,Syndra,5,20%,1.7,Ashe,2,0%,1.5,Braum,1,0%,1.2,Sylas,6,67%,3.1,Graves,17,41%,3.2,Orianna,1,100%,15.0,Senna,10,50%,5.0,Rell,11,64%,3.3,1
+ESPORTSTMNT03/1764639,Cassiopeia,2,0%,0.8,Graves,63,63%,5.1,Azir,10,30%,2.6,Samira,12,33%,3.2,Rell,14,43%,2.6,Gnar,4,50%,2.3,Nidalee,30,60%,4.9,Zoe,55,64%,6.2,Kai'Sa,40,50%,4.3,Alistar,17,59%,3.4,1
+ESPORTSTMNT03/1764683,Renekton,26,77%,4.2,Nidalee,30,60%,4.9,Azir,85,61%,4.6,Xayah,47,66%,7.0,Nautilus,3,100%,7.5,Gragas,14,36%,2.6,Graves,63,63%,5.1,Syndra,12,58%,2.1,Samira,12,33%,3.2,Leona,10,60%,2.5,0
+ESPORTSTMNT03/1764690,Renekton,37,76%,5.0,Lillia,6,67%,3.8,Lucian,12,75%,4.0,Kai'Sa,47,62%,4.2,Nautilus,2,50%,2.3,Sion,30,67%,3.8,Graves,27,85%,5.9,Orianna,15,60%,8.1,Kalista,32,56%,4.0,Gragas,14,79%,3.1,0
+ESPORTSTMNT06/1570900,Renekton,15,53%,3.7,Jarvan IV,16,44%,3.1,Azir,26,54%,3.6,Ezreal,26,42%,3.9,Gragas,9,44%,2.1,Gnar,9,78%,4.3,Olaf,9,56%,4.3,Seraphine,4,100%,27.5,Samira,4,75%,10.2,Poppy,1,100%,5.0,1
+ESPORTSTMNT03/1764715,Sion,30,67%,3.8,Graves,27,85%,5.9,Viktor,13,85%,4.5,Ezreal,52,50%,3.8,Seraphine,4,75%,4.8,Sett,0,0,0,Olaf,23,48%,2.4,Zoe,40,68%,8.4,Sivir,49,73%,5.9,Gragas,4,50%,2.7,0
+ESPORTSTMNT06/1570902,Gnar,4,50%,1.2,Udyr,6,67%,5.4,Orianna,10,40%,4.2,Samira,2,50%,3.1,Rell,2,50%,1.3,Wukong,8,50%,4.2,Taliyah,3,0%,1.1,Syndra,1,0%,2.3,Kai'Sa,9,33%,3.7,Alistar,7,43%,3.1,0
+ESPORTSTMNT03/1764730,Renekton,37,76%,5.0,Lillia,6,67%,3.8,Tristana,1,0%,1.0,Kai'Sa,47,62%,4.2,Nautilus,2,50%,2.3,Sion,30,67%,3.8,Udyr,15,87%,5.5,Azir,18,56%,3.9,Senna,25,88%,9.7,Heimerdinger,2,100%,2.9,1
+ESPORTSTMNT02/1688986,Gnar,8,38%,2.0,Lillia,8,38%,2.7,Sett,4,25%,2.6,Vayne,7,14%,2.1,Thresh,32,63%,3.4,Jayce,26,58%,2.3,Hecarim,9,56%,3.5,Syndra,31,77%,5.9,Samira,7,57%,5.2,Rell,4,75%,3.4,1
+ESPORTSTMNT02/1698607,Gnar,7,29%,1.9,Taliyah,2,50%,5.0,Viktor,9,56%,2.3,Kalista,8,88%,6.2,Gragas,4,25%,2.6,Renekton,1,0%,1.0,Lillia,4,0%,1.5,Zoe,1,0%,5.0,Kai'Sa,0,0,0,Alistar,1,0%,1.3,0
+ESPORTSTMNT06/1570918,Gragas,8,75%,5.6,Udyr,0,0,0,Lucian,2,50%,2.8,Miss Fortune,7,43%,8.4,Rell,5,40%,2.9,Renekton,7,43%,4.3,Lillia,5,80%,3.3,Syndra,3,33%,1.9,Aphelios,11,55%,3.5,Braum,3,33%,1.9,0
+ESPORTSTMNT02/1688991,Gnar,22,68%,3.2,Skarner,18,78%,5.0,Syndra,31,77%,5.9,Kai'Sa,38,50%,3.7,Sett,16,56%,2.8,Renekton,12,58%,2.0,Graves,16,69%,4.6,Ryze,36,64%,3.4,Aphelios,21,67%,4.3,Thresh,32,63%,3.4,0
+ESPORTSTMNT06/1570927,Renekton,4,50%,1.7,Graves,5,40%,4.6,Azir,17,35%,3.0,Seraphine,2,50%,4.5,Nautilus,11,45%,2.7,Gnar,1,0%,1.7,Hecarim,2,0%,1.5,Syndra,3,33%,2.2,Aphelios,15,27%,2.2,Thresh,12,42%,2.6,0
+ESPORTSTMNT06/1570931,Aatrox,9,56%,2.9,Graves,8,50%,2.9,Syndra,1,0%,0.7,Kai'Sa,9,22%,2.6,Thresh,9,33%,3.0,Gnar,9,56%,4.9,Hecarim,2,50%,2.6,Corki,9,78%,7.1,Jhin,2,50%,6.0,Rell,3,67%,3.9,1
+ESPORTSTMNT03/1764801,Sett,3,67%,1.8,Lillia,11,36%,3.3,Yone,2,0%,1.3,Kai'Sa,5,0%,1.7,Seraphine,2,50%,3.2,Aatrox,3,33%,2.7,Skarner,2,50%,5.3,Orianna,5,80%,7.1,Yasuo,1,100%,4.7,Gragas,1,100%,16.0,1
+ESPORTSTMNT03/1764826,Gragas,6,50%,5.6,Skarner,2,100%,3.4,Lucian,4,25%,2.4,Kai'Sa,15,60%,4.4,Alistar,14,57%,2.7,Gangplank,5,80%,6.0,Udyr,2,0%,2.3,Viktor,6,33%,2.6,Xayah,1,0%,3.3,Rell,2,0%,1.4,0
+ESPORTSTMNT06/1570933,Gnar,6,50%,3.4,Karthus,5,20%,2.0,Ryze,3,0%,1.6,Jhin,5,20%,4.6,Gragas,3,33%,1.6,Malphite,1,100%,3.0,Hecarim,6,50%,2.8,Orianna,7,43%,2.2,Miss Fortune,1,100%,14.0,Rell,6,67%,2.8,1
+ESPORTSTMNT03/1754904,Shen,39,72%,6.3,Lillia,15,53%,4.5,Azir,8,50%,3.5,Senna,17,65%,5.5,Tahm Kench,7,57%,3.5,Camille,6,33%,2.4,Udyr,3,0%,1.8,Corki,1,0%,1.5,Ezreal,45,53%,4.0,Bard,5,40%,3.4,0
+ESPORTSTMNT03/1764866,Rumble,1,0%,2.0,Nidalee,19,63%,5.9,Lucian,7,57%,5.1,Xayah,21,48%,3.8,Leona,6,50%,2.0,Sion,5,60%,2.5,Graves,3,33%,3.9,Zoe,11,73%,7.7,Kai'Sa,14,57%,3.2,Rell,7,57%,2.8,1
+ESPORTSTMNT03/1764894,Gnar,12,50%,2.1,Udyr,10,60%,5.7,Galio,12,58%,11.3,Kai'Sa,27,70%,6.0,Alistar,40,70%,3.3,Ornn,12,50%,4.8,Graves,6,17%,2.4,Orianna,6,0%,1.6,Jhin,16,69%,12.1,Braum,23,57%,4.3,0
+ESPORTSTMNT03/1754970,Gnar,34,50%,2.9,Udyr,9,67%,8.5,Viktor,11,45%,2.8,Senna,13,54%,4.7,Tahm Kench,6,33%,2.9,Sett,8,50%,2.0,Lillia,5,40%,3.1,Syndra,24,58%,5.3,Samira,4,75%,8.1,Alistar,44,48%,2.8,0
+NA1/3794994393,Shen,13,77%,4.3,Olaf,17,71%,5.2,Syndra,13,62%,3.4,Jinx,0,0,0,Alistar,0,0,0,Sylas,5,100%,9.0,Nidalee,22,68%,8.8,Sett,6,100%,10.1,Ezreal,27,78%,5.9,Rell,16,81%,2.5,1
+ESPORTSTMNT03/1764927,Jayce,48,69%,3.8,Olaf,21,43%,2.9,Ryze,1,0%,1.3,Varus,23,61%,4.6,Rell,4,50%,2.2,Gragas,2,50%,1.1,Graves,6,50%,3.8,Zoe,19,37%,4.7,Xayah,11,45%,3.2,Leona,7,29%,2.3,1
+NA1/3794994650,Gnar,23,74%,4.1,Udyr,20,75%,6.0,Viktor,4,100%,3.8,Ezreal,27,78%,5.9,Nautilus,27,52%,2.3,Jayce,3,0%,0.6,Olaf,17,71%,5.2,Syndra,13,62%,3.4,Miss Fortune,0,0,0,Rell,0,0,0,0
+ESPORTSTMNT03/1764985,Gragas,7,86%,4.3,Lillia,9,67%,4.7,Tristana,5,80%,4.5,Ashe,31,65%,5.4,Lulu,3,33%,4.1,Renekton,17,41%,2.3,Kayn,5,40%,2.1,Twisted Fate,5,40%,3.2,Senna,4,75%,5.7,Tahm Kench,20,25%,2.2,0
+NA1/3794994942,Aatrox,2,0%,1.3,Graves,20,80%,5.6,Azir,12,75%,4.2,Seraphine,0,0,0,Alistar,0,0,0,Gnar,23,74%,4.1,Olaf,28,71%,4.5,Veigar,5,60%,2.0,Xayah,12,58%,7.5,Rell,16,81%,2.5,1
+NA1/3794995201,Aatrox,30,57%,3.3,Hecarim,23,70%,6.0,Ziggs,11,45%,3.1,Jinx,9,44%,3.3,Rell,17,41%,2.3,Gnar,14,64%,3.3,Udyr,10,60%,3.8,Sylas,15,53%,3.6,Senna,14,64%,5.3,Tahm Kench,38,58%,3.6,1
+ESPORTSTMNT03/1765062,Gnar,39,67%,3.5,Hecarim,7,71%,6.1,Viktor,38,45%,3.3,Kai'Sa,29,66%,5.0,Rell,5,60%,3.3,Jayce,14,36%,1.6,Nidalee,10,40%,3.0,Syndra,30,53%,4.4,Senna,12,17%,3.0,Tahm Kench,15,40%,1.8,0
+NA1/3794995552,Irelia,5,20%,0.7,Udyr,10,60%,3.8,Gragas,1,0%,0.5,Senna,14,64%,5.3,Tahm Kench,38,58%,3.6,Aatrox,30,57%,3.3,Hecarim,23,70%,6.0,Orianna,33,64%,4.3,Jinx,9,44%,3.3,Karma,11,64%,4.7,1
+NA1/3794945687,Gnar,14,64%,3.3,Udyr,10,60%,3.8,Orianna,48,65%,4.9,Varus,58,43%,3.9,Tahm Kench,38,58%,3.6,Ornn,14,57%,2.5,Hecarim,23,70%,6.0,Karma,10,60%,6.1,Jinx,9,44%,3.3,Lulu,4,75%,8.2,0
+ESPORTSTMNT03/1765100,Camille,17,53%,3.4,Nidalee,25,56%,5.3,Galio,10,70%,5.2,Samira,7,57%,2.8,Leona,8,63%,5.6,Gnar,50,60%,3.5,Lillia,7,43%,3.1,Yone,3,33%,3.0,Kai'Sa,23,61%,6.5,Alistar,61,46%,3.7,1
+NA1/3794946219,Gnar,14,64%,3.3,Udyr,10,60%,3.8,Viktor,15,47%,4.0,Ezreal,52,50%,4.7,Gragas,7,71%,3.8,Camille,29,52%,2.3,Hecarim,23,70%,6.0,Orianna,33,64%,4.3,Jinx,9,44%,3.3,Braum,27,59%,4.8,1
+ESPORTSTMNT03/1765112,Shen,20,50%,4.8,Lillia,5,100%,22.7,Yone,3,100%,6.5,Senna,8,25%,4.0,Tahm Kench,9,56%,3.4,Gragas,4,25%,1.1,Graves,25,44%,3.7,Azir,23,35%,2.4,Ezreal,55,44%,4.4,Bard,24,71%,5.5,0
+ESPORTSTMNT03/1755098,Ornn,21,76%,4.1,Lillia,6,50%,3.2,Orianna,8,38%,3.0,Xayah,23,48%,3.4,Alistar,6,50%,3.9,Camille,11,73%,4.1,Nidalee,4,75%,5.9,Twisted Fate,5,80%,9.0,Vayne,2,100%,25.0,Rell,2,50%,2.6,1
+NA1/3794946670,Aatrox,30,57%,3.3,Hecarim,23,70%,6.0,Orianna,33,64%,4.3,Xayah,8,75%,7.9,Alistar,37,65%,3.5,Wukong,2,50%,1.4,Udyr,10,60%,3.8,Sylas,15,53%,3.6,Kai'Sa,15,53%,6.9,Rell,3,33%,1.6,0
+ESPORTSTMNT03/1765150,Renekton,24,50%,2.5,Taliyah,3,67%,4.1,Orianna,44,73%,6.0,Samira,10,70%,3.7,Rakan,24,58%,5.7,Volibear,8,63%,2.5,Nidalee,15,47%,3.8,Syndra,15,47%,2.7,Kai'Sa,20,30%,3.0,Leona,6,33%,2.2,0
+ESPORTSTMNT02/1698642,Irelia,5,20%,1.3,Udyr,9,33%,2.8,Viktor,9,56%,2.3,Xayah,10,30%,2.7,Thresh,14,57%,6.5,Gnar,23,52%,3.3,Lillia,6,50%,5.8,Azir,44,52%,3.1,Kai'Sa,32,50%,4.3,Nautilus,14,57%,2.4,0
+ESPORTSTMNT03/1765183,Volibear,8,63%,2.5,Nidalee,15,47%,3.8,Syndra,15,47%,2.7,Xayah,8,75%,4.2,Alistar,12,42%,2.5,Renekton,24,50%,2.5,Kindred,3,67%,2.8,Viktor,26,62%,4.7,Kai'Sa,24,25%,3.2,Galio,12,58%,3.5,0
+ESPORTSTMNT03/1765200,Renekton,24,50%,2.5,Olaf,15,40%,3.1,Viktor,26,62%,4.7,Kai'Sa,24,25%,3.2,Gragas,8,0%,1.3,Gnar,14,43%,2.6,Dr. Mundo,5,20%,3.1,Syndra,15,47%,2.7,Aphelios,6,83%,3.7,Thresh,9,56%,3.0,1
+ESPORTSTMNT02/1698669,Jayce,1,0%,0.7,Udyr,5,20%,1.3,Syndra,1,0%,1.0,Xayah,0,0,0,Rakan,1,0%,0.5,Renekton,26,65%,3.9,Taliyah,3,67%,5.0,Orianna,35,57%,4.0,Kai'Sa,32,50%,4.3,Gragas,2,100%,12.5,1
+ESPORTSTMNT06/1570959,Ornn,9,78%,4.3,Hecarim,7,86%,7.4,Seraphine,4,100%,27.5,Kalista,37,78%,6.4,Nautilus,11,73%,2.4,Renekton,16,38%,2.7,Lillia,5,60%,3.0,Yone,1,0%,0.3,Ashe,6,67%,6.0,Braum,10,50%,3.2,0
+ESPORTSTMNT06/1570961,Renekton,8,50%,2.1,Sejuani,4,0%,2.1,Viktor,3,0%,1.0,Kai'Sa,19,47%,4.5,Alistar,16,69%,4.2,Gnar,14,50%,4.3,Graves,26,73%,4.2,Galio,14,71%,5.8,Kalista,16,75%,5.7,Rell,3,67%,1.3,1
+ESPORTSTMNT06/1570963,Aatrox,2,0%,2.5,Hecarim,4,25%,2.7,Azir,3,0%,1.2,Kai'Sa,8,13%,1.9,Galio,2,0%,2.2,Gnar,9,56%,4.9,Skarner,1,100%,0.6,Viktor,9,33%,2.4,Aphelios,10,60%,3.2,Thresh,17,82%,7.2,1
+ESPORTSTMNT03/1755245,Ornn,1,0%,0.4,Karthus,5,40%,3.5,Lucian,5,40%,1.6,Samira,4,75%,4.8,Rakan,4,75%,4.3,Gnar,10,70%,3.5,Olaf,4,50%,3.9,Orianna,6,100%,6.0,Kai'Sa,3,100%,10.3,Alistar,6,83%,9.2,1
+ESPORTSTMNT06/1570966,Wukong,2,100%,30.0,Hecarim,4,25%,1.5,Galio,1,100%,13.0,Aphelios,11,55%,3.5,Thresh,12,50%,2.6,Gnar,4,50%,1.2,Lillia,5,60%,3.8,Jayce,3,33%,1.4,Kai'Sa,4,50%,2.1,Rell,2,50%,1.3,0
+ESPORTSTMNT03/1755330,Gragas,1,0%,1.7,Jarvan IV,2,50%,4.4,Yasuo,3,33%,2.8,Kai'Sa,2,0%,1.4,Leona,2,50%,3.2,Camille,6,67%,7.3,Graves,2,50%,5.5,Akali,1,100%,4.5,Xayah,10,60%,4.6,Thresh,7,57%,4.9,1
+ESPORTSTMNT03/1755340,Gnar,4,25%,2.5,Lillia,3,33%,0.8,Irelia,5,40%,3.6,Kai'Sa,2,0%,0.8,Rell,2,0%,1.4,Sion,14,86%,3.8,Hecarim,9,67%,4.3,Zoe,21,76%,13.5,Aphelios,11,45%,3.6,Thresh,40,50%,2.6,1
+ESPORTSTMNT03/1755374,Gnar,5,60%,4.8,Nidalee,13,54%,3.7,Syndra,20,45%,3.8,Senna,2,50%,4.3,Alistar,26,50%,2.4,Gangplank,5,40%,1.7,Graves,21,38%,3.1,Zoe,18,72%,13.0,Jhin,3,33%,8.3,Rell,5,60%,2.2,0
+ESPORTSTMNT03/1755401,Jax,1,100%,3.0,Udyr,6,67%,6.7,Seraphine,2,50%,9.3,Xayah,20,50%,3.6,Alistar,12,75%,3.5,Sion,11,45%,4.3,Taliyah,5,40%,1.7,Syndra,8,25%,4.9,Kai'Sa,6,17%,3.6,Rell,3,33%,1.9,0
+ESPORTSTMNT06/1570994,Gnar,3,33%,2.2,Taliyah,4,75%,5.5,Azir,2,50%,4.0,Senna,0,0,0,Alistar,6,50%,3.2,Karma,1,0%,1.3,Graves,4,25%,2.2,Ryze,1,0%,1.1,Ashe,2,50%,6.5,Leona,1,0%,2.2,0
+ESPORTSTMNT03/1755432,Gragas,1,0%,7.0,Skarner,9,33%,3.7,Yone,2,50%,5.0,Kai'Sa,6,33%,2.9,Nautilus,13,23%,1.8,Gnar,17,53%,3.0,Lillia,3,67%,4.2,Viktor,3,33%,2.4,Aphelios,14,57%,3.5,Alistar,39,46%,3.0,1
+ESPORTSTMNT06/1571000,Gnar,4,0%,1.1,Lillia,1,0%,0.4,Azir,3,33%,1.2,Jhin,2,50%,21.0,Rell,4,25%,2.0,Sylas,6,50%,1.9,Skarner,1,100%,8.0,Irelia,2,50%,2.1,Kai'Sa,6,50%,3.6,Thresh,0,0,0,1
+ESPORTSTMNT03/1755441,Sion,12,42%,2.6,Hecarim,7,57%,5.6,Orianna,14,57%,6.1,Ezreal,17,53%,3.4,Seraphine,2,100%,5.2,Mordekaiser,1,0%,0.3,Jarvan IV,5,40%,4.4,Yone,1,0%,1.0,Aphelios,9,22%,2.6,Rell,5,40%,2.0,0
+ESPORTSTMNT03/1755494,Gnar,5,80%,5.4,Skarner,4,75%,3.8,Azir,28,61%,3.5,Kalista,18,72%,6.0,Alistar,69,54%,3.1,Lulu,6,67%,4.1,Olaf,13,62%,3.6,Corki,19,53%,3.9,Samira,1,0%,1.2,Rell,5,60%,3.3,0
+ESPORTSTMNT06/1571006,Camille,9,78%,3.5,Lillia,4,75%,5.0,Viktor,8,75%,5.1,Samira,7,86%,6.1,Galio,1,100%,9.0,Gnar,2,0%,0.7,Graves,2,50%,7.3,Azir,2,0%,0.5,Tristana,2,0%,2.8,Karma,1,0%,1.0,0
+ESPORTSTMNT03/1755552,Aatrox,14,64%,3.1,Hecarim,2,0%,1.8,Orianna,15,40%,3.3,Jhin,8,38%,4.3,Rell,1,0%,0.1,Jayce,15,60%,2.6,Nidalee,11,73%,11.4,Zoe,16,81%,5.2,Ezreal,36,58%,5.4,Alistar,6,50%,3.9,1
+ESPORTSTMNT03/1755554,Aatrox,34,50%,3.6,Olaf,21,57%,3.5,Orianna,17,47%,4.0,Kai'Sa,31,81%,6.6,Rell,8,75%,5.7,Gragas,4,25%,1.1,Lillia,9,22%,2.5,Tristana,3,67%,3.6,Sivir,28,64%,4.4,Janna,12,58%,6.3,1
+NA1/3797371739,Gangplank,5,60%,3.1,Udyr,20,75%,6.0,Ryze,6,67%,2.4,Senna,15,93%,7.8,Tahm Kench,26,54%,2.5,Aatrox,30,57%,3.3,Graves,10,70%,6.2,Galio,16,44%,3.0,Kai'Sa,41,59%,4.7,Rell,17,41%,2.3,0
+NA1/3797372059,Gnar,23,74%,4.1,Udyr,20,75%,6.0,Ryze,6,67%,2.4,Xayah,12,58%,7.5,Nautilus,27,52%,2.3,Irelia,2,100%,2.9,Nocturne,7,71%,4.4,Galio,16,44%,3.0,Kai'Sa,41,59%,4.7,Rell,17,41%,2.3,1
+ESPORTSTMNT03/1755562,Renekton,31,68%,4.4,Hecarim,9,56%,3.7,Orianna,79,72%,7.7,Aphelios,14,71%,4.8,Tahm Kench,69,62%,4.0,Gragas,7,86%,4.3,Skarner,3,33%,3.3,Lucian,28,50%,3.3,Ashe,31,65%,5.4,Thresh,18,78%,5.6,0
+NA1/3797372498,Gangplank,5,60%,3.1,Dr. Mundo,2,0%,0.7,Azir,15,67%,2.5,Kai'Sa,32,66%,4.9,Rell,16,81%,2.5,Aatrox,30,57%,3.3,Udyr,18,39%,3.6,Veigar,2,50%,3.4,Jhin,11,82%,8.5,Alistar,37,65%,3.5,1
+ESPORTSTMNT03/1755574,Gnar,50,60%,3.5,Lillia,7,43%,3.1,Azir,15,40%,2.6,Kai'Sa,23,61%,6.5,Galio,5,80%,5.1,Ornn,19,42%,2.6,Graves,23,52%,5.1,Corki,1,0%,1.0,Samira,5,20%,2.0,Alistar,47,45%,2.5,0
+NA1/3797372956,Renekton,18,67%,2.9,Nocturne,7,71%,4.4,Neeko,3,33%,1.8,Xayah,12,67%,6.2,Rell,17,41%,2.3,Jayce,13,85%,5.2,Udyr,20,75%,6.0,Azir,15,67%,2.5,Kai'Sa,32,66%,4.9,Alistar,36,67%,3.1,1
+NA1/3797373298,Gnar,23,74%,4.1,Nidalee,22,68%,8.8,Sett,6,100%,10.1,Kai'Sa,32,66%,4.9,Alistar,36,67%,3.1,Aatrox,30,57%,3.3,Udyr,18,39%,3.6,Veigar,2,50%,3.4,Jhin,11,82%,8.5,Rell,17,41%,2.3,0
+ESPORTSTMNT03/1765554,Ornn,3,100%,14.0,Udyr,6,50%,7.2,Syndra,9,44%,4.4,Ezreal,32,34%,3.8,Alistar,5,40%,2.8,Fiora,6,67%,2.1,Skarner,2,50%,2.8,Azir,4,50%,2.3,Kai'Sa,12,67%,4.3,Rell,8,75%,3.0,0
+7297-9609,Gragas,1,0%,2.0,Graves,34,47%,2.6,Twisted Fate,15,40%,4.0,Ezreal,24,58%,3.8,Leona,9,22%,1.2,Renekton,47,51%,2.8,Udyr,6,83%,12.4,Azir,39,59%,4.2,Jhin,33,55%,8.0,Alistar,61,57%,2.7,1
+ESPORTSTMNT03/1765561,Gnar,0,0,0,Skarner,3,33%,4.3,Sett,2,50%,4.8,Seraphine,1,100%,12.0,Senna,2,50%,3.5,Gangplank,2,0%,1.4,Hecarim,5,40%,3.7,Azir,9,11%,1.4,Samira,3,33%,1.8,Rell,3,0%,1.5,0
+7297-9610,Gangplank,29,59%,3.3,Olaf,27,56%,4.4,Twisted Fate,15,40%,4.0,Aphelios,23,43%,3.2,Thresh,13,46%,2.9,Gragas,19,58%,3.8,Graves,24,50%,3.2,Azir,39,59%,4.2,Varus,43,72%,6.5,Rell,8,88%,3.6,1
+ESPORTSTMNT03/1765570,Gnar,9,56%,2.7,Taliyah,3,67%,4.3,Sett,2,100%,4.4,Senna,3,67%,3.9,Seraphine,2,50%,2.0,Rumble,4,50%,5.2,Nidalee,5,20%,3.1,Nocturne,3,67%,4.4,Tristana,2,0%,2.3,Rell,5,40%,2.3,0
+7298-9611,Gnar,30,47%,2.5,Olaf,26,58%,3.8,Rumble,23,57%,4.6,Kai'Sa,83,63%,4.7,Alistar,42,50%,3.2,Irelia,19,47%,3.0,Udyr,12,50%,4.1,Cassiopeia,5,100%,10.9,Samira,7,57%,3.5,Rell,1,100%,4.3,1
+ESPORTSTMNT03/1765578,Aatrox,7,57%,3.9,Nidalee,4,50%,5.1,Sett,2,50%,3.3,Kai'Sa,10,40%,3.9,Rell,4,50%,2.9,Camille,1,100%,8.5,Udyr,2,50%,5.8,Orianna,3,67%,3.9,Aphelios,4,50%,2.6,Thresh,9,33%,2.5,1
+7298-9612,Jayce,8,38%,2.3,Olaf,42,60%,4.6,Azir,12,67%,3.6,Tristana,6,33%,2.4,Alistar,38,63%,3.6,Lucian,1,0%,2.5,Lillia,8,50%,2.9,Ryze,68,63%,4.8,Samira,6,33%,2.9,Leona,38,58%,2.9,0
+ESPORTSTMNT06/1581018,Renekton,14,71%,3.2,Udyr,5,40%,3.3,Orianna,20,65%,3.9,Kai'Sa,19,47%,3.7,Leona,3,67%,3.6,Karma,7,57%,3.3,Hecarim,5,40%,4.4,Azir,14,36%,3.9,Xayah,21,57%,3.8,Braum,12,50%,3.1,0
+ESPORTSTMNT03/1755849,Gnar,27,56%,2.9,Hecarim,4,75%,3.2,Corki,10,60%,5.1,Senna,6,33%,3.6,Tahm Kench,1,100%,5.0,Wukong,5,40%,3.3,Lillia,2,0%,3.0,Galio,5,80%,12.6,Jhin,5,40%,7.1,Alistar,15,73%,4.6,0
+ESPORTSTMNT03/1755850,Gragas,3,0%,1.0,Skarner,0,0,0,Corki,1,0%,1.5,Senna,3,0%,0.8,Thresh,9,44%,3.3,Camille,3,67%,2.0,Nidalee,2,50%,4.0,Galio,0,0,0,Ezreal,8,25%,4.2,Alistar,4,75%,11.6,1
+ESPORTSTMNT06/1571040,Wukong,5,40%,2.2,Hecarim,9,56%,5.1,Azir,6,33%,3.4,Kai'Sa,6,17%,2.4,Rell,3,33%,1.1,Renekton,25,48%,2.4,Olaf,5,100%,4.8,Viktor,4,100%,6.5,Xayah,8,63%,5.6,Rakan,2,100%,27.0,1
+ESPORTSTMNT06/1571047,Cho'Gath,1,100%,7.5,Udyr,1,100%,5.5,Karma,1,100%,14.0,Ezreal,8,63%,4.0,Rell,4,25%,2.0,Gnar,3,33%,2.2,Taliyah,4,75%,5.5,Viktor,5,20%,1.4,Xayah,0,0,0,Alistar,6,50%,3.2,0
+ESPORTSTMNT03/1755882,Sett,19,74%,2.3,Lillia,5,40%,2.4,Viktor,9,33%,4.3,Xayah,2,50%,4.3,Seraphine,2,100%,7.7,Gnar,5,20%,1.9,Udyr,6,50%,3.6,Azir,16,50%,3.5,Jhin,8,50%,8.1,Alistar,11,45%,2.7,0
+ESPORTSTMNT06/1571048,Ornn,12,67%,5.5,Kha'Zix,3,100%,11.8,Ryze,3,33%,2.2,Ezreal,2,50%,1.8,Rell,3,67%,3.0,Irelia,1,0%,0.6,Ekko,2,0%,1.6,Zed,1,0%,0.7,Senna,3,0%,1.1,Sion,1,0%,2.3,0
+ESPORTSTMNT03/1755922,Camille,8,75%,3.3,Graves,2,0%,2.7,Azir,11,36%,3.0,Vayne,4,25%,1.6,Lulu,1,0%,1.0,Renekton,10,80%,3.0,Skarner,2,50%,2.8,Ryze,3,33%,2.3,Senna,8,38%,3.2,Tahm Kench,16,56%,3.9,1
+ESPORTSTMNT06/1571057,Gnar,10,20%,1.9,Shyvana,1,0%,0.5,Viktor,9,67%,3.7,Kai'Sa,17,47%,2.7,Nautilus,9,33%,1.3,Camille,4,50%,2.2,Skarner,1,100%,13.0,Ryze,6,83%,5.8,Aphelios,5,60%,5.6,Thresh,20,55%,3.3,1
+ESPORTSTMNT03/1755941,Aatrox,8,88%,3.7,Lillia,5,80%,4.7,Sett,1,100%,11.5,Heimerdinger,14,79%,3.9,Pyke,15,60%,2.9,Hecarim,1,0%,2.5,Skarner,1,0%,2.3,Galio,0,0,0,Ezreal,8,25%,4.2,Yuumi,6,50%,6.3,0
+ESPORTSTMNT06/1571060,Gnar,7,100%,13.5,Hecarim,10,90%,7.8,Seraphine,2,100%,15.5,Senna,6,83%,12.1,Tahm Kench,8,63%,4.4,Gangplank,3,33%,2.0,Kindred,2,0%,0.5,Cassiopeia,3,33%,1.9,Xayah,5,20%,1.7,Rell,0,0,0,0
+ESPORTSTMNT03/1755952,Gnar,7,71%,4.5,Udyr,4,50%,2.9,Orianna,5,20%,3.1,Xayah,9,67%,4.3,Alistar,18,67%,3.3,Wukong,5,40%,3.5,Olaf,2,50%,3.0,Viktor,3,33%,3.3,Kai'Sa,6,33%,4.2,Gragas,1,100%,7.0,1
+ESPORTSTMNT06/1571075,Volibear,6,67%,4.7,Hecarim,4,75%,2.8,Orianna,11,73%,12.9,Senna,6,67%,4.8,Sion,1,100%,5.0,Irelia,4,75%,1.8,Nidalee,3,0%,2.5,Azir,2,0%,0.5,Tristana,2,0%,2.8,Lulu,1,0%,2.0,0
+ESPORTSTMNT03/1755982,Gnar,6,50%,2.2,Graves,25,64%,4.6,Ryze,4,50%,2.2,Kai'Sa,14,50%,4.4,Nautilus,10,50%,2.5,Renekton,7,43%,2.5,Nidalee,4,50%,7.2,Azir,11,55%,3.9,Aphelios,9,44%,1.9,Gragas,4,50%,3.0,0
+ESPORTSTMNT01/1800264,Gangplank,11,18%,1.4,Lillia,8,50%,3.3,Sett,2,0%,1.6,Ezreal,17,35%,2.9,Alistar,16,56%,3.8,Renekton,18,67%,2.9,Graves,10,70%,6.2,Viktor,9,78%,5.8,Kai'Sa,41,59%,4.7,Galio,9,89%,4.8,1
+ESPORTSTMNT01/1800272,Camille,29,52%,2.3,Udyr,18,39%,3.6,Orianna,33,64%,4.3,Jinx,9,44%,3.3,Alistar,37,65%,3.5,Gnar,7,57%,2.4,Lillia,8,50%,3.3,Xerath,7,71%,6.5,Vayne,6,50%,4.4,Rell,9,56%,2.4,1
+ESPORTSTMNT01/1800287,Renekton,14,57%,2.3,Nidalee,14,57%,3.1,Xerath,7,71%,6.5,Ezreal,17,35%,2.9,Rell,9,56%,2.4,Aatrox,30,57%,3.3,Graves,10,70%,6.2,Viktor,9,78%,5.8,Jhin,11,82%,8.5,Alistar,37,65%,3.5,0
+ESPORTSTMNT01/1800302,Malphite,5,40%,3.4,Nidalee,2,0%,0.5,Azir,11,82%,4.5,Senna,4,25%,1.9,Thresh,15,53%,4.8,Aatrox,11,36%,1.8,Jarvan IV,4,50%,3.1,LeBlanc,6,50%,6.9,Jinx,9,44%,2.6,Blitzcrank,2,50%,1.9,1
+ESPORTSTMNT01/1800323,Aatrox,11,36%,1.8,Olaf,15,53%,3.6,Orianna,14,43%,3.5,Senna,4,50%,3.5,Tahm Kench,1,0%,5.0,Sion,3,33%,0.7,Graves,3,33%,1.9,Viktor,2,50%,2.0,Kai'Sa,20,60%,3.7,Rell,1,100%,7.0,1
+ESPORTSTMNT01/1800327,Sion,3,33%,0.7,Graves,3,33%,1.9,Seraphine,1,0%,3.5,Kai'Sa,20,60%,3.7,Alistar,9,56%,3.2,Gnar,11,36%,2.1,Jarvan IV,4,50%,3.1,Zoe,12,67%,6.2,Jinx,9,44%,2.6,Galio,9,44%,2.6,1
+ESPORTSTMNT01/1800353,Ornn,24,79%,6.1,Viego,1,100%,4.5,Viktor,15,67%,3.6,Aphelios,22,50%,3.3,Thresh,6,50%,3.7,Malphite,1,0%,2.0,Olaf,1,0%,2.0,Orianna,7,86%,4.7,Xayah,3,0%,1.0,Nautilus,4,25%,2.0,0
+ESPORTSTMNT01/1810308,Gnar,3,33%,1.4,Udyr,2,50%,2.0,Zoe,3,67%,2.6,Ezreal,21,48%,3.2,Soraka,2,100%,26.0,Azir,3,33%,1.5,Lillia,4,50%,2.4,Tristana,1,0%,3.5,Senna,3,0%,2.3,Tahm Kench,1,0%,2.0,0
+ESPORTSTMNT03/1765854,Sion,5,60%,5.3,Lillia,5,80%,9.4,Lucian,1,100%,6.0,Samira,5,80%,3.8,Rell,5,40%,2.3,Volibear,4,75%,8.6,Udyr,6,83%,7.3,Azir,11,45%,2.6,Kai'Sa,0,0,0,Alistar,5,60%,3.1,0
+ESPORTSTMNT03/1765868,Gangplank,2,0%,1.4,Graves,14,43%,2.8,Syndra,7,29%,2.2,Kai'Sa,7,29%,1.5,Alistar,4,50%,1.5,Sion,3,67%,5.4,Hecarim,3,67%,5.1,Galio,4,100%,22.7,Kalista,2,50%,6.0,Rell,4,50%,2.9,1
+7299-9613,Gnar,12,42%,2.4,Graves,15,53%,4.8,Azir,5,40%,2.7,Kai'Sa,31,42%,3.4,Alistar,24,50%,3.8,Gangplank,28,39%,2.6,Udyr,14,93%,8.5,Orianna,31,61%,6.0,Xayah,28,79%,9.3,Rell,10,70%,2.9,1
+ESPORTSTMNT03/1765884,Gnar,1,100%,5.7,Skarner,1,100%,2.8,Orianna,3,67%,3.9,Kalista,2,50%,5.4,Thresh,9,33%,2.5,Jayce,1,0%,3.7,Hecarim,8,38%,2.1,Syndra,7,29%,3.5,Aphelios,1,0%,2.3,Nautilus,1,0%,1.5,0
+7299-9614,Aatrox,24,63%,3.1,Lillia,12,58%,5.6,Azir,64,61%,3.8,Samira,5,60%,6.8,Alistar,92,67%,5.0,Renekton,34,56%,2.7,Nidalee,8,38%,2.8,Yone,1,0%,1.3,Senna,1,0%,1.0,Rell,3,33%,1.1,0
+ESPORTSTMNT03/1765909,Gnar,0,0,0,Skarner,3,33%,4.3,Syndra,9,33%,3.8,Kai'Sa,4,0%,2.3,Nautilus,13,23%,2.6,Gangplank,1,100%,6.0,Nidalee,7,43%,4.9,Lucian,2,100%,5.7,Kalista,2,100%,8.3,Rell,2,50%,4.2,1
+7300-9615,Jayce,25,64%,3.1,Udyr,7,43%,2.7,Twisted Fate,5,60%,6.5,Aphelios,18,72%,3.4,Thresh,26,69%,5.7,Wukong,6,33%,1.8,Kayn,1,0%,2.0,Zoe,35,54%,4.7,Ezreal,32,31%,4.2,Rell,2,0%,1.1,0
+7300-9616,Aatrox,34,50%,2.2,Nidalee,7,29%,4.3,Orianna,16,31%,3.1,Kai'Sa,31,29%,3.9,Alistar,37,22%,2.6,Camille,10,50%,1.9,Gragas,60,82%,5.0,Twisted Fate,5,60%,6.5,Samira,5,60%,7.3,Rell,8,63%,3.7,1
+ESPORTSTMNT03/1765999,Urgot,3,33%,4.3,Lillia,1,0%,3.0,Azir,6,50%,4.3,Kai'Sa,2,0%,2.7,Nautilus,0,0,0,Gnar,9,56%,3.3,Udyr,5,60%,2.9,Viktor,7,29%,3.1,Jhin,4,50%,6.7,Alistar,9,56%,2.5,1
+ESPORTSTMNT06/1571102,Sett,3,67%,3.3,Olaf,4,75%,3.1,Corki,7,43%,3.4,Senna,9,89%,8.9,Nautilus,4,75%,2.3,Volibear,2,0%,1.3,Graves,4,25%,1.9,Azir,2,0%,1.2,Ezreal,4,50%,2.1,Rell,3,67%,3.0,0
+ESPORTSTMNT03/1756372,Renekton,18,61%,3.4,Udyr,8,38%,3.8,Azir,5,60%,2.9,Ezreal,12,67%,7.8,Galio,2,0%,1.0,Gragas,1,100%,4.0,Hecarim,14,71%,3.5,Orianna,21,71%,5.6,Karthus,2,50%,3.6,Senna,2,50%,3.7,1
+ESPORTSTMNT03/1756374,Ornn,4,25%,1.6,Graves,4,50%,2.5,Corki,8,50%,2.8,Kai'Sa,8,50%,4.4,Alistar,4,25%,1.5,Gnar,10,50%,3.3,Udyr,8,75%,4.4,Azir,25,64%,5.4,Senna,7,57%,7.0,Tahm Kench,13,38%,2.6,1
+ESPORTSTMNT06/1571104,Gangplank,6,0%,2.0,Lillia,1,0%,1.2,Viktor,1,0%,0.9,Xayah,1,0%,2.0,Alistar,1,0%,2.2,Jayce,18,61%,3.5,Udyr,2,50%,8.5,Azir,18,56%,3.0,Kai'Sa,11,36%,3.4,Leona,5,60%,3.6,1
+ESPORTSTMNT06/1571108,Soraka,1,0%,1.7,Graves,11,73%,5.0,Viktor,7,71%,4.2,Kalista,9,56%,3.4,Blitzcrank,2,50%,3.8,Ornn,32,63%,3.0,Garen,9,78%,4.3,Diana,6,67%,2.5,Aphelios,6,67%,5.5,Thresh,18,83%,5.4,1
+ESPORTSTMNT03/1756398,Gragas,4,25%,1.0,Lillia,4,25%,1.4,Ekko,7,43%,3.8,Xayah,10,30%,3.4,Alistar,3,33%,2.0,Camille,2,100%,7.3,Kayn,1,100%,14.0,Ryze,11,45%,4.8,Kai'Sa,12,67%,5.0,Galio,11,73%,4.3,1
+ESPORTSTMNT06/1571116,Gnar,3,0%,2.2,Udyr,1,0%,4.7,Veigar,2,0%,3.0,Kai'Sa,9,56%,3.5,Alistar,6,50%,2.4,Jayce,3,67%,2.4,Lillia,0,0,0,Azir,7,43%,2.3,Xayah,10,70%,2.7,Leona,6,67%,3.5,1
+ESPORTSTMNT03/1756412,Gnar,14,57%,3.8,Graves,13,46%,4.3,Syndra,11,64%,3.8,Kai'Sa,18,78%,4.8,Galio,6,100%,3.9,Gragas,2,50%,6.3,Lillia,5,20%,4.1,Irelia,3,33%,4.0,Vayne,3,33%,1.8,Alistar,4,50%,2.4,0
+ESPORTSTMNT03/1756413,Camille,3,33%,2.0,Hecarim,3,67%,4.1,Orianna,3,67%,4.8,Kai'Sa,3,67%,3.3,Maokai,4,100%,3.7,Fiora,6,50%,2.1,Lillia,3,33%,3.0,Yone,1,0%,1.8,Jinx,5,40%,4.9,Rell,2,0%,1.8,0
+ESPORTSTMNT03/1756420,Renekton,2,0%,0.8,Taliyah,3,33%,2.2,Azir,0,0,0,Xayah,4,25%,1.8,Rell,7,57%,2.1,Kennen,7,71%,3.1,Graves,8,63%,3.3,Ryze,7,71%,5.8,Kai'Sa,12,83%,6.1,Alistar,8,88%,9.2,1
+ESPORTSTMNT06/1571119,Fiora,1,0%,4.0,Udyr,1,0%,1.2,Orianna,10,40%,3.9,Vayne,5,60%,2.5,Zyra,1,0%,0.4,Jax,2,100%,2.9,Lillia,4,75%,6.8,Azir,6,33%,3.4,Xayah,6,50%,3.7,Nautilus,15,73%,2.7,1
+ESPORTSTMNT06/1571123,Karma,3,0%,0.7,Hecarim,4,25%,3.3,Corki,14,64%,5.5,Senna,11,36%,5.3,Tahm Kench,12,42%,1.8,Volibear,9,56%,3.2,Jarvan IV,6,50%,2.6,Sylas,5,40%,2.6,Xayah,8,63%,5.6,Galio,3,33%,2.4,1
+ESPORTSTMNT03/1756442,Malphite,4,75%,13.0,Udyr,6,67%,5.5,Orianna,9,56%,6.1,Kai'Sa,4,75%,9.6,Rell,6,33%,2.4,Gnar,1,0%,0.0,Lillia,4,25%,1.4,Kassadin,3,33%,2.3,Kalista,6,33%,3.4,Alistar,3,33%,2.0,0
+ESPORTSTMNT06/1571125,Poppy,1,0%,1.3,Hecarim,1,0%,2.1,Syndra,4,25%,1.9,Kalista,1,0%,1.8,Alistar,1,0%,2.0,Mordekaiser,4,75%,3.4,Udyr,2,100%,12.0,Ekko,2,50%,3.9,Samira,1,100%,5.0,Rell,3,33%,2.6,1
+ESPORTSTMNT03/1756464,Aatrox,8,25%,1.7,Skarner,0,0,0,Ekko,2,50%,5.5,Kai'Sa,12,33%,4.0,Seraphine,4,75%,4.7,Gnar,2,100%,5.3,Jarvan IV,1,100%,5.0,Azir,6,83%,4.0,Aphelios,7,100%,6.9,Thresh,3,100%,4.6,1
+ESPORTSTMNT03/1756465,Gnar,1,0%,0.5,Hecarim,4,0%,1.6,Tristana,1,0%,1.3,Ziggs,2,0%,1.6,Rell,2,0%,1.8,Wukong,1,100%,13.0,Nocturne,2,50%,3.2,LeBlanc,2,50%,1.8,Kai'Sa,11,73%,5.6,Galio,3,67%,4.4,1
+ESPORTSTMNT03/1756472,Ornn,8,38%,4.4,Olaf,15,67%,6.3,Azir,2,50%,4.0,Samira,3,33%,5.2,Rell,3,33%,2.6,Sett,3,33%,1.8,Skarner,8,88%,5.0,Ekko,3,33%,1.9,Kai'Sa,17,53%,3.5,Gragas,3,100%,3.3,1
+ESPORTSTMNT06/1571143,Jayce,1,0%,1.1,Xin Zhao,3,33%,1.9,Seraphine,1,0%,1.9,Kalista,4,25%,2.8,Rumble,1,0%,2.5,Gragas,5,80%,4.0,Kayn,3,67%,5.3,Ryze,3,67%,6.0,Senna,12,58%,4.4,Soraka,1,100%,1.6,1
+ESPORTSTMNT03/1756507,Karma,1,0%,2.3,Olaf,5,40%,1.9,Orianna,12,58%,3.8,Sivir,3,0%,2.5,Leona,5,40%,2.8,Gragas,3,67%,2.0,Graves,2,50%,5.5,Corki,5,40%,6.7,Jhin,6,67%,6.4,Alistar,7,43%,1.5,1
+ESPORTSTMNT03/1756519,Malphite,1,0%,1.3,Udyr,2,50%,2.3,Syndra,1,0%,3.0,Kai'Sa,3,33%,4.7,Alistar,0,0,0,Ornn,11,36%,1.7,Olaf,5,20%,1.8,Ekko,4,75%,8.5,Jhin,2,100%,24.0,Leona,4,25%,1.0,1
+ESPORTSTMNT01/1800635,Gnar,14,64%,3.3,Udyr,10,60%,3.8,Viktor,15,47%,4.0,Varus,58,43%,3.9,Alistar,36,67%,4.0,Camille,12,58%,3.1,Skarner,1,0%,0.9,Zoe,17,59%,5.4,Vayne,6,50%,4.4,Rell,9,56%,2.4,0
+ESPORTSTMNT03/1756558,Sylas,3,33%,1.7,Lillia,3,33%,2.8,Yone,1,0%,1.2,Aphelios,9,56%,3.2,Leona,3,33%,2.4,Gnar,6,67%,4.8,Hecarim,4,50%,2.9,Ryze,5,20%,3.4,Ashe,4,100%,9.2,Galio,6,50%,3.5,1
+ESPORTSTMNT03/1756575,Ornn,6,100%,4.1,Olaf,0,0,0,Orianna,5,60%,2.7,Ezreal,2,100%,4.7,Leona,3,67%,2.9,Aatrox,3,33%,4.0,Graves,1,0%,1.7,Sylas,1,0%,3.4,Xayah,3,33%,4.7,Galio,1,0%,2.9,0
+ESPORTSTMNT01/1800657,Gnar,7,57%,2.4,Olaf,9,33%,2.3,Twisted Fate,13,38%,3.6,Kai'Sa,22,41%,3.0,Alistar,16,56%,3.8,Jayce,16,63%,2.1,Udyr,10,60%,3.8,Orianna,48,65%,4.9,Ezreal,52,50%,4.7,Rell,3,33%,1.6,1
+ESPORTSTMNT01/1800677,Gragas,19,74%,5.0,Olaf,20,60%,3.1,Syndra,3,33%,2.2,Xayah,50,54%,5.1,Rakan,3,67%,4.3,Gnar,11,36%,2.1,Graves,5,80%,3.9,Zoe,12,67%,6.2,Jinx,9,44%,2.6,Nautilus,8,25%,1.8,1
+ESPORTSTMNT01/1800704,Renekton,30,53%,2.5,Hecarim,12,67%,4.1,Azir,5,40%,3.2,Kai'Sa,36,58%,6.3,Rakan,3,67%,4.3,Shen,15,53%,4.2,Olaf,15,53%,3.6,LeBlanc,6,50%,6.9,Jinx,9,44%,2.6,Leona,11,27%,2.0,0
+ESPORTSTMNT01/1800721,Renekton,30,53%,2.5,Nidalee,31,71%,6.3,Azir,5,40%,3.2,Vayne,2,100%,5.3,Alistar,4,75%,3.4,Shen,15,53%,4.2,Jarvan IV,4,50%,3.1,Ekko,3,67%,5.8,Jinx,9,44%,2.6,Braum,1,0%,3.0,0
+7086-9617,Gnar,13,54%,2.7,Hecarim,9,44%,3.3,Seraphine,1,100%,7.0,Kai'Sa,13,23%,4.6,Nautilus,14,43%,2.0,Jayce,5,20%,2.1,Nidalee,4,0%,2.5,Zoe,6,17%,2.9,Ezreal,3,0%,3.1,Alistar,9,11%,1.6,0
+ESPORTSTMNT01/1810546,Shen,1,0%,5.0,Elise,29,55%,3.2,Yone,4,0%,1.3,Kai'Sa,14,43%,4.7,Nautilus,3,33%,2.3,Camille,2,50%,1.5,Karthus,2,50%,2.3,Ahri,3,33%,1.7,Sivir,23,57%,4.6,Thresh,4,25%,1.6,1
+7086-9618,Gnar,13,54%,2.7,Taliyah,6,67%,5.8,Zoe,12,50%,8.5,Samira,10,30%,3.3,Alistar,19,63%,4.4,Camille,6,50%,3.0,Lillia,1,0%,1.8,Ryze,2,0%,1.6,Kai'Sa,13,31%,2.8,Sett,3,0%,0.7,0
+7301-9623,Gnar,7,43%,2.6,Udyr,7,29%,3.5,Corki,26,58%,4.1,Lucian,3,33%,2.0,Gragas,6,33%,3.3,Aatrox,20,60%,4.8,Olaf,9,33%,2.0,Azir,42,62%,4.7,Tristana,27,52%,3.4,Alistar,27,48%,3.6,0
+ESPORTSTMNT01/1810573,Gragas,5,40%,2.4,Lee Sin,25,56%,4.1,Viktor,4,50%,3.5,Aphelios,12,42%,2.7,Thresh,7,71%,5.3,Gnar,10,50%,2.8,Jarvan IV,5,40%,2.9,Orianna,19,37%,5.2,Xayah,14,36%,3.0,Rakan,30,73%,5.9,1
+7090-9624,Jax,3,67%,3.3,Udyr,9,78%,6.7,Azir,20,70%,4.3,Samira,10,70%,4.9,Alistar,38,53%,3.4,Ornn,7,14%,2.0,Dr. Mundo,5,0%,0.5,Ekko,2,0%,0.7,Tristana,7,14%,1.8,Rell,6,67%,3.3,0
+7301-9625,Sion,9,56%,3.1,Lillia,11,55%,2.4,Azir,42,62%,4.7,Kai'Sa,75,64%,5.2,Rell,5,60%,4.2,Volibear,10,10%,2.1,Udyr,7,29%,3.5,Corki,26,58%,4.1,Lucian,3,33%,2.0,Gragas,6,33%,3.3,0
+7089-9626,Gnar,18,67%,3.9,Olaf,8,63%,4.1,Twisted Fate,16,69%,5.2,Sivir,4,0%,6.4,Nautilus,18,50%,2.6,Renekton,15,67%,3.2,Graves,13,38%,3.4,Seraphine,4,100%,11.0,Ezreal,70,57%,4.6,Leona,8,75%,3.7,1
+7090-9627,Gnar,10,60%,3.7,Kayn,1,100%,13.0,Syndra,6,83%,3.3,Kalista,9,67%,3.4,Rell,5,80%,3.5,Ryze,3,0%,1.1,Graves,1,0%,1.3,Azir,4,0%,4.7,Samira,11,45%,3.5,Alistar,9,22%,2.5,0
+7301-9628,Sion,17,41%,7.6,Olaf,22,45%,2.8,Cassiopeia,39,56%,4.3,Samira,4,0%,1.6,Rell,4,25%,2.1,Gnar,8,25%,2.4,Lillia,11,55%,2.4,Jayce,9,33%,3.2,Tristana,27,52%,3.4,Alistar,27,48%,3.6,1
+7089-9629,Renekton,15,67%,3.2,Graves,13,38%,3.4,Viktor,12,75%,4.7,Samira,11,73%,7.4,Leona,8,75%,3.7,Gragas,2,100%,14.5,Lillia,7,86%,6.1,Irelia,6,50%,3.6,Kai'Sa,33,55%,5.2,Sett,4,100%,3.1,1
+7302-9630,Renekton,31,32%,2.4,Dr. Mundo,2,50%,2.8,Azir,12,67%,3.6,Kai'Sa,32,59%,4.5,Gragas,8,75%,3.1,Gnar,7,29%,2.7,Udyr,11,9%,2.9,Corki,3,67%,4.3,Senna,2,50%,6.7,Tahm Kench,24,54%,3.6,0
+7089-9631,Camille,16,44%,2.8,Olaf,8,63%,4.1,Orianna,21,52%,4.1,Xayah,16,44%,3.9,Galio,12,50%,3.6,Renekton,10,60%,2.7,Karthus,11,64%,4.5,Viktor,12,75%,4.7,Tristana,24,71%,4.7,Leona,8,75%,3.7,1
+7302-9632,Gragas,3,0%,2.2,Olaf,35,51%,3.5,Twisted Fate,13,69%,4.8,Kai'Sa,23,30%,3.1,Morgana,4,25%,2.3,Aatrox,22,45%,2.0,Udyr,12,50%,4.1,Azir,12,67%,3.6,Xayah,8,38%,2.1,Alistar,38,63%,3.6,1
+ESPORTSTMNT03/1766424,Camille,9,67%,3.4,Udyr,8,75%,4.4,Orianna,36,50%,5.1,Miss Fortune,9,78%,6.9,Leona,9,56%,1.8,Volibear,2,0%,0.6,Lillia,7,29%,4.9,Galio,5,40%,3.3,Kai'Sa,7,57%,6.0,Sett,3,0%,0.8,0
+ESPORTSTMNT03/1756795,Gnar,5,40%,4.6,Hecarim,5,20%,3.3,Azir,5,40%,2.6,Senna,8,50%,4.9,Nautilus,16,50%,2.4,Gragas,5,80%,5.3,Taliyah,5,100%,11.3,Tristana,8,75%,7.1,Ashe,7,71%,8.0,Leona,18,83%,4.6,1
+ESPORTSTMNT06/1571157,Gnar,9,78%,2.6,Hecarim,3,67%,3.2,Azir,21,52%,3.7,Kai'Sa,12,50%,4.7,Rell,6,33%,3.2,Quinn,1,0%,1.6,Udyr,2,50%,3.6,Orianna,7,57%,5.5,Senna,7,71%,4.4,Trundle,1,0%,3.3,0
+ESPORTSTMNT06/1571158,Gangplank,2,0%,0.8,Olaf,7,57%,2.4,Azir,10,60%,3.9,Samira,2,50%,1.2,Alistar,11,27%,1.8,Renekton,11,55%,3.3,Hecarim,9,44%,4.2,Corki,14,50%,6.4,Swain,3,67%,6.4,Rell,1,100%,10.0,1
+ESPORTSTMNT03/1756813,Gnar,14,57%,3.8,Graves,13,46%,4.3,Azir,19,42%,3.1,Senna,4,100%,10.0,Gragas,1,100%,2.3,Wukong,3,33%,1.5,Olaf,3,33%,3.3,Syndra,7,57%,3.3,Samira,1,0%,2.0,Alistar,0,0,0,0
+ESPORTSTMNT03/1766476,Aatrox,7,29%,1.5,Ivern,2,50%,2.8,Azir,9,44%,3.1,Kai'Sa,16,50%,4.3,Leona,3,33%,1.3,Gragas,9,67%,2.7,Graves,7,57%,4.2,Ryze,12,75%,7.0,Senna,6,50%,4.2,Tahm Kench,4,50%,2.4,1
+ESPORTSTMNT03/1756840,Camille,4,100%,4.5,Jarvan IV,5,20%,2.7,Viktor,3,33%,6.0,Senna,6,83%,10.7,Galio,5,60%,4.1,Gangplank,24,50%,3.6,Udyr,6,50%,4.5,Orianna,29,69%,7.4,Varus,4,25%,2.4,Leona,15,53%,2.8,0
+ESPORTSTMNT06/1571163,Renekton,24,71%,3.4,Udyr,2,50%,3.4,Viktor,18,50%,3.0,Ashe,4,75%,5.9,Alistar,30,57%,2.6,Sion,8,38%,2.6,Lillia,13,62%,4.3,Azir,2,50%,8.3,Kai'Sa,30,57%,4.2,Galio,20,65%,3.9,1
+ESPORTSTMNT06/1571165,Gangplank,7,43%,2.9,Dr. Mundo,1,100%,8.0,Azir,6,33%,7.0,Kai'Sa,9,44%,4.5,Leona,2,50%,1.6,Camille,10,40%,1.5,Lillia,6,67%,8.9,Ekko,3,0%,1.2,Xayah,3,33%,1.5,Nautilus,4,0%,0.9,0
+ESPORTSTMNT03/1766503,Gangplank,30,63%,3.7,Udyr,7,86%,12.0,Azir,8,100%,6.1,Aphelios,13,46%,2.5,Nautilus,4,75%,2.7,Gnar,4,25%,4.1,Lillia,0,0,0,Corki,3,0%,4.0,Kai'Sa,18,44%,3.6,Thresh,0,0,0,0
+ESPORTSTMNT03/1756864,Renekton,3,67%,3.9,Dr. Mundo,1,100%,15.0,Azir,6,83%,4.0,Kai'Sa,12,58%,4.0,Alistar,7,57%,3.3,Gnar,7,29%,2.5,Skarner,1,0%,1.7,Akali,1,0%,1.3,Xayah,3,67%,5.6,Leona,0,0,0,0
+ESPORTSTMNT06/1571167,Aatrox,3,67%,1.6,Olaf,1,100%,2.7,Twisted Fate,2,50%,2.5,Jhin,4,75%,8.6,Jarvan IV,1,100%,1.8,Sett,0,0,0,Lillia,2,0%,1.5,Sylas,0,0,0,Senna,4,0%,4.0,Tahm Kench,1,0%,6.0,0
+ESPORTSTMNT06/1581129,Renekton,9,89%,5.2,Dr. Mundo,1,100%,12.0,Ryze,21,71%,5.5,Ashe,6,67%,4.5,Rell,4,50%,2.8,Gragas,1,0%,0.3,Graves,17,76%,5.6,Azir,4,50%,4.1,Aphelios,22,82%,6.7,Alistar,30,67%,2.7,0
+ESPORTSTMNT03/1756879,Camille,4,50%,2.5,Gragas,1,100%,13.0,Twisted Fate,3,33%,2.3,Senna,1,100%,13.0,Wukong,1,100%,7.0,Poppy,1,0%,1.0,Olaf,1,0%,0.3,Orianna,2,0%,0.7,Kai'Sa,2,0%,1.4,Rakan,1,0%,0.3,0
+ESPORTSTMNT03/1766538,Malphite,3,67%,2.2,Nidalee,10,40%,3.8,Zed,4,25%,2.0,Jhin,11,55%,4.5,Galio,2,50%,6.0,Gnar,30,80%,5.7,Udyr,11,73%,8.7,Azir,20,55%,4.3,Ashe,3,100%,8.0,Lulu,6,50%,6.3,1
+ESPORTSTMNT03/1756899,Camille,4,75%,3.1,Dr. Mundo,2,100%,14.0,Seraphine,2,50%,2.0,Xayah,1,100%,6.0,Leona,1,100%,12.0,Gnar,7,57%,3.2,Udyr,0,0,0,Ryze,1,0%,3.0,Kai'Sa,12,33%,4.0,Sett,2,50%,3.0,0
+ESPORTSTMNT06/1581131,Gangplank,23,26%,2.9,Graves,5,40%,2.7,Azir,11,45%,2.0,Xayah,3,67%,3.9,Nautilus,32,56%,3.3,Sion,10,40%,4.9,Lillia,5,40%,3.1,Orianna,6,33%,5.2,Kai'Sa,22,50%,3.4,Alistar,16,44%,2.4,0
+ESPORTSTMNT03/1756900,Shen,2,50%,5.0,Hecarim,1,100%,8.5,Zilean,1,100%,13.0,Kai'Sa,13,77%,9.6,Rell,8,63%,3.6,Camille,2,0%,1.2,Lillia,6,50%,3.1,Sylas,2,0%,1.4,Senna,2,0%,0.8,Galio,2,0%,0.7,0
+ESPORTSTMNT03/1756923,Gragas,2,50%,2.8,Taliyah,2,0%,0.8,Jayce,4,50%,2.4,Kai'Sa,2,0%,1.9,Poppy,1,0%,1.0,Ornn,12,33%,2.6,Lee Sin,13,46%,2.5,Zoe,7,71%,6.1,Xayah,2,50%,2.6,Rell,8,50%,2.3,1
+ESPORTSTMNT03/1766576,Gangplank,8,38%,3.4,Graves,15,60%,3.3,Orianna,0,0,0,Sivir,4,25%,4.4,Rakan,17,65%,3.3,Ryze,2,0%,2.5,Lillia,3,0%,1.8,Azir,7,29%,1.8,Ezreal,19,58%,7.5,Bard,1,0%,4.0,0
+ESPORTSTMNT04/1530095,Renekton,14,57%,2.3,Nidalee,14,57%,3.1,Xerath,7,71%,6.5,Tristana,1,0%,2.3,Galio,5,60%,4.3,Gragas,4,25%,3.3,Udyr,10,40%,2.9,Syndra,7,57%,3.1,Jinx,9,44%,2.6,Janna,2,100%,6.7,1
+ESPORTSTMNT04/1530098,Sion,18,61%,3.9,Udyr,7,29%,2.8,Azir,5,40%,3.2,Ezreal,29,31%,4.6,Braum,6,33%,2.4,Gragas,20,70%,3.1,Olaf,21,81%,4.8,Orianna,48,65%,4.9,Sivir,42,50%,4.9,Alistar,36,67%,4.0,1
+ESPORTSTMNT03/1756975,Sion,4,25%,2.5,Udyr,3,0%,1.1,Viktor,1,0%,2.0,Kai'Sa,8,13%,2.5,Nautilus,7,43%,2.3,Gnar,5,100%,6.3,Volibear,0,0,0,Azir,3,33%,2.8,Aphelios,4,75%,8.0,Thresh,7,71%,3.9,1
+ESPORTSTMNT03/1756976,Camille,13,62%,3.7,Hecarim,5,60%,4.1,Azir,16,63%,3.9,Senna,1,100%,2.7,Sion,1,100%,3.5,Gnar,9,44%,2.1,Jarvan IV,6,50%,4.1,Viktor,4,25%,2.1,Miss Fortune,1,0%,8.0,Thresh,1,0%,4.5,0
+ESPORTSTMNT04/1530114,Camille,9,56%,2.6,Udyr,10,40%,2.9,Zoe,12,67%,6.2,Kai'Sa,38,50%,3.7,Galio,9,44%,2.6,Gnar,7,57%,2.4,Olaf,9,33%,2.3,Orianna,9,22%,2.5,Xayah,13,46%,4.3,Alistar,16,56%,3.8,0
+ESPORTSTMNT04/1530116,Sion,18,61%,3.9,Udyr,7,29%,2.8,Azir,5,40%,3.2,Jinx,6,33%,5.2,Braum,6,33%,2.4,Gragas,20,70%,3.1,Olaf,21,81%,4.8,Orianna,48,65%,4.9,Varus,58,43%,3.9,Alistar,36,67%,4.0,1
+ESPORTSTMNT03/1756980,Ornn,1,0%,1.5,Udyr,1,0%,1.7,Syndra,2,0%,1.0,Xayah,5,0%,1.2,Rakan,2,0%,1.1,Aatrox,3,33%,3.7,Taliyah,4,100%,4.9,Twisted Fate,10,60%,4.1,Kai'Sa,13,54%,5.8,Rell,3,33%,1.7,1
+ESPORTSTMNT03/1766665,Aatrox,45,64%,2.9,Nidalee,48,69%,5.2,Viktor,5,40%,2.2,Samira,12,33%,3.2,Alistar,25,28%,2.5,Renekton,6,67%,2.9,Lillia,4,75%,5.9,Lucian,3,100%,5.1,Ezreal,66,65%,8.3,Galio,5,60%,3.3,1
+7093-9635,Renekton,0,0,0,Skarner,18,50%,4.0,Azir,10,80%,4.8,Kai'Sa,35,40%,3.7,Gragas,3,67%,3.4,Gnar,11,82%,4.7,Graves,26,23%,2.2,Syndra,5,40%,2.8,Samira,5,40%,2.3,Rell,9,44%,2.7,0
+7092-9636,Wukong,8,50%,2.5,Nidalee,0,0,0,Yone,3,100%,6.0,Kai'Sa,29,31%,4.6,Alistar,35,43%,2.9,Gnar,14,57%,3.2,Udyr,9,33%,2.8,Zoe,8,50%,8.1,Aphelios,32,44%,3.1,Rell,1,0%,1.1,0
+ESPORTSTMNT03/1757105,Renekton,6,67%,2.9,Lillia,4,75%,5.9,Lucian,3,100%,5.1,Kalista,49,78%,8.0,Neeko,2,100%,4.6,Aatrox,45,64%,2.9,Nidalee,48,69%,5.2,Orianna,13,46%,3.6,Aphelios,30,70%,5.1,Thresh,15,47%,2.7,0
+7093-9637,Gnar,11,82%,4.7,Udyr,12,75%,5.2,Orianna,21,62%,4.5,Samira,5,40%,2.3,Alistar,17,65%,4.0,Renekton,0,0,0,Lillia,4,25%,1.2,Syndra,13,38%,3.0,Tristana,10,40%,2.1,Rell,9,56%,2.5,0
+7092-9638,Wukong,8,50%,2.5,Nidalee,0,0,0,Irelia,3,0%,1.1,Ezreal,35,43%,3.4,Rell,7,14%,1.6,Aatrox,41,66%,3.9,Udyr,9,33%,2.8,Zoe,8,50%,8.1,Samira,4,25%,2.2,Alistar,15,53%,2.0,1
+7303-9639,Aatrox,21,52%,2.8,Kayn,2,50%,2.2,Ryze,8,38%,2.6,Samira,5,40%,3.0,Rell,7,29%,1.8,Sion,15,33%,3.7,Lillia,11,64%,4.2,Tristana,2,50%,1.3,Kai'Sa,22,64%,4.9,Gragas,3,33%,2.5,1
+7093-9640,Poppy,0,0,0,Hecarim,7,71%,4.4,Azir,10,80%,4.8,Kai'Sa,35,40%,3.7,Alistar,5,40%,3.5,Camille,15,40%,2.6,Udyr,12,75%,5.2,Syndra,5,40%,2.8,Samira,5,40%,2.3,Rell,9,44%,2.7,0
+7092-9642,Wukong,8,50%,2.5,Nidalee,0,0,0,Orianna,3,33%,3.0,Ezreal,35,43%,3.4,Rell,7,14%,1.6,Gragas,1,0%,1.5,Udyr,9,33%,2.8,Zoe,8,50%,8.1,Samira,4,25%,2.2,Alistar,15,53%,2.0,0
+7303-9641,Renekton,53,55%,3.2,Nidalee,7,86%,12.5,Zoe,47,51%,4.2,Xayah,14,57%,4.3,Alistar,12,25%,2.4,Gnar,3,0%,1.4,Taliyah,11,55%,3.1,Galio,19,47%,4.0,Kai'Sa,33,36%,2.5,Leona,17,35%,2.3,0
+7095-9643,Sion,15,47%,2.6,Udyr,7,29%,3.1,Viktor,9,44%,4.2,Samira,4,50%,2.5,Rell,4,50%,3.1,Renekton,2,0%,1.0,Lillia,3,0%,2.0,Azir,1,0%,0.3,Miss Fortune,13,46%,2.7,Thresh,5,20%,2.0,0
+7304-9645,Gragas,10,60%,3.4,Dr. Mundo,1,0%,0.7,Seraphine,1,0%,1.0,Samira,3,0%,1.6,Nautilus,20,20%,1.6,Camille,3,100%,36.0,Udyr,18,72%,4.4,Twisted Fate,12,50%,4.1,Tristana,14,57%,6.6,Alistar,81,60%,4.2,1
+7095-9646,Gnar,2,50%,4.0,Udyr,9,11%,1.4,Syndra,5,20%,2.1,Aphelios,16,50%,3.2,Thresh,5,20%,2.0,Renekton,32,38%,2.6,Nidalee,4,50%,4.4,Azir,6,33%,3.2,Tristana,5,60%,2.6,Rell,4,50%,3.1,1
+7304-9648,Camille,3,100%,36.0,Udyr,18,72%,4.4,Azir,28,46%,3.9,Tristana,14,57%,6.6,Gragas,18,56%,2.8,Sion,11,18%,2.6,Graves,21,33%,3.6,Syndra,6,17%,1.9,Samira,3,0%,1.6,Alistar,11,45%,2.1,0
+ESPORTSTMNT04/1520177,Jayce,4,75%,4.1,Olaf,12,75%,5.3,Cassiopeia,2,100%,2.4,Kai'Sa,9,33%,3.7,Rell,9,44%,2.6,Renekton,8,38%,1.6,Hecarim,10,60%,4.3,Twisted Fate,1,0%,3.5,Xayah,16,25%,3.3,Alistar,16,69%,4.2,0
+ESPORTSTMNT04/1520177,Jayce,4,75%,4.1,Olaf,12,75%,5.3,Cassiopeia,2,100%,2.4,Kai'Sa,9,33%,3.7,Rell,9,44%,2.6,Renekton,8,38%,1.6,Hecarim,10,60%,4.3,Twisted Fate,1,0%,3.5,Xayah,16,25%,3.3,Alistar,16,69%,4.2,0
+ESPORTSTMNT06/1571179,Poppy,3,0%,1.6,Kayn,5,40%,2.4,Karma,1,0%,0.8,Aphelios,3,33%,2.1,Braum,8,63%,3.9,Gragas,1,100%,4.5,Hecarim,0,0,0,Orianna,10,50%,2.6,Kalista,3,33%,3.4,Taric,2,100%,8.7,1
+ESPORTSTMNT06/1571180,Sion,2,100%,3.2,Olaf,7,57%,2.4,Orianna,20,60%,5.7,Vayne,2,100%,32.0,Thresh,18,50%,3.2,Gnar,5,20%,1.3,Lillia,3,0%,2.1,Viktor,4,50%,6.2,Miss Fortune,16,44%,3.1,Rell,6,17%,1.4,0
+ESPORTSTMNT03/1757234,Gnar,7,86%,5.7,Udyr,5,60%,3.5,Ryze,7,71%,5.8,Ashe,3,33%,2.1,Lulu,2,0%,1.8,Malphite,5,60%,3.1,Hecarim,14,71%,3.5,Azir,29,45%,2.9,Senna,4,50%,3.5,Karma,5,40%,3.5,1
+ESPORTSTMNT04/1520252,Volibear,0,0,0,Hecarim,2,0%,1.7,Ziggs,0,0,0,Jinx,1,0%,2.5,Thresh,3,33%,1.5,Wukong,5,60%,3.0,Olaf,7,29%,2.2,Ryze,6,33%,3.9,Sivir,1,100%,11.0,Seraphine,3,67%,3.3,1
+ESPORTSTMNT03/1766813,Gnar,10,60%,2.9,Udyr,4,50%,4.8,Orianna,9,33%,3.4,Aphelios,9,44%,1.9,Thresh,7,43%,2.8,Gangplank,8,75%,7.0,Dr. Mundo,2,50%,7.3,Azir,7,29%,3.8,Kai'Sa,6,33%,4.2,Nautilus,6,17%,1.8,0
+ESPORTSTMNT03/1766836,Volibear,4,50%,3.5,Kindred,8,63%,2.6,Azir,6,83%,5.2,Senna,9,56%,5.7,Tahm Kench,9,56%,3.3,Camille,2,50%,5.8,Jarvan IV,1,0%,4.0,Kassadin,1,0%,3.0,Xayah,4,25%,3.4,Lulu,2,0%,2.7,0
+ESPORTSTMNT03/1766850,Gnar,30,80%,5.7,Udyr,11,73%,8.7,Azir,20,55%,4.3,Aphelios,11,91%,7.3,Rell,9,67%,2.9,Irelia,3,67%,3.6,Olaf,7,29%,2.5,Syndra,14,57%,3.6,Kai'Sa,10,60%,8.2,Alistar,15,27%,2.4,0
+ESPORTSTMNT06/1571183,Camille,0,0,0,Udyr,1,0%,3.0,Akali,1,0%,2.4,Miss Fortune,3,0%,1.1,Rell,5,0%,1.5,Volibear,1,100%,3.8,Lillia,7,57%,2.7,Yone,4,50%,2.2,Ezreal,8,88%,8.1,Gragas,5,60%,3.0,1
+ESPORTSTMNT04/1520258,Camille,3,67%,1.6,Hecarim,5,80%,2.7,Seraphine,3,67%,15.5,Sivir,1,100%,6.0,Bard,8,63%,4.7,Poppy,1,0%,4.0,Olaf,2,0%,1.8,Yone,1,0%,2.7,Ezreal,6,0%,1.3,Rell,3,33%,3.3,0
+ESPORTSTMNT06/1571185,Camille,1,100%,3.0,Kha'Zix,2,100%,5.2,Neeko,2,50%,1.6,Draven,1,100%,4.0,Seraphine,1,100%,24.0,Wukong,1,0%,1.1,Evelynn,1,0%,1.1,Yasuo,1,0%,1.0,Heimerdinger,1,0%,0.5,Karma,1,0%,0.8,0
+ESPORTSTMNT06/1571186,Aatrox,4,75%,3.9,Olaf,29,34%,3.1,Viktor,5,40%,4.0,Xayah,8,50%,4.8,Leona,4,50%,4.2,Gragas,7,57%,5.1,Graves,34,38%,2.7,Zoe,6,50%,6.5,Samira,1,0%,0.5,Alistar,23,52%,2.9,0
+ESPORTSTMNT03/1766857,Gnar,27,37%,1.7,Skarner,2,50%,2.8,Orianna,11,27%,2.8,Samira,6,50%,4.7,Gragas,8,50%,3.3,Gangplank,13,77%,4.5,Olaf,10,70%,6.1,Ryze,17,29%,2.2,Xayah,20,65%,5.7,Alistar,5,80%,5.5,1
+ESPORTSTMNT03/1757270,Volibear,4,50%,3.0,Udyr,8,63%,8.1,Ryze,4,50%,4.3,Samira,3,33%,4.5,Nautilus,16,63%,2.2,Camille,3,67%,2.8,Nidalee,2,50%,6.8,Twisted Fate,0,0,0,Aphelios,2,50%,3.6,Thresh,5,40%,3.1,1
+ESPORTSTMNT06/1571188,Aatrox,12,50%,4.2,Taliyah,4,75%,6.3,Ryze,22,68%,5.1,Jhin,3,33%,5.8,Nautilus,5,40%,1.9,Pantheon,2,0%,1.4,Graves,3,33%,4.6,Ekko,30,50%,3.7,Kalista,5,60%,2.8,Thresh,1,0%,1.3,0
+ESPORTSTMNT03/1766881,Camille,6,50%,2.1,Lillia,7,43%,2.6,Galio,7,29%,5.7,Senna,10,70%,5.7,Tahm Kench,2,50%,0.8,Pantheon,5,80%,2.2,Udyr,7,86%,12.0,Zoe,7,43%,4.2,Aphelios,13,46%,2.5,Karma,5,60%,3.7,0
+ESPORTSTMNT06/1571189,Ornn,0,0,0,Lillia,4,0%,0.9,Jayce,1,0%,0.8,Xayah,2,0%,0.6,Rakan,10,50%,2.2,Vladimir,11,64%,3.3,Hecarim,3,67%,4.9,Syndra,4,75%,6.6,Jhin,14,57%,4.1,Rell,4,75%,4.9,1
+ESPORTSTMNT06/1571190,Renekton,9,89%,5.2,Udyr,10,90%,8.1,Ryze,21,71%,5.5,Ezreal,23,74%,8.1,Galio,8,75%,6.3,Gragas,1,0%,0.0,Olaf,5,40%,2.4,Orianna,6,33%,5.2,Aphelios,18,50%,4.4,Alistar,16,44%,2.4,0
+ESPORTSTMNT03/1766890,Sett,19,74%,2.3,Lillia,5,40%,2.4,Viktor,9,33%,4.3,Aphelios,9,22%,2.2,Braum,12,33%,2.2,Gangplank,23,65%,3.1,Kayn,3,33%,2.1,Ryze,8,38%,2.6,Kai'Sa,20,65%,4.6,Alistar,6,50%,1.7,1
+ESPORTSTMNT03/1766951,Ornn,24,63%,4.0,Taliyah,5,100%,11.3,Tristana,8,75%,7.1,Ashe,7,71%,8.0,Seraphine,7,71%,5.6,Malphite,2,0%,2.0,Graves,14,7%,1.9,Syndra,6,33%,1.9,Kai'Sa,16,50%,4.3,Rell,5,0%,1.9,0
+ESPORTSTMNT06/1571193,Aatrox,13,46%,3.3,Hecarim,6,33%,4.5,Azir,18,56%,3.0,Ashe,11,64%,4.8,Janna,1,100%,12.0,Gragas,1,0%,1.0,Graves,5,40%,4.2,Veigar,2,0%,3.0,Xayah,5,0%,2.6,Lulu,5,20%,1.8,0
+ESPORTSTMNT06/1571195,Jax,9,56%,2.5,Lillia,3,33%,1.2,Azir,4,50%,4.1,Kalista,5,40%,2.9,Leona,10,40%,2.1,Camille,10,80%,3.2,Graves,15,80%,6.1,Orianna,28,64%,4.2,Senna,4,75%,6.3,Alistar,30,57%,2.6,1
+ESPORTSTMNT03/1766962,Aatrox,17,41%,2.5,Udyr,7,71%,5.0,Orianna,15,80%,8.2,Xayah,11,64%,4.0,Alistar,15,73%,4.6,Renekton,6,50%,1.5,Lillia,13,54%,4.6,Viktor,12,33%,3.3,Jhin,4,25%,1.9,Sett,2,0%,1.2,0
+ESPORTSTMNT03/1757332,Volibear,5,40%,2.5,Ekko,6,50%,2.0,Lucian,4,75%,4.0,Kai'Sa,7,29%,2.9,Gragas,1,100%,15.0,Aatrox,19,74%,2.5,Udyr,3,33%,2.9,Orianna,2,50%,4.8,Tristana,7,29%,2.2,Alistar,7,29%,2.8,0
+ESPORTSTMNT03/1766969,Gangplank,4,25%,3.2,Graves,7,57%,4.2,Ryze,12,75%,7.0,Ziggs,2,50%,2.4,Pyke,2,50%,2.4,Camille,7,57%,3.6,Lillia,0,0,0,Azir,9,44%,2.5,Senna,7,57%,5.4,Tahm Kench,0,0,0,0
+ESPORTSTMNT03/1757365,Gnar,13,69%,4.3,Udyr,2,0%,1.5,Cassiopeia,9,56%,5.3,Kai'Sa,1,0%,1.0,Alistar,17,41%,3.1,Gangplank,1,100%,4.0,Lillia,4,75%,4.0,Corki,3,33%,3.0,Xayah,5,80%,7.4,Rell,0,0,0,1
+ESPORTSTMNT03/1766985,Cho'Gath,24,75%,3.2,Nocturne,4,50%,2.4,Seraphine,3,67%,4.5,Samira,2,100%,19.0,Rell,3,67%,3.8,Gnar,6,50%,2.2,Kayn,2,50%,4.5,Ryze,4,50%,2.2,Ezreal,24,50%,5.0,Alistar,17,65%,5.3,0
+ESPORTSTMNT03/1757380,Ornn,8,38%,4.4,Lillia,4,50%,7.0,Lucian,2,50%,7.3,Aphelios,10,20%,2.1,Thresh,4,50%,6.7,Sett,8,25%,1.4,Hecarim,3,33%,1.6,Orianna,4,50%,3.5,Ashe,7,43%,3.9,Alistar,7,43%,1.5,0
+ESPORTSTMNT06/1581154,Gragas,6,67%,2.8,Skarner,0,0,0,Corki,2,100%,22.0,Tristana,11,64%,6.0,Alistar,6,50%,2.1,Darius,2,50%,3.4,Jarvan IV,2,0%,1.6,Sylas,3,67%,4.3,Ezreal,3,0%,2.1,Seraphine,1,0%,0.6,0
+ESPORTSTMNT03/1766997,Aatrox,7,29%,1.5,Jarvan IV,32,66%,4.8,Syndra,6,33%,1.9,Kai'Sa,16,50%,4.3,Gragas,1,100%,2.0,Gnar,4,25%,4.1,Graves,0,0,0,Ryze,2,0%,3.7,Ashe,7,29%,5.0,Rell,0,0,0,0
+ESPORTSTMNT03/1767008,Zac,1,100%,11.0,Kayn,2,50%,1.8,Viktor,1,100%,5.5,Senna,4,50%,3.5,Seraphine,2,100%,13.0,Gangplank,5,0%,1.7,Lillia,4,25%,1.9,Sylas,1,0%,1.4,Sivir,1,0%,3.0,Lulu,1,0%,1.3,0
+ESPORTSTMNT01/1840328,Gragas,4,25%,1.5,Udyr,2,0%,2.8,Corki,2,50%,4.0,Kalista,3,33%,3.9,Rell,5,60%,2.2,Aatrox,17,65%,3.4,Dr. Mundo,2,100%,4.8,Azir,11,36%,2.7,Aphelios,18,50%,5.9,Thresh,20,50%,3.9,1
+ESPORTSTMNT01/1850299,Gnar,44,68%,4.6,Lillia,7,57%,4.2,Syndra,3,33%,2.2,Xayah,50,54%,5.1,Alistar,4,75%,3.4,Camille,9,56%,2.6,Hecarim,11,36%,2.5,Orianna,14,43%,3.5,Kai'Sa,38,50%,3.7,Nautilus,8,25%,1.8,0
+ESPORTSTMNT03/1767020,Ornn,12,67%,3.6,Graves,6,83%,4.1,Orianna,30,63%,4.3,Senna,7,86%,8.2,Tahm Kench,26,73%,3.5,Vladimir,14,71%,3.9,Udyr,6,17%,1.8,Viktor,2,0%,0.5,Xayah,4,25%,3.6,Rakan,1,0%,0.5,0
+ESPORTSTMNT01/1840341,Gnar,10,60%,4.0,Dr. Mundo,2,100%,4.8,Galio,12,67%,4.3,Senna,6,50%,13.2,Leona,7,29%,1.9,Jayce,5,40%,1.6,Udyr,8,50%,5.3,Azir,19,58%,4.8,Jhin,19,37%,4.0,Bard,2,0%,3.6,0
+ESPORTSTMNT01/1850309,Gnar,11,36%,2.1,Hecarim,11,36%,2.5,Akali,6,50%,4.2,Jinx,9,44%,2.6,Nautilus,8,25%,1.8,Gangplank,26,58%,3.3,Lillia,7,57%,4.2,Viktor,2,50%,2.7,Kai'Sa,36,58%,6.3,Galio,1,100%,3.5,1
+ESPORTSTMNT01/1850319,Sylas,5,100%,9.0,Graves,13,62%,6.3,Sett,6,100%,10.1,Seraphine,5,100%,16.3,Alistar,36,67%,3.1,Ornn,10,60%,3.9,Hecarim,1,0%,0.3,Viktor,6,33%,1.6,Kai'Sa,31,52%,4.2,Rell,12,50%,1.5,0
+ESPORTSTMNT01/1850326,Jayce,13,85%,5.2,Nidalee,22,68%,8.8,Twisted Fate,18,83%,4.6,Senna,15,93%,7.8,Tahm Kench,26,54%,2.5,Camille,10,60%,3.1,Graves,23,35%,2.9,Orianna,10,30%,2.8,Kalista,5,40%,2.3,Galio,5,80%,4.7,0
+ESPORTSTMNT03/1757515,Irelia,10,70%,5.2,Udyr,11,64%,4.8,Syndra,30,50%,3.5,Kai'Sa,40,50%,4.3,Alistar,17,59%,3.4,Gnar,11,27%,2.1,Olaf,19,53%,3.2,Orianna,20,45%,4.5,Tristana,9,44%,4.6,Rakan,7,57%,4.2,0
+7097-9652,Gnar,7,57%,2.9,Udyr,11,73%,6.8,Viktor,6,67%,4.3,Kai'Sa,14,57%,3.8,Alistar,6,67%,3.2,Renekton,6,33%,2.2,Graves,13,38%,2.7,Seraphine,4,75%,6.7,Samira,8,50%,5.8,Rell,0,0,0,0
+7098-9653,Gragas,2,0%,3.6,Hecarim,9,44%,3.3,Azir,9,33%,2.8,Kai'Sa,13,23%,4.6,Sett,2,0%,1.3,Gnar,15,60%,5.0,Udyr,5,40%,1.3,Irelia,1,100%,4.7,Aphelios,0,0,0,Thresh,23,70%,4.3,1
+ESPORTSTMNT03/1757538,Sion,7,29%,1.9,Lillia,11,27%,2.7,Orianna,20,45%,4.5,Tristana,9,44%,4.6,Rakan,7,57%,4.2,Gnar,4,50%,2.3,Nidalee,30,60%,4.9,Syndra,30,50%,3.5,Kai'Sa,40,50%,4.3,Leona,13,69%,2.7,0
+7097-9654,Renekton,38,61%,3.4,Hecarim,5,20%,3.2,Azir,9,33%,3.6,Kai'Sa,14,57%,3.8,Thresh,5,80%,5.0,Gragas,1,0%,0.8,Lillia,1,0%,1.2,Irelia,1,0%,0.7,Xayah,7,29%,2.7,Rell,0,0,0,0
+7098-9655,Gnar,15,60%,5.0,Udyr,5,40%,1.3,Azir,3,33%,1.9,Ezreal,0,0,0,Gragas,2,0%,1.4,Jayce,3,67%,3.3,Lillia,7,43%,2.8,Yone,3,33%,3.7,Tristana,6,67%,4.8,Rell,9,33%,2.3,1
+7305-9656,Renekton,22,32%,2.3,Udyr,7,29%,3.5,Syndra,16,25%,2.0,Sivir,1,0%,7.5,Alistar,17,35%,2.4,Gragas,19,58%,3.8,Graves,24,50%,3.2,Orianna,22,45%,3.9,Ezreal,65,60%,6.8,Rell,8,88%,3.6,1
+ESPORTSTMNT03/1757545,Volibear,15,60%,3.0,Nidalee,30,60%,4.9,Azir,85,61%,4.6,Kai'Sa,40,50%,4.3,Galio,11,64%,2.7,Sion,7,29%,1.9,Skarner,17,24%,2.1,Orianna,20,45%,4.5,Tristana,9,44%,4.6,Alistar,11,45%,2.9,0
+7098-9657,Jayce,10,30%,1.6,Lillia,16,63%,3.9,Azir,3,33%,1.9,Kai'Sa,0,0,0,Alistar,13,69%,3.8,Gnar,13,54%,2.7,Udyr,13,46%,5.7,Orianna,19,42%,2.7,Tristana,6,67%,4.8,Gragas,4,50%,2.5,1
+7099-9658,Renekton,20,55%,3.3,Olaf,8,63%,4.1,Zoe,10,50%,3.3,Jhin,33,42%,6.5,Rell,11,36%,2.2,Gnar,20,55%,4.3,Lillia,12,33%,3.4,Lucian,2,0%,3.7,Tristana,10,40%,4.4,Thresh,12,58%,4.7,0
+7305-9659,Camille,10,70%,3.7,Sejuani,9,44%,4.2,Renekton,2,100%,5.8,Xayah,6,83%,5.0,Galio,2,50%,2.8,Gnar,31,52%,3.4,Udyr,6,83%,12.4,Syndra,29,62%,3.4,Vayne,12,58%,2.8,Rell,8,88%,3.6,0
+ESPORTSTMNT03/1757554,Gragas,7,43%,3.8,Lillia,8,38%,4.5,Sion,6,33%,1.9,Tristana,40,58%,5.7,Rell,7,43%,2.2,Kled,1,0%,1.3,Kayn,2,50%,1.3,Syndra,22,41%,2.6,Kai'Sa,33,36%,3.3,Leona,9,78%,3.0,0
+7099-9661,Gangplank,1,100%,4.5,Udyr,6,33%,5.1,Zoe,28,46%,3.9,Kai'Sa,3,100%,30.0,Gragas,7,71%,2.5,Gnar,18,67%,3.9,Olaf,8,63%,4.1,Orianna,21,52%,4.1,Ezreal,30,33%,4.3,Rell,11,36%,2.2,0
+7100-9662,Poppy,27,70%,6.4,Udyr,15,60%,7.0,Viktor,12,67%,4.6,Samira,8,63%,5.6,Alistar,13,69%,4.8,Renekton,20,40%,2.1,Lillia,8,50%,3.5,Azir,0,0,0,Ezreal,2,50%,2.5,Rell,12,33%,2.0,1
+7305-9660,Gangplank,38,47%,3.8,Dr. Mundo,1,100%,8.0,Azir,39,59%,4.2,Jhin,33,55%,8.0,Gragas,11,55%,2.3,Gnar,16,56%,3.6,Udyr,7,29%,3.5,Syndra,16,25%,2.0,Lucian,3,33%,2.0,Rell,4,25%,2.1,0
+7099-9664,Rumble,2,50%,4.5,Olaf,8,63%,4.1,Seraphine,2,100%,7.0,Tristana,8,100%,14.4,Rell,11,36%,2.2,Gragas,5,0%,1.4,Udyr,6,33%,5.1,Orianna,1,0%,2.0,Xayah,4,25%,2.3,Rakan,9,44%,3.0,0
+7100-9665,Wukong,19,74%,3.7,Lillia,8,50%,5.7,Renekton,5,60%,4.8,Tristana,5,20%,3.2,Gragas,2,50%,1.2,Jayce,9,44%,1.6,Hecarim,8,38%,2.5,Orianna,0,0,0,Ezreal,2,50%,2.5,Rell,12,33%,2.0,0
+ESPORTSTMNT03/1757588,Gnar,12,42%,2.0,Graves,5,20%,2.4,Zoe,20,25%,2.5,Samira,14,57%,3.7,Alistar,37,46%,2.2,Irelia,7,43%,3.5,Nidalee,5,20%,2.3,Syndra,30,47%,3.3,Kai'Sa,24,25%,3.2,Galio,12,58%,3.5,1
+7100-9667,Poppy,27,70%,6.4,Udyr,15,60%,7.0,Zoe,0,0,0,Ezreal,23,48%,4.0,Alistar,13,69%,4.8,Aatrox,19,32%,2.2,Lillia,8,50%,3.5,Azir,0,0,0,Samira,3,33%,3.3,Gragas,1,0%,1.3,0
+ESPORTSTMNT04/1520341,Renekton,11,55%,3.4,Udyr,2,0%,1.6,Cassiopeia,5,60%,2.4,Xayah,2,0%,1.3,Thresh,7,14%,2.3,Jayce,4,75%,4.1,Olaf,12,75%,5.3,Viktor,4,50%,4.1,Kalista,3,100%,8.0,Alistar,7,43%,3.1,1
+ESPORTSTMNT02/1689209,Ornn,5,0%,1.5,Olaf,8,0%,1.2,Azir,3,0%,2.7,Xayah,0,0,0,Janna,1,0%,3.0,Gangplank,6,33%,3.3,Lillia,5,80%,7.6,Sett,2,100%,3.6,Kai'Sa,20,80%,7.2,Rell,9,56%,2.6,1
+ESPORTSTMNT04/1520353,Wukong,1,0%,1.8,Lillia,3,33%,3.6,LeBlanc,1,0%,2.7,Xayah,3,0%,2.1,Leona,2,0%,1.9,Kennen,1,100%,2.3,Hecarim,5,80%,2.7,Corki,3,100%,12.7,Jhin,4,75%,12.0,Braum,15,53%,4.0,1
+ESPORTSTMNT04/1520366,Renekton,8,38%,1.6,Udyr,7,57%,4.1,Galio,2,50%,2.6,Kai'Sa,19,47%,4.5,Nautilus,11,55%,2.2,Gragas,1,0%,2.0,Lillia,2,50%,2.3,Tristana,1,0%,1.3,Aphelios,6,50%,3.8,Thresh,1,0%,2.5,0
+ESPORTSTMNT04/1520399,Renekton,0,0,0,Olaf,6,50%,3.0,Orianna,5,80%,6.5,Sivir,1,100%,5.3,Rell,6,67%,2.8,Kennen,0,0,0,Udyr,1,0%,1.3,Tristana,1,0%,1.0,Kai'Sa,4,25%,1.9,Gragas,1,0%,1.4,0
+ESPORTSTMNT04/1520410,Sion,7,71%,4.1,Lillia,8,63%,6.2,Azir,11,36%,1.7,Jinx,6,50%,6.6,Thresh,15,53%,4.1,Sett,6,83%,3.2,Nidalee,21,71%,4.9,Lucian,6,83%,7.4,Kai'Sa,25,48%,6.3,Blitzcrank,3,67%,1.9,1
+ESPORTSTMNT04/1530428,Gragas,3,67%,1.8,Graves,17,41%,3.9,Ryze,21,57%,3.5,Kai'Sa,36,53%,7.8,Rell,10,60%,2.0,Shen,7,29%,3.6,Hecarim,9,56%,3.4,Seraphine,1,0%,8.0,Caitlyn,15,60%,4.5,Morgana,14,50%,3.9,0
+ESPORTSTMNT01/1890214,Karma,5,20%,3.0,Hecarim,10,60%,4.7,Azir,32,75%,4.0,Kai'Sa,38,66%,5.2,Rell,9,56%,3.6,Gragas,4,25%,1.1,Skarner,3,0%,1.3,Syndra,16,31%,2.5,Jinx,8,38%,2.5,Janna,12,58%,6.3,0
+ESPORTSTMNT03/1757744,Renekton,2,50%,1.7,Lillia,4,75%,4.0,Lucian,4,75%,2.9,Jhin,5,40%,4.2,Gragas,0,0,0,Camille,6,67%,2.8,Sejuani,3,67%,6.6,Orianna,10,50%,4.1,Jinx,6,17%,2.9,Braum,4,0%,2.6,0
+ESPORTSTMNT01/1890244,Gragas,5,40%,4.0,Olaf,9,56%,6.2,Seraphine,2,50%,8.3,Tristana,14,71%,4.9,Alistar,23,70%,3.3,Shen,15,53%,4.0,Hecarim,7,71%,6.1,Syndra,70,49%,3.4,Kai'Sa,29,66%,5.0,Galio,8,50%,2.6,1
+ESPORTSTMNT03/1767371,Gangplank,5,0%,1.7,Graves,0,0,0,Seraphine,1,0%,9.0,Xayah,3,0%,1.3,Nautilus,2,0%,1.0,Orianna,1,100%,4.0,Gragas,4,50%,2.4,Sylas,5,20%,2.6,Sivir,7,57%,5.6,Rakan,5,80%,5.5,1
+NA1/3803502879,Aatrox,11,82%,5.3,Udyr,12,67%,5.7,Orianna,15,33%,3.5,Jinx,1,0%,0.0,Nautilus,20,50%,3.6,Volibear,1,100%,12.0,Skarner,3,33%,1.4,Zoe,1,100%,17.0,Sivir,2,100%,11.3,Thresh,11,55%,3.1,1
+ESPORTSTMNT01/1890282,Renekton,23,61%,2.9,Olaf,14,57%,2.8,Orianna,20,60%,4.0,Varus,29,48%,3.7,Neeko,1,100%,1.0,Sion,3,33%,3.7,Graves,12,50%,5.8,Syndra,16,56%,3.7,Senna,8,25%,4.0,Tahm Kench,9,56%,3.4,0
+NA1/3803393587,Gangplank,8,63%,4.1,Skarner,3,33%,1.4,Syndra,8,63%,2.6,Varus,1,0%,1.2,Thresh,11,55%,3.1,Aatrox,11,82%,5.3,Udyr,12,67%,5.7,Yone,13,62%,2.9,Karthus,1,100%,9.5,Alistar,8,50%,2.4,1
+NA1/3803393862,Urgot,2,50%,2.7,Udyr,12,67%,5.7,Yone,13,62%,2.9,Swain,1,100%,11.5,Alistar,8,50%,2.4,Gragas,7,43%,2.8,Skarner,3,33%,1.4,Lucian,1,0%,0.8,Kai'Sa,7,57%,3.9,Thresh,11,55%,3.1,0
+ESPORTSTMNT03/1767384,Kennen,10,80%,4.5,Olaf,15,40%,2.6,Orianna,7,43%,5.5,Kai'Sa,8,63%,4.5,Rell,9,44%,2.0,Gnar,3,33%,2.1,Lillia,4,25%,1.7,Azir,3,0%,1.4,Xayah,5,0%,1.2,Gragas,3,33%,3.5,0
+ESPORTSTMNT01/1890301,Gnar,6,17%,1.8,Jarvan IV,10,70%,9.4,Azir,32,53%,3.2,Kai'Sa,17,35%,3.8,Seraphine,1,0%,17.0,Gragas,11,82%,5.5,Olaf,21,57%,3.5,Zoe,16,50%,5.2,Aphelios,15,73%,4.4,Thresh,9,22%,2.0,1
+ESPORTSTMNT03/1767419,Renekton,4,50%,3.0,Udyr,5,60%,4.0,Orianna,10,30%,3.0,Ezreal,59,54%,5.0,Nautilus,31,35%,1.8,Ornn,1,0%,1.0,Olaf,8,38%,2.0,Azir,12,33%,2.8,Kai'Sa,9,22%,1.6,Thresh,9,33%,2.8,0
+ESPORTSTMNT03/1757799,Renekton,12,50%,3.5,Nidalee,15,47%,3.8,Orianna,14,43%,3.1,Tahm Kench,1,0%,2.0,Senna,1,0%,3.7,Gragas,8,38%,3.6,Karthus,3,67%,1.9,Lucian,12,75%,4.0,Kai'Sa,47,62%,4.2,Braum,2,50%,6.5,1
+7307-9669,Sion,3,33%,2.0,Olaf,9,33%,2.1,Viktor,8,38%,2.4,Kai'Sa,33,48%,4.4,Gragas,1,0%,4.0,Aatrox,18,33%,2.0,Udyr,6,0%,2.2,Azir,3,0%,0.5,Samira,3,0%,1.6,Alistar,11,45%,2.1,0
+7103-9672,Gnar,10,60%,3.7,Udyr,9,78%,6.7,Azir,20,70%,4.3,Sivir,1,100%,9.0,Alistar,38,53%,3.4,Wukong,8,50%,2.5,Lillia,0,0,0,Tristana,2,50%,3.0,Ezreal,35,43%,3.4,Rell,7,14%,1.6,0
+7307-9671,Renekton,40,48%,2.9,Lillia,6,33%,2.9,Lucian,5,80%,4.0,Ezreal,3,33%,3.0,Alistar,11,45%,2.1,Sion,3,33%,2.0,Udyr,10,30%,2.7,Azir,22,45%,3.5,Jinx,13,38%,4.6,Rell,1,0%,0.8,0
+ESPORTSTMNT03/1757821,Malphite,2,100%,4.5,Udyr,6,83%,4.3,Renekton,5,80%,5.3,Kai'Sa,47,62%,4.2,Pyke,1,100%,4.0,Jayce,15,33%,2.0,Skarner,1,0%,1.3,Syndra,15,47%,2.7,Aphelios,6,83%,3.7,Thresh,7,71%,3.3,0
+7103-9673,Gnar,13,31%,2.0,Lillia,0,0,0,Azir,3,0%,1.3,Kai'Sa,29,31%,4.6,Alistar,35,43%,2.9,Camille,13,77%,5.9,Taliyah,3,100%,24.0,Galio,2,100%,16.5,Tristana,20,60%,5.0,Rell,5,80%,3.5,1
+7307-9675,Gnar,17,41%,2.6,Udyr,10,30%,2.7,Viktor,8,38%,2.4,Lucian,42,26%,3.7,Seraphine,0,0,0,Gangplank,27,52%,3.7,Graves,21,33%,3.6,Azir,3,0%,0.5,Tristana,18,50%,4.8,Leona,11,45%,1.9,0
+ESPORTSTMNT03/1757851,Camille,3,33%,1.7,Lillia,4,75%,5.9,Irelia,2,50%,2.9,Lucian,28,46%,5.8,Yuumi,11,64%,9.2,Sion,30,67%,3.8,Kayn,5,60%,2.1,Viktor,13,85%,4.5,Senna,25,88%,9.7,Maokai,10,100%,7.2,1
+7105-9678,Jayce,5,20%,2.1,Karthus,1,0%,1.3,Renekton,2,0%,1.3,Aphelios,6,17%,2.0,Thresh,10,40%,3.5,Gnar,14,57%,3.2,Lillia,9,44%,3.0,Orianna,10,70%,6.8,Kai'Sa,21,38%,3.1,Sett,20,60%,2.5,1
+7308-9676,Camille,19,79%,3.8,Hecarim,4,0%,1.4,Seraphine,2,0%,0.7,Kai'Sa,23,30%,3.1,Thresh,32,63%,3.8,Jax,16,56%,2.8,Olaf,36,75%,4.8,Sylas,17,65%,4.5,Tristana,21,67%,4.7,Gragas,2,50%,3.4,1
+ESPORTSTMNT04/1520452,Aatrox,26,65%,5.6,Olaf,12,75%,5.3,Twisted Fate,7,86%,4.5,Kalista,3,100%,8.0,Leona,8,75%,3.0,Sett,6,67%,2.0,Rek'Sai,1,0%,0.8,Galio,2,50%,2.6,Kai'Sa,19,47%,4.5,Nautilus,11,55%,2.2,0
+7104-9679,Camille,6,67%,2.2,Olaf,49,57%,4.4,Galio,20,60%,4.5,Tristana,24,71%,4.7,Rell,21,67%,3.2,Gnar,0,0,0,Udyr,9,33%,4.5,Viktor,11,64%,4.7,Sivir,6,17%,5.9,Gragas,3,67%,3.4,0
+7105-9684,Aatrox,41,66%,3.9,Lillia,9,44%,3.0,Yone,5,40%,4.6,Tristana,16,63%,4.2,Sett,20,60%,2.5,Fiora,3,33%,3.5,Olaf,3,0%,1.9,Orianna,6,33%,2.7,Ezreal,3,0%,3.1,Alistar,9,11%,1.6,0
+7308-9680,Lucian,2,100%,4.3,Skarner,17,82%,6.5,Gragas,1,100%,11.0,Kalista,16,56%,3.3,Nautilus,19,58%,4.3,Gnar,7,29%,2.7,Lillia,5,0%,1.9,Sett,12,67%,4.5,Aphelios,2,0%,1.4,Thresh,32,63%,3.8,0
+ESPORTSTMNT02/1689280,Gnar,9,22%,2.1,Olaf,7,29%,2.1,Orianna,15,33%,2.6,Jhin,0,0,0,Gragas,5,40%,4.3,Aatrox,22,59%,3.0,Taliyah,3,67%,5.0,Viktor,22,36%,2.5,Kai'Sa,32,50%,4.3,Rell,6,33%,2.8,1
+ESPORTSTMNT03/1757878,Sion,30,67%,3.8,Kayn,5,60%,2.1,Syndra,54,70%,5.0,Ezreal,52,50%,3.8,Seraphine,4,75%,4.8,Camille,3,33%,1.7,Lillia,4,75%,5.9,Lucian,3,100%,5.1,Senna,12,58%,7.9,Nautilus,5,80%,3.9,1
+7104-9681,Gnar,0,0,0,Udyr,9,33%,4.5,Viktor,11,64%,4.7,Sivir,6,17%,5.9,Rell,9,56%,2.5,Camille,6,67%,2.2,Olaf,49,57%,4.4,Gragas,3,100%,10.7,Tristana,24,71%,4.7,Leona,8,75%,3.7,1
+ESPORTSTMNT04/1520454,Ornn,17,71%,5.2,Lillia,1,100%,10.0,Lucian,3,33%,4.4,Ezreal,26,42%,3.9,Gragas,9,44%,2.1,Volibear,3,0%,1.7,Hecarim,3,33%,3.6,Azir,17,35%,3.0,Xayah,2,0%,1.1,Rell,5,40%,2.4,0
+7309-9682,Gnar,20,65%,3.9,Graves,21,33%,2.8,Azir,28,46%,3.9,Kai'Sa,75,56%,5.0,Alistar,81,60%,4.2,Jayce,66,67%,3.1,Lillia,10,50%,4.6,Sion,10,50%,3.4,Samira,6,33%,2.9,Rell,22,73%,3.7,0
+ESPORTSTMNT03/1757884,Camille,3,33%,1.7,Graves,3,33%,2.3,Ryze,1,0%,1.3,Samira,2,0%,1.2,Rell,7,14%,1.5,Gangplank,26,77%,3.8,Nidalee,23,83%,6.1,Seraphine,3,100%,12.3,Xayah,34,56%,3.8,Alistar,32,75%,3.6,1
+ESPORTSTMNT03/1767519,Jayce,4,0%,1.2,Olaf,12,42%,3.0,Viktor,7,0%,1.2,Kai'Sa,11,9%,1.5,Rell,4,50%,4.0,Gnar,27,67%,4.0,Graves,10,30%,2.3,Azir,5,100%,6.1,Aphelios,14,50%,3.4,Thresh,52,54%,3.6,1
+7309-9683,Sion,13,69%,5.3,Graves,21,33%,2.8,Orianna,27,67%,7.1,Kai'Sa,75,56%,5.0,Alistar,81,60%,4.2,Renekton,20,70%,4.6,Hecarim,8,63%,5.4,Viktor,43,60%,3.9,Samira,6,33%,2.9,Rell,22,73%,3.7,0
+ESPORTSTMNT04/1520472,Lulu,2,0%,2.0,Olaf,12,42%,3.6,Orianna,9,22%,2.7,Aphelios,9,44%,2.9,Leona,11,55%,2.5,Aatrox,25,72%,3.8,Udyr,5,60%,3.9,Azir,25,72%,5.1,Kai'Sa,21,67%,5.9,Senna,1,100%,12.0,1
+ESPORTSTMNT04/1530511,Gnar,9,56%,4.9,Lillia,1,0%,1.0,Viktor,2,50%,3.0,Kai'Sa,15,40%,4.3,Rell,3,67%,3.9,Cho'Gath,8,63%,3.3,Nidalee,7,71%,4.7,Jayce,4,75%,5.3,Xayah,13,77%,8.3,Alistar,9,89%,7.5,1
+ESPORTSTMNT01/1880573,Camille,16,63%,3.1,Jarvan IV,2,50%,1.0,Orianna,13,77%,7.5,Aphelios,13,77%,4.3,Thresh,23,48%,3.4,Renekton,8,38%,3.5,Lillia,6,33%,3.9,Seraphine,2,0%,2.0,Jhin,1,0%,3.0,Leona,7,29%,2.3,0
+ESPORTSTMNT01/1880604,Gnar,12,50%,2.1,Lillia,10,70%,5.6,Twisted Fate,17,53%,6.0,Kai'Sa,9,78%,6.2,Alistar,40,70%,3.3,Sylas,1,0%,1.3,Hecarim,3,0%,3.9,Seraphine,2,50%,9.3,Tristana,20,60%,2.8,Rell,7,57%,2.8,0
+ESPORTSTMNT01/1890487,Renekton,3,67%,3.9,Lillia,11,36%,3.3,Irelia,2,100%,2.9,Senna,2,50%,2.7,Gragas,1,100%,11.0,Karma,1,0%,1.4,Skarner,2,0%,1.5,Tristana,1,0%,13.0,Ziggs,3,33%,5.4,Galio,1,0%,2.0,0
+ESPORTSTMNT04/1520514,Gnar,9,56%,4.4,Graves,3,33%,4.8,Orianna,8,25%,5.8,Ezreal,45,53%,4.0,Rell,3,33%,1.7,Wukong,14,71%,4.4,Nidalee,2,100%,21.0,Lucian,8,75%,3.4,Sivir,1,100%,10.0,Alistar,11,82%,3.9,1
+ESPORTSTMNT01/1880664,Fiora,2,50%,1.7,Sejuani,1,0%,1.5,Azir,24,38%,2.5,Senna,2,0%,0.3,Nautilus,3,33%,1.4,Camille,5,60%,4.1,Hecarim,6,100%,8.7,Ekko,3,67%,12.0,Sivir,20,45%,6.7,Rell,9,67%,2.9,1
+ESPORTSTMNT04/1530539,Sion,5,40%,2.9,Lillia,2,0%,1.1,Tristana,1,0%,0.4,Kalista,24,50%,3.3,Alistar,30,50%,3.7,Gnar,52,52%,3.5,Udyr,8,50%,5.0,Orianna,13,77%,10.8,Kai'Sa,9,78%,5.9,Rell,10,80%,4.6,1
+ESPORTSTMNT04/1520522,Gragas,13,69%,3.6,Olaf,34,71%,4.9,Syndra,38,71%,4.8,Jhin,49,45%,8.0,Rell,5,60%,1.5,Yone,1,0%,0.5,Lillia,5,40%,3.1,Azir,18,39%,2.8,Kalista,4,0%,1.6,Alistar,44,48%,2.8,0
+ESPORTSTMNT01/1880675,Renekton,3,0%,0.6,Lillia,3,33%,7.0,Zoe,18,72%,13.0,Caitlyn,1,0%,1.3,Thresh,14,36%,2.0,Gnar,4,50%,2.8,Olaf,11,45%,3.5,Azir,3,33%,5.4,Senna,9,56%,4.9,Nautilus,7,14%,1.3,1
+ESPORTSTMNT01/1880694,Gnar,17,53%,3.0,Lillia,3,67%,4.2,Azir,14,71%,3.7,Senna,1,100%,10.0,Tahm Kench,26,58%,3.4,Vladimir,9,44%,2.6,Jarvan IV,1,0%,0.7,Syndra,8,25%,4.9,Aphelios,9,33%,3.3,Thresh,5,20%,2.3,0
+ESPORTSTMNT01/1880717,Renekton,31,68%,4.4,Olaf,9,56%,6.2,Azir,45,67%,4.4,Aphelios,14,71%,4.8,Thresh,23,65%,4.9,Gragas,5,20%,1.4,Hecarim,10,20%,2.3,Syndra,16,56%,3.7,Jinx,2,0%,0.8,Tahm Kench,4,25%,1.6,0
+ESPORTSTMNT01/1880735,Malphite,5,80%,7.9,Gragas,22,82%,5.3,Yasuo,15,60%,3.1,Kai'Sa,38,66%,5.2,Rell,9,56%,3.6,Sion,15,60%,4.3,Graves,44,64%,3.3,Orianna,20,60%,4.0,Jhin,13,62%,12.3,Alistar,61,46%,3.7,0
+ESPORTSTMNT01/1880752,Gangplank,13,31%,2.2,Hecarim,8,75%,5.3,Zoe,6,50%,4.9,Seraphine,2,50%,9.0,Alistar,69,54%,3.1,Renekton,45,49%,3.1,Olaf,21,57%,3.5,Orianna,17,47%,4.0,Tristana,10,70%,8.4,Rell,8,75%,5.7,1
+ESPORTSTMNT01/1880793,Jayce,9,56%,2.7,Skarner,4,50%,3.9,Syndra,70,49%,3.4,Kai'Sa,29,66%,5.0,Rakan,31,61%,3.6,Gnar,6,17%,1.8,Lillia,9,44%,3.9,Azir,32,53%,3.2,Aphelios,17,41%,3.0,Rell,8,25%,2.7,0
+ESPORTSTMNT01/1880812,Ornn,8,25%,2.7,Lillia,12,75%,6.8,Viktor,3,67%,5.5,Jinx,11,64%,4.0,Thresh,25,48%,4.6,Jarvan IV,14,57%,2.8,Hecarim,9,67%,5.8,Azir,11,64%,3.3,Kai'Sa,8,50%,4.3,Gragas,0,0,0,0
+7106-9685,Ryze,3,0%,1.1,Poppy,6,33%,2.6,Azir,4,0%,4.7,Kai'Sa,14,21%,2.7,Alistar,9,22%,2.5,Gnar,14,79%,3.9,Kayn,4,100%,3.5,Seraphine,4,75%,6.7,Tristana,12,75%,4.3,Rell,0,0,0,1
+ESPORTSTMNT03/1757911,Ornn,17,47%,3.3,Graves,13,77%,6.7,Seraphine,5,40%,4.6,Kai'Sa,11,9%,1.5,Rakan,12,42%,2.9,Gnar,6,67%,6.8,Skarner,14,86%,4.2,Sylas,1,100%,17.0,Ezreal,59,54%,5.0,Rell,4,25%,1.7,1
+7106-9688,Ornn,7,14%,2.0,Poppy,6,33%,2.6,Ryze,2,0%,1.8,Kai'Sa,14,21%,2.7,Gragas,13,15%,1.8,Fiora,5,80%,3.8,Hecarim,6,67%,3.6,Seraphine,4,75%,6.7,Tristana,12,75%,4.3,Rell,0,0,0,1
+7310-9686,Camille,32,50%,3.5,Kayn,3,33%,1.3,Seraphine,4,25%,1.8,Kai'Sa,22,64%,4.9,Shen,4,75%,3.6,Gnar,2,50%,2.8,Graves,10,40%,4.0,Azir,38,47%,3.0,Samira,7,43%,3.9,Leona,10,50%,2.6,1
+ESPORTSTMNT03/1767577,Volibear,15,60%,3.0,Udyr,11,64%,4.8,Zoe,55,64%,6.2,Kai'Sa,40,50%,4.3,Alistar,17,59%,3.4,Jayce,29,45%,2.9,Lillia,7,43%,4.4,Azir,11,55%,3.3,Samira,10,70%,3.7,Nautilus,20,40%,2.2,1
+7310-9687,Volibear,15,47%,2.8,Udyr,8,25%,4.0,Azir,2,0%,0.6,Samira,3,0%,0.8,Rell,7,43%,1.8,Renekton,11,36%,2.0,Olaf,38,50%,4.2,Seraphine,1,100%,9.0,Xayah,20,40%,4.1,Rakan,16,56%,6.7,1
+ESPORTSTMNT02/1689313,Gnar,7,29%,1.9,Taliyah,2,50%,5.0,Syndra,19,16%,1.5,Samira,2,50%,12.5,Rell,7,29%,1.7,Camille,20,50%,3.0,Lillia,5,80%,7.6,Sett,2,100%,3.6,Kai'Sa,20,80%,7.2,Gragas,1,100%,2.7,1
+ESPORTSTMNT03/1767595,Gnar,29,41%,2.2,Udyr,5,20%,4.7,Orianna,44,73%,6.0,Kai'Sa,24,25%,3.2,Gragas,8,0%,1.3,Camille,34,68%,2.8,Nidalee,30,60%,4.9,Syndra,30,50%,3.5,Aphelios,19,68%,4.8,Leona,13,69%,2.7,1
+7311-9692,Sion,4,75%,2.9,Nidalee,26,65%,3.7,Lucian,8,63%,4.1,Kai'Sa,75,64%,5.2,Alistar,27,48%,3.6,Aatrox,21,52%,2.8,Olaf,8,25%,2.0,Syndra,6,33%,2.2,Sivir,24,46%,3.5,Gragas,9,22%,1.7,0
+ESPORTSTMNT03/1767621,Gnar,4,50%,2.3,Nidalee,30,60%,4.9,Azir,85,61%,4.6,Aphelios,19,68%,4.8,Galio,11,64%,2.7,Irelia,7,43%,3.5,Graves,9,33%,2.4,Syndra,30,47%,3.3,Kai'Sa,24,25%,3.2,Nautilus,20,40%,2.2,0
+7311-9694,Sion,13,38%,2.0,Kayn,2,50%,2.2,Galio,9,44%,4.0,Tristana,8,38%,3.3,Rell,7,29%,1.8,Gnar,8,25%,2.4,Nidalee,26,65%,3.7,Zoe,34,53%,7.0,Ezreal,45,56%,4.1,Alistar,27,48%,3.6,0
+7110-9696,Wukong,3,100%,3.2,Olaf,15,40%,2.7,Azir,6,33%,3.2,Samira,4,50%,2.5,Alistar,31,55%,3.5,Aatrox,16,31%,2.3,Lillia,8,50%,5.7,Corki,22,41%,3.8,Tristana,5,20%,3.2,Rell,8,50%,2.0,0
+ESPORTSTMNT04/1530554,Gragas,3,33%,1.7,Nidalee,5,60%,5.0,Pantheon,8,63%,3.3,Kalista,2,0%,1.6,Nautilus,11,45%,2.7,Aatrox,26,65%,5.6,Lillia,1,100%,8.0,Jayce,2,100%,3.3,Miss Fortune,4,50%,6.7,Rell,9,44%,2.6,1
+ESPORTSTMNT03/1757973,Renekton,16,75%,4.0,Nidalee,1,100%,7.0,Zoe,8,75%,6.2,Aphelios,14,50%,3.4,Thresh,52,54%,3.6,Gragas,5,40%,4.6,Graves,26,42%,2.2,Azir,12,33%,2.8,Ezreal,5,0%,1.3,Karma,4,25%,4.7,0
+7311-9697,Jayce,14,57%,2.6,Graves,15,47%,2.6,Azir,42,62%,4.7,Kai'Sa,75,64%,5.2,Leona,19,74%,4.0,Gnar,11,27%,1.5,Olaf,8,25%,2.0,Zoe,44,52%,5.3,Tristana,8,38%,3.3,Thresh,50,52%,3.5,0
+7110-9698,Aatrox,16,31%,2.3,Nidalee,5,40%,8.4,Renekton,0,0,0,Ezreal,23,48%,4.0,Gragas,2,50%,1.2,Sion,15,47%,2.6,Lillia,11,18%,2.4,Viktor,9,44%,4.2,Lucian,2,50%,3.3,Alistar,31,55%,3.5,1
+7109-9699,Renekton,20,40%,2.1,Nidalee,21,52%,3.6,Galio,0,0,0,Senna,2,0%,0.9,Alistar,8,38%,1.9,Gnar,15,60%,5.0,Lillia,16,63%,3.9,Lucian,3,100%,5.9,Xayah,0,0,0,Rell,5,80%,2.9,1
+ESPORTSTMNT04/1530560,Aatrox,7,57%,2.4,Udyr,4,0%,1.2,Azir,3,33%,3.3,Sivir,4,0%,2.2,Rell,5,40%,2.6,Gnar,7,57%,2.9,Lillia,5,80%,3.3,Lucian,3,67%,4.8,Miss Fortune,8,50%,9.0,Thresh,4,75%,5.0,1
+ESPORTSTMNT03/1758011,Volibear,3,67%,11.0,Udyr,1,100%,6.5,Viktor,5,60%,5.4,Xayah,6,33%,2.4,Thresh,18,56%,3.1,Gragas,5,40%,4.6,Graves,26,42%,2.2,Azir,12,33%,2.8,Kai'Sa,9,22%,1.6,Alistar,6,33%,3.7,0
+ESPORTSTMNT04/1530561,Gnar,6,50%,3.4,Hecarim,4,50%,3.1,Azir,5,40%,2.9,Jhin,5,20%,4.6,Maokai,1,100%,4.5,Camille,2,0%,1.6,Lillia,3,0%,1.7,Corki,1,0%,2.4,Ezreal,2,0%,1.2,Rell,6,17%,1.3,0
+7109-9701,Jayce,10,30%,1.6,Udyr,5,40%,1.3,Zoe,10,70%,5.4,Xayah,0,0,0,Rakan,20,60%,3.1,Renekton,20,40%,2.1,Nidalee,5,20%,3.4,Syndra,0,0,0,Tristana,2,0%,2.1,Rell,12,33%,2.0,0
+ESPORTSTMNT04/1530571,Kennen,23,43%,1.9,Skarner,0,0,0,Lucian,2,50%,2.8,Miss Fortune,7,43%,8.4,Rell,5,40%,2.9,Gnar,4,50%,1.2,Hecarim,6,33%,2.5,Syndra,4,50%,3.0,Aphelios,2,100%,9.0,Thresh,14,79%,4.9,1
+ESPORTSTMNT01/1890825,Aatrox,6,50%,2.9,Udyr,3,33%,3.1,Sylas,3,67%,3.8,Seraphine,3,67%,4.6,Alistar,3,33%,2.6,Malphite,2,0%,0.3,Karthus,3,67%,3.0,Corki,8,63%,4.0,Kai'Sa,12,67%,8.5,Leona,10,60%,3.5,0
+ESPORTSTMNT01/1890836,Gnar,10,60%,4.0,Udyr,3,100%,4.5,Seraphine,2,50%,8.7,Jhin,16,63%,9.4,Nautilus,13,38%,2.0,Sylas,1,0%,1.4,Olaf,27,52%,3.0,Syndra,24,38%,4.0,Sivir,18,67%,5.5,Thresh,40,50%,2.6,0
+ESPORTSTMNT06/1571209,Renekton,1,100%,2.0,Udyr,4,50%,3.6,Viktor,8,75%,5.1,Samira,7,86%,6.1,Rell,7,86%,4.7,Maokai,5,20%,1.4,Olaf,6,33%,2.9,Syndra,4,0%,1.9,Senna,0,0,0,Alistar,6,50%,3.2,0
+ESPORTSTMNT06/1571210,Gnar,7,100%,13.5,Udyr,4,50%,3.6,Viktor,8,75%,5.1,Samira,7,86%,6.1,Rell,7,86%,4.7,Maokai,5,20%,1.4,Lillia,2,0%,1.3,Yone,1,0%,1.3,Senna,0,0,0,Tahm Kench,1,0%,1.0,0
+ESPORTSTMNT01/1890876,Volibear,5,0%,1.0,Lillia,6,33%,3.9,Syndra,20,45%,3.8,Kai'Sa,7,43%,3.6,Rell,5,20%,1.6,Renekton,12,33%,2.0,Dr. Mundo,2,50%,4.2,Azir,24,38%,2.5,Aphelios,7,100%,6.9,Braum,2,100%,3.4,1
+ESPORTSTMNT01/1881095,Malphite,1,100%,1.5,Udyr,5,80%,4.5,Azir,6,83%,5.2,Kai'Sa,13,38%,4.6,Rell,14,57%,3.0,Gnar,9,67%,3.8,Rammus,1,0%,0.4,Katarina,1,0%,1.3,Senna,2,50%,3.2,Taric,1,0%,2.0,0
+ESPORTSTMNT01/1890903,Sion,11,45%,4.3,Lillia,2,0%,2.0,Orianna,6,0%,1.6,Aphelios,9,33%,3.3,Thresh,5,20%,2.3,Aatrox,4,75%,4.7,Hecarim,2,100%,14.0,Syndra,7,29%,2.4,Kai'Sa,7,43%,3.0,Rell,5,60%,2.2,1
+ESPORTSTMNT01/1890928,Sion,5,60%,2.5,Graves,3,33%,3.9,Zoe,11,73%,7.7,Kai'Sa,14,57%,3.2,Rell,7,57%,2.8,Gnar,17,53%,3.0,Lee Sin,19,63%,4.6,Syndra,15,60%,5.5,Aphelios,8,75%,5.0,Thresh,12,42%,3.1,1
+ESPORTSTMNT01/1890980,Irelia,1,0%,0.5,Udyr,2,50%,8.0,Ryze,18,56%,4.2,Ezreal,49,53%,4.7,Nautilus,13,23%,1.8,Volibear,6,83%,6.5,Lillia,2,50%,2.1,Orianna,13,77%,7.5,Sivir,14,79%,4.5,Leona,11,64%,2.5,1
+ESPORTSTMNT01/1881217,Gnar,19,53%,3.1,Dr. Mundo,1,100%,3.0,Sylas,6,83%,6.7,Tristana,2,50%,6.3,Rell,5,40%,2.1,Jayce,9,56%,2.7,Skarner,4,50%,3.9,Syndra,70,49%,3.4,Kai'Sa,29,66%,5.0,Rakan,31,61%,3.6,0
+ESPORTSTMNT01/1881259,Gnar,43,51%,3.8,Udyr,6,50%,8.3,Azir,9,22%,1.9,Senna,12,17%,3.0,Tahm Kench,15,40%,1.8,Camille,20,75%,5.3,Olaf,10,90%,7.4,LeBlanc,26,73%,5.9,Seraphine,2,50%,6.0,Rakan,33,42%,3.7,1
+ESPORTSTMNT01/1881264,Lucian,1,100%,6.3,Kayn,1,100%,15.0,Vladimir,2,50%,3.3,Seraphine,1,100%,14.0,Bard,1,100%,6.5,Sett,7,43%,1.5,Hecarim,6,50%,2.3,Azir,2,50%,1.8,Kog'Maw,1,0%,1.0,Lulu,2,0%,1.0,0
+ESPORTSTMNT01/1891046,Aatrox,6,33%,2.3,Olaf,15,53%,4.2,Zoe,22,41%,3.4,Senna,1,0%,3.0,Tahm Kench,0,0,0,Cho'Gath,2,50%,1.7,Udyr,2,50%,2.4,Viktor,8,38%,2.7,Kai'Sa,10,40%,3.5,Seraphine,1,100%,8.0,1
+ESPORTSTMNT01/1881325,Renekton,23,61%,2.9,Olaf,14,57%,2.8,Azir,15,40%,2.6,Kai'Sa,23,61%,6.5,Rell,10,60%,4.3,Gnar,3,0%,1.1,Lillia,9,22%,2.5,Tristana,3,67%,3.6,Sivir,28,64%,4.4,Alistar,32,56%,4.2,0
+ESPORTSTMNT01/1881359,Renekton,17,41%,2.3,Nidalee,8,50%,5.8,Azir,28,61%,3.5,Kai'Sa,13,46%,3.2,Alistar,69,54%,3.1,Kled,17,76%,4.9,Olaf,7,57%,3.9,Viktor,28,68%,4.1,Tristana,32,66%,4.8,Rell,8,25%,2.7,1
+7111-9703,Gnar,20,55%,4.3,Dr. Mundo,1,0%,1.7,Azir,1,0%,1.2,Samira,6,33%,2.8,Rell,8,38%,2.0,Gangplank,11,45%,2.4,Udyr,12,75%,5.2,Galio,15,73%,6.9,Tristana,6,67%,3.9,Alistar,17,65%,4.0,1
+7111-9704,Irelia,20,55%,3.1,Kayn,1,0%,1.5,Orianna,21,62%,4.5,Samira,5,40%,2.3,Alistar,15,73%,4.7,Wukong,2,50%,2.3,Nidalee,12,75%,6.5,Zoe,28,46%,3.9,Tristana,10,40%,4.4,Rell,8,38%,2.0,1
+ESPORTSTMNT01/1891131,Renekton,4,75%,7.5,Rek'Sai,6,100%,2.2,Zoe,8,50%,3.3,Jinx,10,60%,4.6,Thresh,4,75%,8.0,Gragas,5,40%,3.3,Graves,2,50%,3.5,Syndra,1,0%,0.5,Tristana,2,0%,2.3,Rell,5,40%,2.3,0
+7111-9705,Wukong,2,50%,2.3,Udyr,6,33%,5.1,Galio,18,61%,5.0,Xayah,8,50%,6.3,Alistar,19,63%,3.6,Gnar,11,82%,4.7,Hecarim,13,85%,8.8,Seraphine,2,100%,6.5,Tristana,6,67%,3.9,Rakan,17,82%,8.4,1
+7112-9709,Renekton,10,60%,2.7,Hecarim,7,71%,12.7,Azir,2,50%,2.6,Samira,11,73%,7.4,Leona,8,75%,3.7,Jax,3,67%,3.3,Udyr,9,78%,6.7,Orianna,9,78%,9.5,Kai'Sa,22,68%,4.7,Galio,6,67%,4.9,1
+7313-9707,Gnar,58,57%,3.7,Lillia,6,33%,2.9,Yone,1,0%,0.3,Kai'Sa,44,50%,6.1,Seraphine,2,50%,16.0,Gangplank,28,39%,2.6,Udyr,14,93%,8.5,Orianna,31,61%,6.0,Aphelios,19,42%,3.3,Thresh,61,75%,5.1,1
+ESPORTSTMNT01/1891145,Volibear,3,67%,7.4,Lillia,2,50%,4.3,Syndra,9,44%,4.4,Kai'Sa,19,53%,5.3,Galio,2,100%,4.8,Renekton,4,50%,2.3,Nidalee,5,60%,4.6,Lucian,4,75%,4.8,Xayah,2,50%,3.3,Alistar,4,50%,1.5,0
+7112-9710,Renekton,10,60%,2.7,Hecarim,7,71%,12.7,Viktor,12,75%,4.7,Kai'Sa,52,56%,4.0,Galio,5,60%,3.6,Camille,13,77%,5.9,Udyr,9,78%,6.7,Azir,20,70%,4.3,Samira,10,70%,4.9,Leona,21,48%,2.7,1
+7313-9712,Renekton,40,48%,2.9,Karthus,3,33%,3.1,Lucian,5,80%,4.0,Ezreal,47,62%,6.7,Alistar,11,45%,2.1,Gnar,40,48%,2.9,Taliyah,5,100%,6.0,Ryze,39,67%,4.9,Samira,5,60%,6.8,Rell,10,70%,2.9,1
+ESPORTSTMNT01/1891153,Irelia,5,60%,3.0,Hecarim,4,75%,5.8,Seraphine,2,100%,6.0,Draven,0,0,0,Gragas,4,75%,4.0,Sion,2,0%,1.6,Lillia,2,0%,3.8,Syndra,6,50%,2.2,Kalista,2,50%,5.4,Rell,7,57%,3.0,0
+7115-9715,Gangplank,3,0%,2.3,Olaf,17,41%,3.4,Seraphine,1,0%,3.0,Kai'Sa,3,67%,5.7,Nautilus,43,53%,3.1,Lucian,1,100%,5.0,Lillia,11,64%,7.7,Orianna,21,57%,4.7,Tristana,16,69%,5.2,Alistar,20,70%,3.1,1
+7114-9714,Jayce,7,14%,1.4,Dr. Mundo,1,0%,1.3,Syndra,10,40%,1.9,Xayah,16,44%,3.9,Rell,11,36%,2.2,Gnar,16,81%,5.3,Udyr,11,73%,4.2,Fizz,2,50%,4.0,Tristana,12,100%,9.6,Alistar,24,83%,5.0,1
+7314-9713,Gnar,30,47%,2.5,Lillia,10,50%,4.6,Kled,17,88%,7.0,Tristana,23,57%,4.0,Rell,22,73%,3.7,Renekton,47,51%,2.8,Kayn,3,0%,1.0,Zoe,59,64%,5.4,Xayah,38,55%,4.8,Sett,16,69%,2.6,0
+7114-9717,Sylas,4,50%,1.9,Udyr,2,0%,1.5,Twisted Fate,16,69%,5.2,Xayah,16,44%,3.9,Rell,11,36%,2.2,Gnar,16,81%,5.3,Hecarim,8,88%,7.0,Orianna,16,81%,7.4,Tristana,12,100%,9.6,Alistar,24,83%,5.0,1
+7314-9716,Aatrox,23,57%,3.3,Graves,24,50%,3.2,Syndra,29,62%,3.4,Aphelios,25,72%,6.0,Thresh,45,73%,4.7,Gnar,30,47%,2.5,Karthus,5,100%,6.3,Nocturne,4,100%,5.4,Kai'Sa,20,75%,4.6,Rell,22,73%,3.7,1
+ESPORTSTMNT01/1891177,Irelia,1,0%,0.8,Lillia,2,50%,3.9,Lucian,1,0%,1.4,Ezreal,1,0%,2.3,Alistar,3,0%,1.9,Aatrox,7,57%,3.9,Hecarim,3,67%,5.1,Galio,4,100%,22.7,Kai'Sa,10,40%,3.9,Leona,5,60%,3.6,1
+7115-9718,Aatrox,26,50%,2.4,Udyr,7,57%,6.3,Syndra,11,64%,4.0,Kai'Sa,68,49%,3.8,Galio,7,71%,4.2,Darius,5,40%,1.3,Dr. Mundo,2,0%,1.6,Azir,2,0%,0.9,Tristana,0,0,0,Alistar,31,19%,1.9,0
+ESPORTSTMNT01/1891243,Ornn,32,63%,3.0,Graves,4,50%,2.4,Sylas,9,67%,3.5,Kai'Sa,17,47%,2.7,Thresh,18,83%,5.4,Gnar,11,36%,3.3,Hecarim,9,56%,5.1,Orianna,16,56%,5.8,Xayah,6,50%,3.7,Alistar,12,50%,3.6,0
+ESPORTSTMNT01/1881542,Sion,2,50%,5.3,Udyr,3,67%,9.3,Azir,10,40%,3.0,Kai'Sa,14,50%,4.4,Braum,51,43%,3.2,Gragas,4,0%,0.8,Olaf,4,25%,1.3,Ryze,12,42%,3.1,Jinx,1,0%,0.7,Lulu,4,75%,9.0,0
+ESPORTSTMNT01/1891290,Gnar,10,20%,1.9,Nidalee,1,0%,1.7,Zed,7,43%,3.0,Kai'Sa,17,47%,2.7,Leona,11,64%,4.1,Aatrox,14,43%,2.4,Skarner,7,86%,5.5,Azir,6,33%,3.4,Xayah,5,40%,3.8,Rakan,15,53%,3.3,1
+ESPORTSTMNT01/1891301,Renekton,3,33%,1.9,Lillia,0,0,0,Lucian,1,100%,3.7,Ezreal,1,100%,2.2,Pyke,2,0%,2.3,Urgot,3,33%,2.1,Jarvan IV,4,0%,1.8,Malphite,1,0%,7.5,Jinx,1,0%,2.7,Thresh,1,0%,5.7,0
+ESPORTSTMNT06/1581178,Volibear,1,0%,3.0,Udyr,4,50%,3.6,Viktor,8,75%,5.1,Kai'Sa,20,65%,4.7,Thresh,11,64%,4.3,Shen,2,50%,1.8,Hecarim,4,75%,2.8,Orianna,11,73%,12.9,Jhin,7,57%,6.3,Rell,3,67%,2.4,1
+ESPORTSTMNT01/1881569,Gragas,2,0%,1.3,Udyr,4,50%,4.8,Orianna,9,33%,3.4,Aphelios,9,44%,1.9,Alistar,6,50%,2.3,Gnar,16,69%,3.9,Skarner,5,100%,8.6,Viktor,12,75%,6.2,Xayah,11,64%,4.0,Rell,6,83%,2.8,1
+ESPORTSTMNT01/1891352,Gnar,11,36%,3.3,Olaf,10,40%,2.1,Azir,6,33%,3.4,Kai'Sa,6,17%,2.4,Nautilus,15,73%,2.7,Ornn,32,63%,3.0,Garen,9,78%,4.3,Orianna,8,50%,3.8,Aphelios,5,80%,7.6,Thresh,18,83%,5.4,1
+ESPORTSTMNT04/1530631,Gragas,2,0%,0.4,Olaf,3,0%,0.9,Corki,1,0%,1.0,Senna,2,0%,1.2,Leona,5,20%,1.2,Ornn,12,83%,9.0,Graves,12,67%,8.6,Ryze,22,73%,4.2,Ezreal,12,42%,3.1,Seraphine,4,50%,6.2,1
+ESPORTSTMNT06/1581180,Volibear,6,67%,4.7,Udyr,1,0%,1.0,Lucian,3,67%,4.2,Seraphine,1,0%,0.5,Alistar,5,60%,2.2,Camille,9,78%,3.5,Lee Sin,17,53%,4.0,Syndra,6,83%,8.0,Aphelios,15,67%,6.2,Thresh,11,64%,4.3,1
+ESPORTSTMNT01/1881620,Jayce,15,47%,2.2,Dr. Mundo,2,0%,1.2,Corki,6,33%,1.9,Senna,8,38%,3.2,Tahm Kench,16,56%,3.9,Sion,10,40%,2.4,Graves,15,47%,3.4,Azir,16,56%,6.0,Jhin,4,25%,1.9,Bard,6,67%,4.6,1
+ESPORTSTMNT01/1891376,Jayce,2,100%,6.8,Garen,9,78%,4.3,Viktor,9,67%,3.7,Senna,12,58%,4.4,Tahm Kench,6,33%,3.1,Aatrox,3,33%,2.1,Olaf,10,40%,2.1,Seraphine,1,0%,6.0,Xayah,6,50%,3.7,Rell,3,33%,1.1,0
+ESPORTSTMNT01/1881639,Sion,30,77%,3.1,Sejuani,10,50%,3.8,Seraphine,3,67%,4.5,Senna,9,67%,7.9,Tahm Kench,6,50%,2.5,Sett,7,57%,4.7,Skarner,1,0%,3.5,Azir,7,29%,3.8,Jhin,1,0%,3.3,Karma,4,50%,7.7,0
+ESPORTSTMNT06/1581182,Camille,9,78%,3.5,Lillia,4,75%,5.0,Viktor,8,75%,5.1,Kai'Sa,20,65%,4.7,Rell,7,86%,4.7,Shen,2,50%,1.8,Gragas,12,58%,3.5,Tristana,1,0%,1.8,Twitch,1,0%,0.9,Thresh,11,55%,2.3,0
+ESPORTSTMNT06/1581183,Malphite,2,50%,6.0,Udyr,4,50%,3.6,Lucian,2,0%,1.6,Samira,7,86%,6.1,Rell,7,86%,4.7,Gragas,4,75%,4.4,Hecarim,4,75%,2.8,Syndra,9,56%,2.9,Vayne,2,100%,6.5,Thresh,11,55%,2.3,1
+ESPORTSTMNT01/1881716,Irelia,3,100%,4.0,Gragas,14,64%,3.2,Azir,11,36%,3.0,Senna,5,60%,4.9,Tahm Kench,17,53%,2.5,Gnar,27,56%,2.9,Graves,9,11%,1.6,Ekko,9,44%,3.7,Caitlyn,11,64%,4.0,Seraphine,1,0%,1.3,0
+ESPORTSTMNT06/1581184,Volibear,6,67%,4.7,Gragas,12,58%,3.5,Azir,8,50%,2.2,Jhin,5,60%,7.6,Nautilus,12,75%,2.9,Ornn,7,86%,3.7,Lee Sin,17,53%,4.0,Syndra,6,83%,8.0,Aphelios,15,67%,6.2,Thresh,11,64%,4.3,1
+ESPORTSTMNT01/1881784,Gnar,44,68%,4.6,Udyr,7,29%,2.8,Viktor,0,0,0,Kai'Sa,36,58%,6.3,Alistar,8,63%,5.3,Kalista,2,100%,10.0,Olaf,28,71%,4.5,Orianna,8,63%,3.5,Tristana,11,55%,6.6,Rell,16,81%,2.5,1
+ESPORTSTMNT01/1881805,Gragas,19,74%,5.0,Udyr,7,29%,2.8,Lucian,0,0,0,Kai'Sa,36,58%,6.3,Alistar,8,63%,5.3,Aatrox,28,36%,2.2,Olaf,10,80%,5.7,Orianna,8,63%,3.5,Tristana,11,55%,6.6,Rell,16,81%,2.5,0
+ESPORTSTMNT01/1881818,Jayce,13,85%,5.2,Nidalee,22,68%,8.8,Twisted Fate,18,83%,4.6,Kai'Sa,32,66%,4.9,Alistar,36,67%,3.1,Sion,18,61%,3.9,Olaf,20,60%,3.1,Zoe,0,0,0,Tristana,27,41%,4.6,Rell,8,50%,2.8,0
+ESPORTSTMNT01/1881943,Karma,14,57%,4.0,Olaf,3,100%,4.7,Azir,22,27%,2.5,Jinx,9,56%,5.6,Thresh,7,71%,5.3,Gragas,1,0%,1.0,Lillia,1,0%,2.5,Talon,1,0%,1.0,Senna,2,0%,1.0,Tahm Kench,1,0%,3.0,0
+ESPORTSTMNT01/1881954,Gnar,3,33%,3.9,Jarvan IV,13,62%,4.2,Katarina,1,0%,5.0,Seraphine,1,0%,5.7,Thresh,5,40%,2.7,Irelia,1,100%,4.3,Shyvana,1,100%,5.3,Tristana,1,100%,4.3,Kai'Sa,21,52%,3.4,Rell,2,50%,1.5,1
+ESPORTSTMNT01/1881957,Camille,7,71%,4.1,Olaf,19,32%,3.5,Galio,0,0,0,Kalista,1,0%,2.8,Rell,3,0%,1.5,Gnar,9,56%,2.7,Graves,4,75%,2.8,Sett,2,100%,4.4,Kai'Sa,9,56%,3.7,Gragas,7,71%,2.5,1
+7315-9719,Gangplank,29,59%,3.3,Udyr,11,64%,3.7,Orianna,17,65%,5.6,Kai'Sa,43,60%,6.3,Gragas,2,100%,2.6,Sion,17,41%,7.6,Olaf,22,45%,2.8,Syndra,16,25%,2.0,Samira,4,0%,1.6,Rell,4,25%,2.1,0
+7315-9720,Gnar,16,56%,3.6,Lillia,6,17%,3.0,Azir,33,55%,2.9,Senna,4,25%,3.0,Tahm Kench,17,65%,5.4,Gangplank,29,59%,3.3,Udyr,11,64%,3.7,Kassadin,14,86%,13.3,Kai'Sa,43,60%,6.3,Seraphine,2,100%,8.5,1
+ESPORTSTMNT01/1891709,Sion,3,67%,5.4,Lillia,2,0%,0.6,Qiyana,1,0%,1.5,Kai'Sa,10,40%,3.9,Gragas,1,0%,1.0,Volibear,4,75%,8.6,Nidalee,1,100%,17.0,Azir,11,45%,2.6,Tristana,0,0,0,Leona,4,100%,7.5,1
+ESPORTSTMNT01/1891724,Ornn,4,50%,4.2,Graves,2,100%,8.5,Zoe,3,33%,3.8,Xayah,6,67%,5.3,Rell,7,57%,3.0,Renekton,4,75%,7.5,Xin Zhao,2,0%,1.8,Syndra,11,55%,5.5,Kai'Sa,12,67%,4.3,Alistar,5,20%,2.9,0
+ESPORTSTMNT01/1891749,Volibear,0,0,0,Hecarim,3,0%,1.5,Azir,3,0%,1.1,Heimerdinger,1,0%,0.0,Senna,2,50%,3.5,Renekton,5,60%,4.3,Olaf,9,44%,2.9,Ryze,2,50%,1.2,Kai'Sa,10,60%,4.0,Rakan,2,100%,9.0,1
+ESPORTSTMNT01/1891888,Sion,5,40%,3.3,Olaf,5,60%,4.3,Azir,14,36%,3.9,Kai'Sa,16,63%,3.8,Nautilus,23,52%,2.7,Ornn,17,41%,2.1,Kha'Zix,6,83%,4.8,Viktor,4,100%,6.5,Vayne,8,75%,3.7,Thresh,2,50%,2.4,1
+ESPORTSTMNT04/1570044,Gnar,9,78%,2.6,Graves,3,33%,3.0,Azir,21,52%,3.7,Kai'Sa,12,50%,4.7,Rell,6,33%,3.2,Malphite,5,100%,10.4,Olaf,6,67%,6.1,Corki,13,62%,2.9,Jhin,3,67%,12.5,Alistar,6,100%,4.1,1
+ESPORTSTMNT01/1891894,Aatrox,12,50%,4.2,Olaf,5,60%,3.1,Twisted Fate,8,63%,3.1,Jhin,3,33%,5.8,Braum,4,25%,1.0,Gnar,1,100%,4.5,Graves,0,0,0,Orianna,10,50%,2.6,Jinx,3,67%,3.8,Thresh,19,74%,4.4,1
+ESPORTSTMNT01/1882139,Volibear,1,0%,2.0,Dr. Mundo,1,0%,1.8,Azir,6,50%,4.3,Jhin,3,67%,6.2,Rell,0,0,0,Camille,4,100%,4.5,Hecarim,0,0,0,Karma,3,33%,6.0,Caitlyn,3,67%,5.6,Thresh,2,50%,2.8,1
+ESPORTSTMNT01/1882148,Camille,2,100%,7.3,Lee Sin,12,75%,5.7,Ziggs,12,50%,6.0,Kai'Sa,12,67%,5.0,Galio,11,73%,4.3,Renekton,2,50%,1.0,Kha'Zix,1,0%,0.5,Azir,1,0%,0.0,Xayah,2,0%,0.4,Gragas,1,0%,0.0,0
+ESPORTSTMNT01/1882181,Gnar,1,100%,2.7,Lillia,5,40%,1.6,Tristana,3,33%,1.9,Senna,6,33%,4.2,Maokai,1,100%,2.8,Malphite,2,0%,2.0,Graves,13,46%,4.3,Azir,19,42%,3.1,Sivir,2,50%,2.1,Karma,4,25%,2.3,0
+ESPORTSTMNT04/1570067,Gnar,14,57%,3.0,Nidalee,8,88%,10.8,Lucian,1,100%,4.8,Ezreal,32,47%,5.2,Alistar,7,86%,3.8,Camille,3,33%,1.1,Olaf,5,60%,1.7,Viktor,2,0%,2.5,Jhin,7,57%,4.9,Leona,7,57%,2.9,0
+ESPORTSTMNT01/1891932,Poppy,6,50%,2.7,Lillia,6,83%,5.3,Syndra,10,80%,3.9,Kai'Sa,16,63%,3.8,Nautilus,23,52%,2.7,Volibear,9,56%,3.2,Jarvan IV,6,50%,2.6,Sylas,5,40%,2.6,Xayah,8,63%,5.6,Leona,6,67%,2.4,0
+ESPORTSTMNT01/1891933,Sion,0,0,0,Hecarim,0,0,0,Syndra,4,75%,3.0,Jinx,3,67%,3.8,Thresh,19,74%,4.4,Kennen,3,0%,2.4,Olaf,5,60%,3.1,Azir,23,65%,3.2,Xayah,5,0%,2.6,Nautilus,5,40%,1.9,0
+ESPORTSTMNT01/1882191,Jayce,1,0%,1.4,Udyr,2,0%,2.0,Azir,0,0,0,Senna,1,0%,1.2,Tahm Kench,1,0%,0.8,Aatrox,2,50%,2.3,Nidalee,6,33%,3.2,Corki,5,40%,6.7,Kalista,6,17%,2.1,Rell,3,33%,1.5,1
+ESPORTSTMNT01/1891950,Aatrox,4,50%,2.0,Lillia,4,25%,1.4,Yone,2,50%,4.1,Swain,3,67%,4.1,Nautilus,6,50%,3.3,Shen,4,25%,1.9,Hecarim,4,0%,1.6,Ekko,10,30%,3.2,Draven,1,0%,1.2,Leona,2,0%,0.8,0
+ESPORTSTMNT01/1882213,Jayce,15,67%,2.8,Lillia,8,63%,3.0,Azir,20,55%,4.3,Gragas,2,100%,3.7,Senna,20,55%,3.7,Aatrox,6,50%,3.7,Udyr,4,0%,2.3,Syndra,14,57%,3.6,Jhin,4,25%,5.9,Rakan,8,63%,3.5,0
+ESPORTSTMNT01/1891967,Ornn,2,0%,1.8,Lillia,1,0%,2.4,Yone,1,0%,1.6,Xayah,5,0%,2.6,Rakan,11,45%,3.1,Jayce,3,67%,2.4,Kayn,0,0,0,Twisted Fate,5,60%,2.9,Ezreal,2,100%,7.8,Leona,6,67%,3.5,1
+ESPORTSTMNT01/1882219,Poppy,6,50%,2.7,Nidalee,1,0%,6.0,Syndra,10,80%,3.9,Kai'Sa,16,63%,3.8,Nautilus,23,52%,2.7,Renekton,25,48%,2.4,Hecarim,3,33%,3.8,Orianna,16,25%,1.8,Xayah,8,63%,5.6,Rakan,2,100%,27.0,1
+ESPORTSTMNT01/1882223,Renekton,18,61%,3.4,Karthus,6,33%,2.9,Lucian,8,63%,4.4,Twitch,5,60%,3.2,Rell,8,63%,2.7,Gnar,7,86%,5.7,Lee Sin,26,50%,2.5,Azir,7,71%,3.6,Jhin,5,80%,14.3,Gragas,4,100%,13.0,1
+ESPORTSTMNT01/1891971,Aatrox,9,56%,5.5,Olaf,7,43%,3.8,Lulu,1,100%,10.0,Xayah,7,57%,3.9,Rell,6,33%,2.4,Camille,1,0%,0.0,Kayn,1,0%,0.0,LeBlanc,2,50%,1.8,Kai'Sa,11,73%,5.6,Alistar,7,43%,5.7,0
+ESPORTSTMNT01/1882226,Gnar,7,43%,2.8,Udyr,8,75%,4.4,Viktor,15,47%,3.2,Caitlyn,8,50%,4.9,Thresh,1,100%,8.0,Jayce,10,70%,3.6,Olaf,6,33%,2.9,Syndra,0,0,0,Tristana,12,58%,5.0,Alistar,19,47%,3.5,0
+ESPORTSTMNT01/1882248,Gnar,11,73%,7.8,Olaf,14,57%,3.3,Azir,11,64%,6.1,Xayah,2,0%,1.7,Rell,9,67%,2.9,Malphite,2,50%,1.8,Lillia,3,67%,3.6,Irelia,5,40%,2.0,Kai'Sa,10,60%,8.2,Alistar,15,27%,2.4,1
+ESPORTSTMNT01/1882249,Gnar,10,70%,4.4,Lillia,6,83%,5.3,Azir,14,36%,3.9,Xayah,21,57%,3.8,Nautilus,23,52%,2.7,Ornn,17,41%,2.1,Nocturne,2,50%,2.3,Orianna,16,25%,1.8,Aphelios,5,40%,1.3,Thresh,2,50%,2.4,0
+ESPORTSTMNT01/1891991,Renekton,6,50%,2.3,Jarvan IV,0,0,0,Azir,4,25%,2.0,Ashe,1,0%,1.2,Leona,4,0%,1.3,Gragas,2,50%,2.8,Nidalee,5,40%,3.3,Jayce,4,50%,2.4,Caitlyn,3,100%,4.0,Bard,2,50%,14.0,1
+ESPORTSTMNT01/1882258,Jayce,2,0%,1.0,Skarner,2,50%,1.8,Viktor,2,0%,1.1,Senna,4,50%,3.5,Sion,1,0%,0.6,Gnar,18,33%,3.0,Hecarim,9,56%,5.7,Azir,7,43%,4.3,Ezreal,5,100%,10.9,Karma,6,33%,3.4,1
+ESPORTSTMNT01/1882285,Renekton,18,56%,2.6,Udyr,11,73%,8.7,Ryze,4,0%,1.7,Jhin,2,50%,8.0,Alistar,13,31%,2.5,Ornn,12,75%,4.3,Skarner,6,83%,6.3,Azir,5,40%,2.6,Xayah,12,92%,10.1,Nautilus,4,75%,9.6,1
+ESPORTSTMNT01/1882288,Gragas,1,100%,22.0,Olaf,8,50%,3.3,Azir,14,36%,3.9,Xayah,21,57%,3.8,Nautilus,11,45%,3.9,Volibear,9,56%,3.2,Jarvan IV,6,50%,2.6,Orianna,16,25%,1.8,Kai'Sa,11,45%,3.0,Leona,6,67%,2.4,0
+ESPORTSTMNT01/1882306,Ornn,8,38%,4.4,Kayn,1,100%,7.0,Azir,2,50%,4.0,Xayah,2,50%,5.0,Thresh,4,50%,6.7,Sett,1,0%,0.3,Lillia,2,0%,0.7,Irelia,4,25%,2.0,Kai'Sa,25,72%,4.9,Nautilus,10,60%,4.3,0
+ESPORTSTMNT01/1882335,Gangplank,32,63%,5.2,Lillia,8,63%,3.0,Azir,20,55%,4.3,Vayne,3,67%,3.0,Rell,9,67%,2.9,Ornn,12,75%,4.3,Udyr,4,0%,2.3,Orianna,35,57%,5.0,Jhin,4,25%,5.9,Alistar,15,27%,2.4,0
+ESPORTSTMNT01/1892085,Gnar,2,100%,5.3,Udyr,5,80%,11.8,Viktor,5,60%,6.4,Aphelios,14,36%,4.2,Leona,8,38%,2.0,Malphite,2,0%,1.6,Olaf,3,33%,2.0,Kassadin,3,0%,1.3,Jhin,2,0%,3.5,Seraphine,0,0,0,0
+ESPORTSTMNT01/1892111,Gragas,4,50%,2.3,Olaf,10,60%,4.4,Syndra,7,57%,5.3,Kalista,6,83%,4.1,Nautilus,7,57%,3.6,Camille,0,0,0,Udyr,3,0%,1.1,Karma,1,0%,0.0,Aphelios,5,20%,2.9,Thresh,4,25%,3.1,0
+ESPORTSTMNT01/1892125,Aatrox,6,50%,2.3,Jarvan IV,4,75%,5.3,Syndra,1,100%,13.0,Senna,1,100%,5.0,Tahm Kench,5,80%,6.3,Ornn,11,36%,1.7,Lillia,3,33%,1.8,Irelia,4,50%,4.1,Xayah,7,43%,2.7,Nautilus,5,20%,1.1,0
+7118-9726,Karma,5,60%,14.8,Udyr,6,50%,6.8,Lucian,11,45%,5.1,Senna,3,33%,3.1,Sett,7,29%,2.4,Jax,4,0%,1.3,Lillia,3,0%,2.0,Syndra,5,20%,2.1,Samira,4,25%,1.8,Rell,4,50%,2.5,0
+ESPORTSTMNT01/1892333,Sion,4,0%,1.4,Karthus,2,50%,2.3,Syndra,3,0%,1.5,Jinx,2,0%,2.0,Thresh,4,25%,1.6,Gnar,4,25%,3.2,Dr. Mundo,1,100%,3.5,Zoe,3,67%,7.8,Jhin,3,33%,5.9,Alistar,3,33%,2.7,1
+7118-9727,Karma,5,60%,14.8,Udyr,6,50%,6.8,Jayce,6,50%,7.2,Samira,11,45%,3.5,Rell,6,67%,3.3,Camille,1,0%,0.8,Hecarim,11,27%,2.3,Galio,1,0%,2.0,Aphelios,32,44%,2.9,Braum,4,0%,1.3,0
+7317-9729,Gnar,7,29%,2.7,Olaf,35,51%,3.5,Azir,4,25%,2.4,Lucian,14,43%,4.2,Alistar,23,30%,2.1,Jayce,14,57%,2.6,Kayn,2,100%,6.7,Viktor,12,58%,4.8,Tristana,27,52%,3.4,Rell,5,60%,4.2,1
+ESPORTSTMNT01/1892339,Gnar,3,33%,1.4,Kayn,2,0%,1.7,Orianna,2,0%,0.3,Jinx,1,0%,0.5,Rell,12,67%,3.6,Ornn,24,79%,6.1,Skarner,1,100%,6.5,Syndra,19,58%,3.7,Kai'Sa,21,52%,3.4,Alistar,21,48%,3.1,1
+7120-9731,Gnar,13,31%,2.0,Udyr,0,0,0,Azir,3,0%,1.3,Sivir,6,17%,2.3,Alistar,35,43%,2.9,Camille,12,75%,2.6,Olaf,49,57%,4.4,Syndra,38,45%,3.1,Xayah,22,59%,4.9,Rell,21,67%,3.2,1
+7317-9732,Renekton,51,57%,3.5,Lillia,11,55%,2.4,Corki,34,50%,4.4,Kai'Sa,75,64%,5.2,Rakan,4,75%,4.2,Aatrox,3,0%,2.5,Udyr,11,9%,2.9,Azir,4,25%,2.4,Xayah,34,50%,4.3,Alistar,23,30%,2.1,0
+7120-9734,Lucian,3,67%,1.9,Udyr,3,100%,37.0,Ekko,5,100%,6.0,Samira,11,73%,7.4,Leona,8,75%,3.7,Gnar,13,31%,2.0,Lillia,0,0,0,Azir,3,0%,1.3,Aphelios,4,25%,2.2,Thresh,10,20%,1.8,0
+7318-9733,Camille,14,57%,3.4,Dr. Mundo,2,0%,1.0,Viktor,8,38%,2.4,Kai'Sa,33,48%,4.4,Seraphine,0,0,0,Aatrox,22,45%,2.0,Udyr,12,50%,4.1,Orianna,20,55%,4.0,Xayah,8,38%,2.1,Gragas,8,75%,3.1,1
+7318-9736,Cassiopeia,1,100%,15.0,Taliyah,11,55%,6.2,Renekton,1,100%,6.5,Jinx,7,86%,7.0,Alistar,38,63%,3.6,Sion,3,33%,2.0,Lillia,9,33%,2.7,Syndra,39,59%,4.8,Tristana,10,20%,3.3,Rell,1,0%,0.8,0
+7119-9737,Aatrox,17,76%,4.5,Olaf,20,75%,3.8,Syndra,11,45%,3.8,Samira,11,55%,4.6,Rell,16,81%,3.6,Irelia,7,71%,5.8,Lillia,13,69%,5.0,Orianna,12,58%,4.1,Vayne,0,0,0,Gragas,2,0%,1.4,0
+7119-9738,Jayce,9,78%,3.8,Olaf,15,80%,4.6,Twisted Fate,3,100%,14.3,Kai'Sa,30,83%,4.5,Alistar,24,83%,5.0,Wukong,3,33%,2.7,Udyr,5,40%,1.3,Viktor,1,0%,2.0,Xayah,0,0,0,Rakan,12,67%,3.5,0
+ESPORTSTMNT01/1882691,Camille,7,71%,3.2,Olaf,10,70%,4.6,Viktor,4,75%,8.8,Xayah,3,33%,5.0,Rell,13,77%,2.9,Renekton,9,67%,4.1,Lillia,8,25%,2.3,Tristana,1,0%,2.0,Kai'Sa,30,63%,4.3,Alistar,20,60%,3.2,0
+ESPORTSTMNT04/1570130,Gangplank,3,67%,5.8,Skarner,1,100%,1.6,Orianna,15,47%,5.6,Varus,1,100%,14.0,Thresh,40,58%,4.8,Sion,1,0%,1.5,Hecarim,5,60%,5.1,Zoe,24,42%,4.6,Kalista,1,0%,3.5,Nautilus,17,35%,1.8,0
+ESPORTSTMNT04/1570131,Gnar,10,70%,3.2,Nocturne,5,60%,3.8,Syndra,9,89%,6.1,Kai'Sa,18,44%,3.1,Alistar,7,57%,3.1,Karma,1,0%,0.8,Hecarim,3,0%,2.1,Orianna,18,44%,5.7,Caitlyn,1,0%,1.0,Galio,5,40%,2.6,0
+ESPORTSTMNT01/1882707,Renekton,18,61%,3.4,Lillia,7,86%,24.5,Ryze,14,64%,3.4,Varus,25,56%,3.1,Rell,8,63%,2.7,Volibear,5,40%,2.5,Ekko,6,50%,2.0,Zoe,11,27%,2.3,Caitlyn,1,0%,1.4,Thresh,2,0%,1.2,0
+ESPORTSTMNT04/1570138,Cho'Gath,11,36%,1.4,Skarner,6,67%,3.5,Azir,0,0,0,Aphelios,8,50%,2.3,Thresh,21,62%,3.1,Sion,3,0%,1.5,Gragas,10,50%,2.7,Cassiopeia,11,55%,3.6,Xayah,2,50%,3.6,Rakan,5,20%,2.5,0
+ESPORTSTMNT01/1892556,Wukong,3,33%,1.5,Kayn,1,0%,0.8,Azir,1,0%,0.2,Jhin,1,0%,0.7,Thresh,1,0%,1.5,Aatrox,2,50%,5.0,Rek'Sai,4,25%,1.9,LeBlanc,5,40%,3.5,Caitlyn,2,100%,35.0,Lux,10,70%,3.9,1
+ESPORTSTMNT04/1570155,Aatrox,6,100%,6.9,Lillia,9,56%,4.9,Azir,7,57%,3.9,Caitlyn,4,50%,3.1,Bard,4,75%,17.7,Gnar,3,0%,0.4,Nidalee,3,33%,1.9,Jayce,1,0%,0.3,Varus,1,0%,0.2,Lux,1,0%,0.2,0
+ESPORTSTMNT01/1882810,Gnar,17,65%,4.3,Lillia,8,50%,4.6,Orianna,29,69%,7.4,Senna,6,50%,5.1,Tahm Kench,14,71%,5.7,Gangplank,4,50%,2.0,Udyr,5,60%,2.9,Ryze,3,0%,1.7,Sivir,1,0%,5.0,Karma,1,0%,0.8,0
+ESPORTSTMNT01/1882812,Jayce,9,78%,3.7,Olaf,10,60%,2.5,Azir,7,71%,3.6,Seraphine,4,50%,4.7,Rell,10,60%,3.5,Malphite,1,0%,2.0,Lillia,12,42%,2.9,Qiyana,3,67%,2.6,Senna,5,40%,4.2,Karma,6,33%,3.4,0
+ESPORTSTMNT04/1570158,Renekton,5,60%,3.2,Nidalee,11,64%,4.1,Orianna,20,75%,6.3,Vayne,6,83%,5.1,Rell,6,83%,4.4,Shen,4,75%,7.0,Hecarim,9,44%,4.2,Corki,14,50%,6.4,Kai'Sa,14,50%,4.6,Alistar,5,40%,2.1,0
+ESPORTSTMNT01/1882828,Camille,7,57%,4.0,Olaf,10,40%,2.5,Syndra,23,26%,2.2,Ashe,7,71%,8.0,Thresh,15,53%,3.0,Gragas,9,67%,2.7,Lillia,6,67%,3.8,Lucian,2,50%,6.3,Ezreal,15,60%,3.8,Nautilus,8,75%,3.1,1
+ESPORTSTMNT01/1892684,Gnar,6,67%,4.8,Udyr,3,67%,4.1,Syndra,3,67%,6.5,Kai'Sa,8,50%,3.8,Galio,1,100%,4.5,Volibear,3,67%,2.5,Olaf,4,75%,2.6,Ryze,1,0%,0.8,Kalista,1,0%,7.0,Leona,0,0,0,0
+ESPORTSTMNT01/1882852,Gnar,12,50%,2.4,Lillia,2,0%,0.7,Yone,5,20%,2.0,Caitlyn,12,25%,2.6,Morgana,2,0%,1.4,Gragas,2,50%,1.5,Graves,12,58%,6.5,Azir,0,0,0,Jhin,2,100%,16.0,Rell,7,57%,2.1,1
+ESPORTSTMNT04/1570170,Gnar,3,0%,0.4,Lillia,5,20%,2.0,Orianna,3,0%,1.6,Xayah,3,33%,2.8,Rakan,2,50%,5.0,Gangplank,7,57%,2.0,Skarner,5,80%,6.6,Zoe,8,75%,6.9,Kai'Sa,3,67%,7.7,Rell,3,33%,1.4,1
+ESPORTSTMNT01/1882861,Sylas,1,0%,1.4,Ivern,1,0%,2.3,Lucian,1,0%,1.8,Kai'Sa,9,44%,4.0,Thresh,7,57%,4.9,Gnar,10,70%,3.5,Lillia,11,82%,5.5,Syndra,8,50%,3.1,Xayah,3,67%,3.2,Rell,6,67%,3.7,1
+ESPORTSTMNT04/1570175,Sion,8,38%,2.6,Lillia,12,67%,5.1,Viktor,11,55%,7.8,Caitlyn,10,50%,2.9,Thresh,10,60%,3.2,Gnar,5,60%,2.9,Hecarim,2,50%,4.5,Ryze,4,50%,2.2,Jhin,2,100%,4.9,Rell,2,100%,3.7,1
+ESPORTSTMNT01/1882804,Ornn,24,63%,4.0,Olaf,9,44%,2.9,Annie,10,40%,3.6,Jhin,3,0%,2.6,Thresh,15,53%,3.0,Gragas,9,67%,2.7,Lillia,6,67%,3.8,Galio,3,67%,11.3,Draven,20,60%,4.2,Blitzcrank,3,67%,2.3,1
+ESPORTSTMNT01/1882880,Ornn,24,63%,4.0,Olaf,10,40%,2.5,Annie,7,43%,4.8,Jhin,3,0%,2.6,Thresh,15,53%,3.0,Gragas,9,67%,2.7,Lillia,6,67%,3.8,Galio,3,67%,11.3,Draven,20,60%,4.2,Blitzcrank,3,67%,2.3,1
+ESPORTSTMNT01/1892753,Renekton,6,33%,1.5,Nidalee,5,40%,3.3,Jayce,4,50%,2.4,Ziggs,1,0%,0.3,Rakan,1,0%,2.0,Volibear,1,100%,10.0,Hecarim,5,60%,6.1,Azir,6,83%,4.0,Senna,3,33%,4.3,Nautilus,16,56%,2.0,1
+ESPORTSTMNT01/1882891,Renekton,8,63%,2.0,Skarner,2,50%,1.8,Syndra,12,58%,2.9,Kai'Sa,18,39%,3.4,Rell,1,100%,4.7,Gangplank,2,0%,1.5,Nidalee,3,33%,2.9,Zoe,3,33%,2.6,Kalista,6,17%,2.1,Alistar,7,43%,1.5,0
+ESPORTSTMNT04/1570178,Sion,16,44%,3.3,Graves,15,80%,6.1,Azir,30,53%,3.0,Jhin,1,100%,7.0,Rell,1,100%,3.3,Renekton,14,43%,1.9,Taliyah,17,71%,4.6,Viktor,2,0%,0.9,Caitlyn,13,54%,4.8,Morgana,6,67%,6.1,0
+ESPORTSTMNT01/1892801,Renekton,9,56%,2.2,Udyr,5,20%,2.3,Cassiopeia,5,40%,2.2,Ashe,3,0%,2.3,Rell,4,25%,1.5,Gnar,8,38%,2.2,Graves,11,64%,3.0,Ryze,3,67%,2.8,Kalista,6,83%,4.1,Nautilus,7,57%,3.6,1
+ESPORTSTMNT01/1892811,Aatrox,4,50%,2.1,Udyr,3,0%,1.6,Azir,0,0,0,Senna,5,40%,9.4,Tahm Kench,6,33%,2.7,Renekton,10,70%,4.3,Lillia,4,75%,2.9,Corki,10,70%,5.6,Tristana,2,50%,10.0,Bard,9,78%,8.1,1
+ESPORTSTMNT01/1892871,Gragas,2,50%,2.4,Olaf,10,50%,2.8,Orianna,4,25%,4.1,Xayah,8,25%,3.5,Alistar,22,36%,2.4,Gnar,7,57%,3.2,Jarvan IV,0,0,0,Syndra,7,71%,6.4,Sivir,3,33%,3.8,Galio,6,50%,3.5,1
+ESPORTSTMNT01/1892889,Jayce,13,85%,5.2,Udyr,20,75%,6.0,Seraphine,4,100%,9.2,Kai'Sa,32,66%,4.9,Alistar,36,67%,3.1,Ornn,12,42%,3.1,Olaf,21,81%,4.8,Viktor,15,47%,4.0,Senna,14,64%,5.3,Tahm Kench,38,58%,3.6,0
+ESPORTSTMNT01/1892920,Karma,2,50%,5.7,Graves,13,62%,6.3,Yone,5,80%,3.6,Seraphine,5,100%,16.3,Alistar,36,67%,3.1,Gnar,14,64%,3.3,Olaf,21,81%,4.8,Viktor,15,47%,4.0,Senna,14,64%,5.3,Maokai,2,50%,2.5,0
+ESPORTSTMNT01/1892952,Camille,2,50%,2.5,Udyr,2,50%,1.6,Viktor,4,25%,2.1,Ezreal,2,50%,2.3,Rakan,2,50%,3.4,Jax,3,0%,0.7,Hecarim,8,75%,5.4,Azir,14,64%,4.2,Jinx,6,17%,2.9,Braum,4,0%,2.6,0
+ESPORTSTMNT01/1892959,Ryze,5,60%,6.1,Lillia,8,63%,4.9,Sett,6,100%,10.1,Senna,15,93%,7.8,Tahm Kench,26,54%,2.5,Aatrox,29,59%,2.7,Olaf,21,81%,4.8,Zoe,8,50%,3.7,Varus,4,75%,6.3,Rell,3,33%,1.6,0
+ESPORTSTMNT01/1892968,Sion,2,100%,8.3,Udyr,3,100%,8.5,Syndra,6,50%,3.5,Tristana,4,50%,2.6,Alistar,3,67%,3.9,Aatrox,4,50%,4.0,Jarvan IV,2,0%,1.8,Viktor,1,0%,1.5,Sivir,7,57%,5.6,Rell,2,0%,2.0,0
+ESPORTSTMNT01/1883099,Gnar,12,42%,2.0,Nidalee,8,63%,4.8,Viktor,16,38%,4.2,Kai'Sa,33,36%,3.3,Rakan,6,33%,1.9,Jayce,15,33%,2.0,Udyr,6,83%,6.4,Zoe,9,67%,4.1,Xayah,8,75%,4.2,Alistar,12,42%,2.5,1
+7122-9741,Lucian,5,0%,1.6,Lillia,3,0%,4.0,Sett,6,0%,1.4,Samira,0,0,0,Rell,10,40%,2.0,Gnar,11,82%,4.7,Hecarim,13,85%,8.8,Orianna,21,62%,4.5,Aphelios,4,100%,10.8,Thresh,8,88%,7.6,1
+7123-9742,Sion,15,47%,2.6,Lillia,11,18%,2.4,Lucian,6,67%,2.7,Kai'Sa,13,38%,2.6,Alistar,31,55%,3.5,Camille,19,58%,2.9,Taliyah,7,43%,4.8,Renekton,5,40%,2.4,Tristana,12,75%,4.3,Rell,0,0,0,0
+ESPORTSTMNT01/1883174,Wukong,5,20%,2.1,Dr. Mundo,5,20%,3.1,Seraphine,4,50%,6.0,Kai'Sa,20,30%,3.0,Blitzcrank,1,0%,1.2,Gragas,6,67%,4.0,Graves,2,0%,1.7,Orianna,11,27%,2.5,Jinx,7,29%,2.8,Thresh,30,50%,2.7,1
+7122-9743,Renekton,14,43%,2.1,Ekko,8,38%,4.2,Yone,2,50%,4.6,Tristana,0,0,0,Rell,10,40%,2.0,Gnar,11,82%,4.7,Hecarim,13,85%,8.8,Galio,15,73%,6.9,Samira,6,83%,10.3,Gragas,2,50%,2.9,1
+7123-9744,Irelia,7,57%,3.5,Hecarim,6,67%,3.6,Azir,1,100%,9.0,Ezreal,3,100%,20.0,Rell,0,0,0,Gnar,13,15%,1.9,Nidalee,4,50%,4.4,LeBlanc,9,67%,4.6,Kai'Sa,13,38%,2.6,Alistar,31,55%,3.5,0
+7319-9745,Lucian,17,82%,4.3,Lillia,13,85%,6.2,Azir,28,46%,3.9,Tristana,14,57%,6.6,Rell,9,67%,3.2,Gnar,2,50%,2.8,Graves,10,40%,4.0,Ryze,34,29%,3.4,Samira,7,43%,3.9,Alistar,37,22%,2.6,0
+7123-9746,Renekton,32,38%,2.6,Lillia,11,18%,2.4,Viktor,9,44%,4.2,Vayne,3,33%,1.5,Poppy,1,0%,1.0,Gnar,14,79%,3.9,Hecarim,6,67%,3.6,Ekko,2,100%,20.0,Kai'Sa,24,58%,4.3,Rell,0,0,0,1
+ESPORTSTMNT01/1883184,Kennen,1,0%,0.3,Graves,5,20%,2.4,Viktor,10,40%,3.7,Jinx,7,29%,2.8,Thresh,30,50%,2.7,Gnar,14,43%,2.6,Lillia,18,56%,3.6,Orianna,14,43%,3.1,Kai'Sa,20,30%,3.0,Rell,7,57%,2.5,1
+7319-9747,Gnar,20,65%,3.9,Lillia,13,85%,6.2,Renekton,9,67%,3.5,Tristana,14,57%,6.6,Rell,9,67%,3.2,Irelia,7,29%,1.3,Graves,10,40%,4.0,Viktor,8,25%,2.5,Samira,7,43%,3.9,Alistar,37,22%,2.6,0
+7125-9749,Gnar,18,67%,3.9,Karthus,1,100%,9.0,Qiyana,8,75%,3.6,Tristana,8,100%,14.4,Alistar,43,53%,4.6,Jayce,3,67%,3.3,Nidalee,1,0%,2.0,Yone,3,33%,3.7,Samira,10,30%,3.3,Rell,9,33%,2.3,0
+ESPORTSTMNT01/1883205,Gnar,11,27%,2.1,Lillia,11,27%,2.7,Orianna,14,43%,5.5,Tristana,9,44%,4.6,Rakan,7,57%,4.2,Renekton,6,67%,2.9,Nidalee,2,50%,2.7,Syndra,5,60%,2.9,Kai'Sa,6,33%,2.6,Nautilus,17,71%,3.2,0
+7320-9748,Sion,13,38%,2.0,Lillia,7,43%,3.6,Azir,2,0%,0.4,Kai'Sa,33,36%,2.5,Rell,7,29%,1.8,Gangplank,32,59%,4.6,Hecarim,11,55%,3.6,Cassiopeia,11,64%,6.3,Tristana,21,67%,4.7,Alistar,25,68%,4.5,1
+7125-9753,Gragas,2,0%,3.6,Lillia,7,43%,2.8,Jayce,5,60%,5.1,Samira,10,30%,3.3,Rell,9,33%,2.3,Gnar,18,67%,3.9,Nidalee,4,100%,9.2,Sett,10,70%,5.8,Tristana,8,100%,14.4,Alistar,43,53%,4.6,1
+7320-9752,Aatrox,21,52%,2.8,Olaf,8,25%,2.0,Seraphine,1,0%,0.5,Kai'Sa,33,36%,2.5,Rell,7,29%,1.8,Sion,5,40%,4.6,Nidalee,36,75%,5.4,Yone,1,100%,9.0,Aphelios,18,72%,3.4,Thresh,26,69%,5.7,1
+ESPORTSTMNT01/1883256,Sion,2,50%,2.2,Graves,2,50%,2.9,Seraphine,1,0%,1.0,Kai'Sa,6,33%,2.6,Pyke,9,44%,3.0,Renekton,4,25%,1.6,Taliyah,4,75%,4.7,Azir,29,38%,3.5,Jinx,3,33%,3.3,Thresh,5,20%,3.4,1
+ESPORTSTMNT04/1570199,Renekton,8,38%,1.6,Udyr,7,57%,4.1,Ekko,1,100%,4.5,Kalista,3,100%,4.3,Rell,5,40%,2.6,Volibear,1,0%,2.5,Skarner,2,0%,1.8,Azir,2,0%,0.8,Senna,2,0%,1.4,Sett,1,0%,1.3,0
+ESPORTSTMNT04/1570209,Gnar,1,100%,3.0,Lillia,2,50%,2.3,Ekko,1,100%,8.0,Tristana,2,50%,2.5,Rell,3,33%,3.3,Wukong,5,40%,4.2,Kayn,3,0%,1.5,Syndra,7,14%,2.4,Sivir,1,0%,1.4,Gragas,1,0%,1.7,0
+ESPORTSTMNT04/1560165,Gragas,1,0%,0.8,Jarvan IV,13,38%,3.3,Ryze,16,50%,4.7,Ezreal,14,50%,3.4,Rell,6,17%,1.4,Aatrox,22,64%,5.1,Skarner,7,57%,3.8,Vel'Koz,6,67%,5.5,Kai'Sa,30,57%,4.2,Alistar,23,52%,2.9,1
+ESPORTSTMNT04/1570217,Gnar,10,70%,3.2,Nocturne,4,75%,5.0,Syndra,5,80%,3.7,Jhin,5,40%,3.7,Gragas,6,67%,3.5,Sion,1,0%,2.5,Udyr,2,0%,1.3,Orianna,13,77%,8.2,Xayah,5,40%,3.9,Rell,6,33%,3.2,0
+ESPORTSTMNT04/1570221,Camille,2,100%,1.6,Udyr,3,100%,6.0,Qiyana,4,75%,4.8,Caitlyn,4,100%,11.7,Morgana,15,67%,4.6,Jax,0,0,0,Lillia,2,50%,4.3,Zed,0,0,0,Jhin,2,0%,4.5,Rell,2,0%,0.8,0
+ESPORTSTMNT01/1883338,Gragas,1,100%,9.0,Kayn,5,40%,2.4,Yasuo,3,33%,2.3,Senna,2,50%,4.9,Karthus,1,100%,3.9,Jayce,18,61%,3.5,Lillia,4,50%,3.0,Lissandra,10,50%,2.6,Ezreal,6,50%,3.4,Rell,1,0%,1.4,0
+ESPORTSTMNT01/1883343,Aatrox,4,25%,2.0,Graves,25,64%,4.6,Ryze,4,50%,2.2,Kai'Sa,14,50%,4.4,Rell,3,0%,0.5,Gragas,6,50%,2.2,Kha'Zix,1,100%,3.4,Twisted Fate,1,100%,19.0,Caitlyn,1,100%,21.0,Morgana,1,100%,20.0,1
+ESPORTSTMNT04/1570226,Renekton,0,0,0,Olaf,6,50%,3.0,Orianna,5,80%,6.5,Xayah,4,50%,4.9,Rell,6,67%,2.8,Gragas,2,50%,2.3,Udyr,7,71%,4.7,Azir,11,55%,5.6,Kai'Sa,9,56%,4.9,Seraphine,3,67%,3.3,1
+ESPORTSTMNT04/1570227,Malphite,3,0%,1.7,Nocturne,5,60%,3.8,Azir,3,33%,2.1,Jhin,5,40%,3.7,Gragas,6,67%,3.5,Gnar,9,78%,2.6,Jarvan IV,4,100%,7.3,Ekko,2,100%,13.0,Xayah,5,40%,3.9,Rell,6,33%,3.2,1
+ESPORTSTMNT01/1883364,Aatrox,13,46%,3.3,Nidalee,3,100%,17.0,Neeko,1,100%,12.0,Ezreal,19,53%,3.8,Leona,5,60%,3.6,Renekton,3,0%,0.5,Lillia,1,0%,0.8,Yone,1,0%,0.8,Sivir,3,33%,2.6,Braum,8,63%,3.9,0
+ESPORTSTMNT04/1560196,Renekton,22,73%,3.8,Nidalee,11,64%,4.1,Zoe,21,67%,6.0,Caitlyn,20,45%,2.6,Karma,4,75%,6.6,Gangplank,2,0%,0.8,Olaf,7,57%,2.4,Ryze,4,50%,2.2,Varus,10,60%,3.7,Leona,15,73%,4.0,0
+ESPORTSTMNT01/1883366,Renekton,10,80%,3.0,Lillia,1,0%,0.5,Lucian,1,0%,2.0,Varus,7,14%,2.4,Gragas,8,50%,3.3,Gnar,10,60%,2.9,Udyr,4,50%,4.8,Orianna,9,33%,3.4,Jhin,4,50%,44.0,Nautilus,6,67%,2.8,1
+ESPORTSTMNT01/1883377,Jayce,18,61%,3.5,Lillia,4,50%,3.0,Syndra,7,57%,3.0,Ezreal,19,53%,3.8,Alistar,4,50%,1.8,Urgot,10,70%,3.8,Nidalee,1,0%,3.2,Ekko,2,50%,3.9,Tristana,1,0%,3.6,Rell,3,33%,2.6,0
+ESPORTSTMNT04/1570264,Gnar,10,70%,3.2,Nocturne,5,60%,3.8,Orianna,8,38%,1.9,Vayne,8,75%,4.9,Gragas,6,67%,3.5,Camille,3,33%,1.1,Udyr,2,0%,1.3,Azir,21,52%,3.7,Xayah,5,40%,3.9,Rell,6,33%,3.2,0
+ESPORTSTMNT04/1560222,Olaf,5,100%,3.9,Udyr,10,90%,8.1,Orianna,5,60%,9.6,Kai'Sa,22,73%,4.7,Alistar,3,67%,5.1,Jax,12,58%,1.7,Lillia,5,40%,2.6,Lucian,2,0%,1.1,Xayah,3,67%,3.9,Rell,6,17%,1.3,0
+ESPORTSTMNT04/1560223,Malphite,3,67%,9.7,Gragas,0,0,0,Lucian,2,50%,3.7,Caitlyn,4,50%,5.5,Morgana,2,50%,1.9,Yone,2,0%,0.8,Jarvan IV,1,0%,2.0,Diana,7,29%,2.6,Senna,2,0%,1.2,Rell,2,0%,2.0,0
+ESPORTSTMNT01/1883396,Sett,2,100%,2.6,Udyr,4,50%,7.6,Azir,2,50%,2.8,Jinx,3,67%,5.1,Alistar,5,80%,5.5,Cho'Gath,3,67%,3.4,Olaf,4,25%,1.3,Ryze,12,42%,3.1,Kai'Sa,5,40%,2.9,Rell,1,0%,1.0,0
+ESPORTSTMNT01/1883400,Gnar,18,33%,3.0,Olaf,21,57%,3.2,Azir,7,43%,4.3,Jhin,7,43%,5.8,Alistar,24,54%,3.3,Malphite,8,75%,5.4,Lillia,7,86%,24.5,Irelia,26,73%,3.0,Jinx,7,86%,7.9,Nautilus,26,58%,2.5,1
+ESPORTSTMNT01/1883418,Shen,2,50%,2.1,Udyr,2,100%,12.0,Twisted Fate,2,50%,5.8,Sivir,3,33%,2.6,Zilean,1,100%,6.0,Gnar,2,50%,3.0,Hecarim,6,33%,4.5,Galio,3,67%,4.1,Ezreal,19,53%,3.8,Leona,5,60%,3.6,0
+ESPORTSTMNT04/1570267,Sion,2,0%,2.3,Udyr,2,0%,1.9,Viktor,2,50%,14.5,Kai'Sa,9,44%,4.5,Rell,4,25%,1.7,Gangplank,7,57%,2.0,Skarner,5,80%,6.6,Cassiopeia,3,100%,4.0,Senna,7,71%,4.4,Poppy,1,100%,4.0,1
+ESPORTSTMNT01/1883451,Ryze,1,100%,1.8,Lee Sin,26,50%,2.5,Poppy,1,100%,14.0,Xayah,4,100%,9.4,Thresh,2,100%,9.0,Malphite,6,33%,3.3,Nidalee,6,33%,3.2,Qiyana,4,25%,2.3,Kalista,6,17%,2.1,Alistar,7,43%,1.5,0
+ESPORTSTMNT04/1560233,Gnar,18,67%,4.9,Graves,15,53%,4.9,Azir,3,100%,6.5,Xayah,14,50%,4.1,Seraphine,1,100%,4.7,Gragas,2,50%,1.2,Hecarim,9,44%,4.2,Vel'Koz,19,58%,5.4,Kai'Sa,6,50%,4.9,Leona,4,50%,4.2,0
+ESPORTSTMNT01/1883468,Sion,5,80%,2.4,Udyr,6,50%,3.6,Orianna,12,67%,5.1,Tristana,13,62%,5.8,Braum,12,50%,4.0,Aatrox,17,41%,2.5,Olaf,6,67%,4.9,Viktor,12,75%,6.2,Vayne,1,0%,5.0,Leona,4,50%,2.3,0
+ESPORTSTMNT01/1883482,Aatrox,13,46%,3.3,Graves,3,33%,4.6,Ekko,30,50%,3.7,Vayne,2,50%,2.4,Braum,6,50%,4.3,Urgot,10,70%,3.8,Kayn,5,40%,2.4,Twisted Fate,2,50%,5.8,Sivir,3,33%,2.6,Zyra,1,0%,0.4,0
+ESPORTSTMNT01/1883500,Sion,13,38%,2.2,Jarvan IV,4,25%,1.8,Orianna,21,71%,5.6,Kai'Sa,18,39%,3.4,Thresh,18,44%,2.8,Ornn,27,52%,3.5,Skarner,12,50%,3.3,Syndra,10,40%,3.1,Xayah,2,50%,3.2,Rell,3,33%,1.8,1
+ESPORTSTMNT01/1883510,Gnar,3,33%,2.1,Hecarim,2,50%,2.3,Ryze,1,0%,0.2,Xayah,5,0%,1.2,Xerath,1,0%,0.8,Rumble,3,67%,5.4,Olaf,8,75%,7.1,Twisted Fate,5,100%,8.7,Senna,7,86%,8.2,Tahm Kench,26,73%,3.5,1
+ESPORTSTMNT01/1883514,Gangplank,23,65%,3.1,Lee Sin,21,57%,3.4,Azir,11,36%,3.0,Ezreal,14,57%,4.5,Gragas,5,60%,5.1,Renekton,6,50%,1.5,Evelynn,11,73%,4.2,Vel'Koz,6,50%,2.7,Jhin,4,25%,1.9,Rell,5,40%,1.9,0
+ESPORTSTMNT01/1893482,Gnar,8,63%,3.7,Hecarim,4,25%,2.4,Syndra,9,67%,5.1,Miss Fortune,12,50%,4.8,Rell,4,25%,1.7,Cho'Gath,4,50%,1.9,Lillia,9,56%,4.9,Lucian,4,75%,6.0,Aphelios,5,40%,3.8,Thresh,6,33%,3.2,0
+ESPORTSTMNT01/1893535,Volibear,3,67%,5.0,Nidalee,3,67%,9.5,Azir,7,57%,3.9,Senna,7,71%,4.4,Tahm Kench,7,71%,4.1,Gangplank,7,43%,2.9,Lillia,8,63%,4.1,Yone,2,50%,1.8,Aphelios,4,25%,3.4,Thresh,7,43%,2.1,0
+ESPORTSTMNT01/1883561,Gangplank,8,38%,3.4,Udyr,12,50%,5.3,Orianna,0,0,0,Ezreal,19,58%,4.1,Rakan,17,65%,3.3,Gragas,4,0%,1.2,Jarvan IV,0,0,0,Viktor,3,0%,2.2,Vayne,1,0%,3.0,Maokai,4,25%,3.2,0
+ESPORTSTMNT01/1893701,Sion,9,67%,8.2,Udyr,6,83%,4.3,Azir,22,64%,3.2,Xayah,49,53%,3.9,Rakan,4,25%,6.0,Cassiopeia,2,0%,0.8,Olaf,41,54%,3.9,Syndra,11,55%,2.1,Kai'Sa,20,30%,3.4,Alistar,25,28%,2.5,0
+7127-9757,Gnar,10,60%,3.7,Hecarim,4,75%,5.3,Viktor,2,50%,4.5,Kai'Sa,22,68%,4.7,Galio,6,67%,4.9,Jayce,10,30%,1.6,Lillia,16,63%,3.9,Orianna,12,58%,4.1,Tristana,0,0,0,Alistar,13,69%,3.8,0
+ESPORTSTMNT01/1893751,Gragas,5,40%,2.4,Lillia,9,78%,4.9,Lucian,3,67%,6.0,Jinx,9,56%,5.6,Thresh,7,71%,5.3,Jayce,1,0%,0.5,Kindred,2,50%,2.1,Galio,2,50%,2.9,Kai'Sa,14,43%,4.7,Rell,4,25%,1.5,0
+ESPORTSTMNT01/1883810,Gragas,14,36%,2.6,Hecarim,9,56%,6.1,Azir,10,30%,2.6,Aphelios,30,70%,5.1,Rell,14,43%,2.6,Sion,9,67%,8.2,Olaf,4,50%,1.5,Lillia,1,100%,3.0,Kai'Sa,47,62%,4.2,Janna,1,100%,8.0,1
+ESPORTSTMNT01/1893755,Sion,12,50%,2.6,Udyr,8,63%,3.5,Azir,8,75%,4.8,Aphelios,4,100%,7.6,Thresh,4,50%,2.5,Jayce,2,50%,9.5,Lillia,4,25%,2.3,Syndra,6,17%,2.3,Xayah,0,0,0,Nautilus,3,0%,1.1,0
+7127-9759,Camille,13,77%,5.9,Hecarim,4,75%,5.3,Orianna,9,78%,9.5,Kalista,9,67%,3.4,Nautilus,40,60%,3.1,Gnar,15,60%,5.0,Graves,7,86%,7.4,Syndra,8,75%,3.2,Tristana,0,0,0,Galio,4,0%,1.3,0
+7321-9760,Jayce,6,17%,2.2,Udyr,11,9%,2.9,Sylas,4,50%,2.3,Xayah,34,50%,4.3,Rakan,9,22%,2.0,Gnar,31,52%,3.4,Hecarim,6,100%,4.7,Twisted Fate,4,100%,5.2,Tristana,24,67%,6.2,Alistar,61,57%,2.7,1
+ESPORTSTMNT01/1893782,Sion,7,71%,7.0,Viego,2,100%,4.9,Galio,1,100%,6.3,Tristana,1,100%,10.0,Seraphine,2,50%,30.0,Gnar,2,0%,0.2,Hecarim,4,0%,1.9,Ahri,3,33%,1.7,Jhin,10,30%,4.3,Karma,1,0%,0.7,0
+7321-9762,Gnar,7,29%,2.7,Udyr,11,9%,2.9,Orianna,14,36%,3.7,Sivir,8,38%,2.9,Alistar,12,17%,1.7,Camille,3,100%,9.8,Lillia,7,71%,5.6,Lucian,2,100%,4.3,Tristana,24,67%,6.2,Rell,8,88%,3.6,1
+7129-9763,Gnar,16,81%,5.3,Udyr,11,73%,4.2,Syndra,11,45%,3.8,Kalista,12,75%,4.0,Alistar,24,83%,5.0,Camille,14,57%,3.8,Lillia,9,44%,3.0,Galio,9,56%,4.0,Tristana,16,63%,4.2,Sett,20,60%,2.5,1
+7129-9767,Camille,12,67%,3.7,Udyr,11,73%,4.2,Twisted Fate,3,100%,14.3,Tristana,3,100%,18.5,Alistar,24,83%,5.0,Aatrox,41,66%,3.9,Lillia,9,44%,3.0,Yone,5,40%,4.6,Aphelios,32,44%,3.1,Sett,20,60%,2.5,0
+7322-9764,Gnar,13,85%,6.7,Olaf,27,56%,4.4,Azir,20,55%,3.4,Kalista,7,43%,4.2,Galio,4,75%,4.5,Jayce,10,60%,3.9,Graves,21,57%,6.8,Seraphine,4,25%,1.8,Tristana,1,0%,0.5,Alistar,12,25%,2.4,0
+7129-9768,Gnar,14,57%,3.2,Kayn,3,33%,2.0,Galio,9,56%,4.0,Tristana,16,63%,4.2,Alistar,15,53%,2.0,Camille,12,67%,3.7,Lillia,3,33%,5.9,Sett,4,75%,8.0,Draven,5,80%,7.8,Leona,13,46%,2.5,0
+7322-9769,Jayce,11,55%,2.3,Olaf,27,56%,4.4,Viktor,6,67%,5.2,Kai'Sa,43,60%,6.3,Gragas,2,100%,2.6,Malphite,1,0%,2.3,Udyr,8,25%,4.0,Orianna,7,29%,3.2,Aphelios,3,0%,1.6,Thresh,30,53%,3.1,0
+ESPORTSTMNT04/1560309,Wukong,0,0,0,Trundle,1,0%,3.7,Ekko,0,0,0,Senna,2,0%,2.0,Sett,1,0%,2.3,Volibear,2,100%,3.5,Olaf,4,25%,2.3,Azir,3,33%,3.3,Kalista,3,100%,4.3,Rell,5,40%,2.6,1
+ESPORTSTMNT04/1560316,Aatrox,1,0%,2.0,Hecarim,4,25%,2.4,Seraphine,1,0%,2.3,Ezreal,12,50%,4.4,Leona,2,0%,1.9,Gragas,1,100%,4.3,Olaf,3,100%,10.0,Viktor,2,100%,25.0,Kalista,2,50%,2.5,Thresh,7,14%,2.3,1
+ESPORTSTMNT04/1560340,Sett,0,0,0,Udyr,1,0%,0.7,Ryze,1,0%,1.3,Senna,2,50%,6.3,Tahm Kench,2,50%,3.6,Lulu,1,100%,13.0,Hecarim,5,80%,2.7,Corki,3,100%,12.7,Vayne,4,50%,3.0,Thresh,18,56%,5.0,1
+ESPORTSTMNT04/1560343,Gragas,5,40%,2.8,Olaf,2,0%,1.6,Syndra,12,83%,7.9,Xayah,14,36%,2.5,Rell,6,50%,2.9,Sion,8,38%,3.2,Lillia,4,50%,1.9,Yone,2,50%,3.8,Kai'Sa,31,58%,4.9,Alistar,48,58%,4.2,1
+ESPORTSTMNT04/1560345,Wukong,5,60%,3.0,Nidalee,5,40%,3.1,Azir,11,55%,5.6,Kalista,4,50%,4.0,Nautilus,10,40%,2.8,Aatrox,26,65%,5.6,Kindred,14,57%,4.2,Twisted Fate,7,86%,4.5,Ashe,6,67%,6.0,Thresh,17,76%,4.1,1
+ESPORTSTMNT04/1570384,Sion,18,39%,2.5,Nidalee,21,71%,4.9,Lucian,6,83%,7.4,Jhin,49,45%,8.0,Leona,10,60%,2.4,Gnar,52,52%,3.5,Lillia,15,53%,4.5,Azir,35,60%,4.8,Caitlyn,9,33%,4.1,Morgana,7,57%,2.7,0
+ESPORTSTMNT01/1884194,Aatrox,10,70%,3.2,Nidalee,8,88%,9.1,Syndra,34,71%,4.8,Kai'Sa,27,74%,6.8,Rell,5,60%,3.1,Volibear,1,0%,0.0,Jarvan IV,2,0%,1.8,Azir,7,29%,1.8,Jinx,4,25%,3.7,Lulu,2,50%,6.0,0
+ESPORTSTMNT01/1894135,Shen,15,53%,4.0,Hecarim,7,71%,6.1,Viktor,38,45%,3.3,Kai'Sa,29,66%,5.0,Alistar,73,70%,6.4,Gangplank,13,31%,2.2,Gragas,45,51%,2.7,Orianna,17,53%,4.4,Kalista,18,72%,6.0,Rell,1,100%,1.8,1
+ESPORTSTMNT01/1894155,Gnar,4,75%,5.8,Udyr,2,50%,3.4,Viktor,7,57%,7.3,Ezreal,2,50%,2.6,Bard,0,0,0,Aatrox,6,17%,2.4,Gragas,1,0%,0.4,Azir,5,0%,0.9,Kai'Sa,2,0%,2.5,Rakan,4,50%,3.9,0
+ESPORTSTMNT01/1894189,Renekton,45,49%,3.1,Skarner,1,0%,3.0,Orianna,28,61%,4.7,Xayah,17,59%,5.6,Alistar,8,50%,3.4,Gnar,50,60%,3.5,Dr. Mundo,2,50%,0.9,Ekko,20,60%,3.0,Kai'Sa,11,73%,7.2,Rell,10,60%,4.3,1
+ESPORTSTMNT01/1884277,Sion,8,13%,1.8,Skarner,0,0,0,Orianna,3,0%,2.0,Caitlyn,1,0%,1.3,Maokai,4,25%,3.2,Aatrox,16,75%,2.9,Nidalee,10,70%,5.1,Syndra,10,40%,2.8,Kai'Sa,8,63%,4.5,Alistar,2,100%,2.2,1
+ESPORTSTMNT01/1894222,Sion,3,33%,3.7,Hecarim,10,20%,2.3,Azir,8,38%,2.2,Vayne,1,0%,1.0,Rell,5,40%,2.1,Camille,20,75%,5.3,Lillia,9,67%,4.7,Irelia,7,71%,2.0,Kai'Sa,38,66%,5.2,Alistar,32,66%,4.1,1
+ESPORTSTMNT01/1884298,Ornn,5,60%,5.1,Skarner,2,100%,11.0,Orianna,0,0,0,Kai'Sa,15,60%,4.6,Alistar,20,60%,5.2,Sett,1,0%,1.0,Lillia,4,25%,1.7,Zed,1,0%,1.0,Aphelios,2,0%,1.5,Leona,8,38%,2.5,0
+ESPORTSTMNT01/1894244,Renekton,31,68%,4.4,Lillia,8,75%,6.2,Lucian,6,67%,8.6,Xayah,15,73%,4.2,Rakan,55,65%,5.7,Kled,5,60%,3.5,Kayn,1,0%,0.0,Viktor,7,29%,1.5,Tristana,29,59%,4.4,Rell,1,0%,0.3,0
+ESPORTSTMNT01/1884357,Gnar,27,67%,4.0,Udyr,6,67%,11.8,Viktor,7,57%,5.1,Senna,8,63%,4.6,Tahm Kench,24,50%,2.7,Wukong,4,75%,3.8,Lillia,1,100%,6.0,Lucian,7,57%,4.0,Xayah,6,33%,2.4,Rell,3,33%,1.7,1
+ESPORTSTMNT01/1884359,Sion,30,67%,3.8,Lillia,5,60%,6.6,Lucian,7,71%,5.7,Varus,51,39%,3.1,Gragas,14,79%,3.1,Nasus,2,50%,1.6,Udyr,5,20%,4.7,Pantheon,8,38%,1.7,Jinx,4,50%,6.0,Thresh,20,55%,4.5,0
+7131-9771,Sion,4,50%,4.0,Lillia,11,64%,7.7,Orianna,21,57%,4.7,Vayne,15,53%,5.4,Alistar,20,70%,3.1,Gnar,13,54%,2.7,Udyr,13,46%,5.7,Syndra,19,32%,2.9,Kai'Sa,13,23%,4.6,Nautilus,14,43%,2.0,0
+7131-9772,Camille,14,57%,2.4,Lillia,11,64%,7.7,Galio,9,56%,3.8,Xayah,31,55%,4.4,Gragas,2,50%,1.5,Gnar,13,54%,2.7,Udyr,13,46%,5.7,Twisted Fate,5,0%,1.6,Kai'Sa,13,23%,4.6,Leona,2,50%,2.3,0
+7323-9770,Ornn,25,52%,2.4,Lillia,5,40%,2.8,Lucian,8,25%,2.3,Kai'Sa,31,29%,3.9,Rakan,16,56%,6.7,Gragas,3,33%,1.0,Udyr,10,30%,2.7,Orianna,20,50%,4.6,Vayne,11,36%,3.3,Alistar,2,0%,1.6,0
+ESPORTSTMNT01/1884406,Gnar,6,67%,6.8,Volibear,5,0%,1.1,Corki,2,50%,4.4,Jinx,6,33%,2.9,Rell,4,25%,1.7,Malphite,1,100%,4.5,Hecarim,8,88%,7.0,Azir,14,79%,5.1,Aphelios,14,50%,3.4,Thresh,52,54%,3.6,1
+7323-9773,Renekton,44,59%,2.7,Lillia,9,33%,2.7,Azir,22,45%,3.5,Kalista,37,54%,3.8,Rell,8,50%,2.4,Gragas,3,67%,4.5,Udyr,4,25%,3.3,Syndra,30,27%,2.5,Tristana,12,25%,5.6,Janna,13,62%,7.1,0
+7132-9775,Camille,15,40%,2.6,Lillia,8,75%,4.4,Twisted Fate,9,67%,4.0,Samira,6,83%,10.3,Rakan,17,82%,8.4,Jayce,0,0,0,Udyr,15,60%,7.0,Seraphine,1,0%,1.5,Aphelios,3,0%,0.6,Alistar,13,69%,4.8,0
+ESPORTSTMNT01/1884446,Camille,28,50%,2.5,Udyr,5,20%,4.7,Sion,6,33%,1.9,Aphelios,19,68%,4.7,Nautilus,20,40%,2.2,Gragas,0,0,0,Hecarim,7,100%,7.9,Zoe,58,76%,10.7,Senna,25,88%,9.7,Tahm Kench,27,70%,3.5,1
+7323-9776,Gragas,3,67%,4.5,Lillia,5,40%,2.8,Irelia,6,17%,1.7,Kai'Sa,31,29%,3.9,Alistar,37,22%,2.6,Jayce,15,53%,3.2,Udyr,10,30%,2.7,Orianna,20,50%,4.6,Tristana,10,20%,3.3,Nautilus,12,33%,1.9,0
+7132-9778,Neeko,0,0,0,Udyr,15,60%,7.0,Sivir,1,0%,1.4,Samira,3,33%,3.2,Rell,8,50%,2.0,Wukong,12,33%,2.0,Hecarim,13,85%,8.8,Seraphine,2,100%,6.5,Aphelios,4,100%,10.8,Thresh,8,88%,7.6,1
+7324-9779,Gnar,30,47%,2.5,Kindred,2,0%,1.4,Seraphine,1,0%,4.0,Tristana,23,57%,4.0,Alistar,42,50%,3.2,Renekton,51,57%,3.5,Karthus,11,73%,3.1,Orianna,32,53%,6.5,Vayne,8,63%,3.6,Gragas,9,56%,3.1,1
+ESPORTSTMNT01/1894384,Aatrox,1,100%,5.0,Lillia,7,57%,8.8,Zoe,13,77%,6.6,Aphelios,17,71%,6.1,Thresh,24,58%,3.9,Vladimir,4,0%,0.7,Udyr,3,0%,2.0,Sion,1,0%,0.5,Jinx,7,29%,2.8,Rell,12,42%,2.2,0
+7324-9780,Jayce,14,57%,2.6,Lillia,11,55%,2.4,Azir,42,62%,4.7,Samira,8,63%,5.3,Alistar,27,48%,3.6,Irelia,12,58%,2.2,Karthus,5,100%,6.3,Nocturne,4,100%,5.4,Tristana,23,57%,4.0,Galio,13,69%,4.0,1
+7134-9782,Malphite,2,100%,14.0,Nidalee,12,75%,6.5,Qiyana,20,55%,3.1,Xayah,4,25%,2.3,Alistar,19,63%,3.6,Gnar,13,31%,2.0,Lillia,0,0,0,Sylas,1,0%,0.8,Tristana,7,29%,3.5,Rell,7,14%,1.6,0
+7324-9783,Sion,7,57%,4.3,Hecarim,8,63%,5.4,Rumble,23,57%,4.6,Lucian,30,53%,3.3,Rell,22,73%,3.7,Aatrox,20,60%,4.8,Karthus,3,67%,2.0,Orianna,32,53%,6.5,Tristana,27,52%,3.4,Gragas,9,56%,3.1,1
+7134-9784,Gragas,2,0%,0.6,Udyr,0,0,0,Orianna,3,33%,3.0,Ezreal,35,43%,3.4,Alistar,35,43%,2.9,Camille,14,93%,8.9,Olaf,6,50%,3.0,Zoe,28,46%,3.9,Tristana,3,67%,1.4,Galio,6,50%,3.4,1
+ESPORTSTMNT01/1884502,Ornn,17,47%,3.3,Olaf,12,42%,3.0,Seraphine,5,40%,4.6,Xayah,3,67%,6.6,Rell,4,50%,4.0,Sion,1,0%,0.3,Udyr,3,33%,2.8,Twisted Fate,7,29%,1.9,Kai'Sa,9,22%,1.6,Alistar,6,33%,3.7,0
+ESPORTSTMNT01/1894450,Gangplank,9,44%,4.3,Lillia,6,33%,2.9,Azir,44,50%,2.8,Jinx,7,29%,2.8,Leona,9,78%,3.0,Gnar,3,67%,5.6,Udyr,3,33%,3.7,Zoe,13,77%,6.6,Senna,12,58%,7.9,Sett,4,75%,2.6,1
+ESPORTSTMNT04/1600040,Renekton,16,38%,2.7,Hecarim,5,60%,3.1,Orianna,6,67%,5.8,Kai'Sa,9,33%,3.7,Rell,9,44%,2.6,Volibear,5,60%,3.1,Olaf,15,67%,3.0,Sylas,4,100%,15.5,Ezreal,26,42%,3.9,Gragas,9,44%,2.1,1
+ESPORTSTMNT01/1894458,Gragas,2,0%,0.8,Hecarim,2,50%,4.2,Orianna,15,33%,2.6,Aphelios,0,0,0,Thresh,2,50%,3.6,Renekton,21,33%,2.0,Lillia,3,100%,12.3,Viktor,9,56%,2.3,Kai'Sa,25,28%,3.3,Sett,5,40%,2.7,1
+7325-9786,Tristana,2,100%,7.7,Hecarim,10,70%,5.7,Viktor,16,63%,3.4,Xayah,54,65%,5.2,Gragas,18,56%,2.8,Gnar,40,48%,2.9,Olaf,11,82%,10.1,Azir,64,61%,3.8,Kalista,22,50%,4.1,Rell,10,70%,2.9,0
+ESPORTSTMNT04/1600061,Aatrox,8,38%,2.3,Skarner,6,50%,3.8,Zoe,2,50%,5.3,Caitlyn,1,100%,5.0,Karma,5,60%,2.8,Gragas,3,33%,1.7,Graves,5,40%,4.6,Lucian,4,0%,3.1,Seraphine,2,50%,4.5,Nautilus,11,45%,2.7,0
+ESPORTSTMNT01/1894469,Gragas,7,57%,3.8,Lee Sin,1,0%,0.9,Orianna,4,50%,4.7,Jhin,5,0%,1.4,Janna,1,0%,1.4,Gnar,22,64%,2.8,Zac,15,73%,4.7,Yasuo,3,100%,6.4,Caitlyn,4,75%,4.8,Galio,4,75%,4.3,1
+7325-9787,Jayce,22,59%,3.2,Udyr,14,93%,8.5,Seraphine,1,100%,9.0,Aphelios,19,42%,3.3,Thresh,61,75%,5.1,Gragas,10,80%,4.6,Hecarim,10,70%,5.7,Azir,0,0,0,Xayah,54,65%,5.2,Rakan,40,60%,4.1,0
+ESPORTSTMNT04/1600066,Wukong,8,88%,4.6,Lillia,2,100%,7.2,Yone,2,50%,2.6,Kalista,37,78%,6.4,Rell,7,71%,2.9,Aatrox,19,53%,2.5,Rek'Sai,0,0,0,Ryze,7,43%,3.6,Senna,4,0%,2.1,Tahm Kench,27,70%,3.6,0
+ESPORTSTMNT04/1610057,Gnar,4,0%,2.1,Olaf,2,0%,3.5,Orianna,2,0%,3.0,Jhin,2,0%,2.5,Rell,6,17%,1.3,Renekton,2,50%,1.2,Lillia,1,100%,3.0,Ziggs,2,50%,3.8,Kai'Sa,6,17%,2.8,Alistar,1,100%,4.0,1
+ESPORTSTMNT01/1884617,Nasus,1,0%,0.0,Morgana,1,0%,0.2,Lucian,3,33%,4.2,Veigar,1,0%,0.0,Gragas,1,0%,0.2,Gnar,10,70%,3.5,Lillia,11,82%,5.5,Syndra,8,50%,3.1,Kai'Sa,6,83%,14.1,Rakan,4,100%,4.6,1
+ESPORTSTMNT01/1884674,Gragas,6,50%,5.6,Hecarim,5,40%,3.2,Syndra,14,21%,2.5,Aphelios,13,77%,4.3,Thresh,5,80%,5.5,Ornn,12,50%,4.8,Lillia,3,33%,1.8,Azir,3,67%,3.5,Kai'Sa,7,43%,4.1,Nautilus,22,55%,1.9,1
+ESPORTSTMNT01/1884703,Aatrox,5,40%,2.1,Lillia,11,36%,3.3,Lucian,5,40%,1.6,Kai'Sa,5,0%,1.7,Alistar,3,33%,2.1,Shen,3,67%,5.7,Hecarim,4,100%,10.8,Malzahar,5,80%,4.2,Tristana,5,80%,3.9,Nautilus,1,100%,4.3,1
+ESPORTSTMNT04/1610075,Gnar,9,56%,4.9,Hecarim,9,56%,5.1,Seraphine,2,100%,5.8,Xayah,5,80%,6.6,Leona,4,75%,8.4,Cho'Gath,1,0%,1.0,Olaf,13,54%,2.5,Azir,5,40%,2.9,Kai'Sa,4,50%,2.3,Rell,1,0%,0.7,0
+ESPORTSTMNT01/1884729,Gragas,4,25%,1.5,Graves,21,38%,3.1,Syndra,7,29%,2.4,Kai'Sa,7,43%,3.0,Rakan,4,50%,2.9,Renekton,6,83%,3.7,Lillia,4,100%,11.3,Yone,2,100%,10.5,Senna,4,75%,6.4,Tahm Kench,9,44%,3.0,1
+ESPORTSTMNT01/1884759,Renekton,12,33%,2.0,Nidalee,4,0%,1.6,Azir,24,38%,2.5,Senna,3,33%,4.3,Alistar,7,57%,3.3,Gnar,4,50%,2.8,Lillia,2,50%,1.6,Lucian,7,57%,5.1,Jhin,13,69%,6.2,Leona,6,50%,2.0,1
+ESPORTSTMNT01/1894614,Karma,7,43%,2.8,Hecarim,11,91%,6.9,Twisted Fate,10,80%,7.3,Kai'Sa,25,48%,6.3,Nautilus,26,69%,3.1,Sion,8,38%,3.2,Lillia,4,50%,1.9,Lucian,5,40%,2.3,Caitlyn,33,61%,4.6,Braum,74,58%,4.7,0
+ESPORTSTMNT01/1884786,Kennen,1,0%,0.0,Jarvan IV,4,50%,2.1,Yone,2,0%,0.3,Jinx,3,33%,2.6,Thresh,7,57%,4.9,Gnar,6,50%,3.2,Olaf,5,80%,7.4,Orianna,5,80%,7.1,Lucian,2,100%,5.3,Braum,5,20%,1.5,1
+ESPORTSTMNT01/1884802,Gragas,4,25%,2.3,Olaf,9,22%,3.0,Seraphine,2,50%,8.7,Aphelios,18,50%,5.9,Rell,9,67%,2.9,Sion,1,100%,15.0,Nidalee,13,54%,3.7,Tristana,1,100%,15.0,Kai'Sa,6,33%,3.9,Alistar,26,50%,2.4,1
+7326-9791,Sion,0,0,0,Hecarim,4,0%,1.9,Orianna,7,29%,3.8,Tristana,18,50%,4.8,Gragas,6,17%,2.1,Aatrox,21,52%,2.8,Skarner,2,100%,7.7,Zoe,44,52%,5.3,Kai'Sa,33,36%,2.5,Alistar,56,43%,3.2,1
+7326-9792,Nocturne,1,0%,1.4,Hecarim,4,0%,1.9,Sylas,27,52%,2.7,Tristana,18,50%,4.8,Gragas,6,17%,2.1,Aatrox,21,52%,2.8,Skarner,2,100%,7.7,Galio,19,47%,4.0,Kai'Sa,33,36%,2.5,Alistar,56,43%,3.2,1
+7137-9793,Camille,3,33%,1.4,Udyr,9,33%,4.5,Azir,10,80%,4.8,Tristana,10,40%,2.1,Leona,17,41%,2.1,Jax,10,50%,1.8,Lillia,8,50%,3.5,Ryze,0,0,0,Samira,3,33%,3.3,Alistar,8,38%,1.9,1
+ESPORTSTMNT01/1885092,Sion,7,29%,1.9,Lillia,11,27%,2.7,Orianna,14,43%,5.5,Aphelios,16,44%,3.7,Thresh,5,20%,3.4,Renekton,12,50%,3.5,Nidalee,15,47%,3.8,Syndra,15,47%,2.7,Jinx,1,100%,7.0,Rell,7,57%,2.5,1
+ESPORTSTMNT01/1894866,Jayce,1,0%,0.3,Karthus,5,40%,3.5,Azir,44,52%,3.1,Tristana,15,47%,4.4,Alistar,9,67%,4.9,Gnar,22,41%,3.1,Graves,2,100%,28.0,Ryze,3,67%,2.3,Kai'Sa,20,80%,7.2,Rell,9,56%,2.6,1
+7137-9796,Gnar,0,0,0,Olaf,24,50%,3.5,Azir,10,80%,4.8,Tristana,10,40%,2.1,Nautilus,10,70%,2.3,Aatrox,19,32%,2.2,Udyr,8,25%,2.6,Viktor,0,0,0,Samira,3,33%,3.3,Alistar,8,38%,1.9,0
+7327-9795,Gragas,1,0%,1.7,Hecarim,3,0%,1.3,Orianna,12,17%,2.7,Kai'Sa,6,17%,2.1,Galio,2,50%,2.8,Camille,15,60%,2.7,Lillia,9,44%,5.1,Sylas,6,67%,12.5,Xayah,13,69%,8.1,Alistar,6,50%,1.9,1
+ESPORTSTMNT01/1885129,Gragas,8,38%,3.6,Rek'Sai,10,50%,3.7,Syndra,2,0%,2.3,Kai'Sa,47,62%,4.2,Leona,6,67%,3.9,Camille,34,68%,2.8,Hecarim,6,33%,4.1,Azir,85,61%,4.6,Xayah,47,66%,7.0,Rell,6,50%,1.8,1
+7137-9799,Gnar,0,0,0,Udyr,9,33%,4.5,Viktor,11,64%,4.7,Samira,3,67%,7.0,Rell,9,56%,2.5,Aatrox,19,32%,2.2,Nidalee,5,20%,3.4,Syndra,3,0%,1.3,Tristana,5,20%,2.8,Alistar,8,38%,1.9,0
+7327-9798,Aatrox,4,25%,1.4,Lillia,7,14%,3.0,Nocturne,1,0%,1.8,Samira,4,0%,1.6,Gragas,6,33%,3.3,Jayce,24,75%,3.7,Hecarim,5,60%,6.9,Viktor,1,100%,4.0,Kai'Sa,31,42%,3.4,Alistar,6,50%,1.9,1
+7140-9800,Camille,18,61%,2.8,Hecarim,6,17%,2.7,Seraphine,2,100%,11.3,Xayah,5,60%,4.3,Leona,8,50%,2.7,Malphite,1,0%,1.2,Trundle,3,33%,2.7,Azir,4,0%,4.7,Kai'Sa,14,21%,2.7,Thresh,5,60%,4.3,0
+7140-9802,Ryze,3,0%,1.1,Hecarim,8,25%,2.3,Zoe,6,17%,4.0,Samira,11,45%,3.5,Alistar,9,22%,2.5,Gnar,6,17%,1.3,Lillia,5,40%,2.9,Viktor,6,67%,4.1,Kai'Sa,5,60%,3.7,Galio,13,23%,2.6,1
+ESPORTSTMNT01/1885163,Camille,34,68%,2.8,Udyr,11,64%,4.8,Syndra,30,50%,3.5,Kalista,53,74%,5.0,Alistar,17,59%,3.4,Shen,1,0%,0.4,Olaf,13,46%,1.6,Sion,8,75%,7.0,Tristana,19,53%,3.4,Rell,14,50%,2.4,0
+ESPORTSTMNT04/1600125,Renekton,12,67%,2.8,Trundle,16,56%,4.1,Ryze,1,100%,2.4,Kai'Sa,16,63%,6.1,Rell,16,50%,2.1,Sion,3,33%,2.8,Olaf,15,67%,3.0,Twisted Fate,4,50%,15.3,Ezreal,26,42%,3.9,Gragas,9,44%,2.1,0
+ESPORTSTMNT01/1894937,Gragas,2,50%,1.4,Udyr,5,20%,1.3,Syndra,2,50%,2.8,Xayah,0,0,0,Leona,5,20%,1.0,Gnar,9,22%,2.1,Olaf,7,29%,2.1,Azir,1,0%,1.6,Jhin,0,0,0,Tahm Kench,1,0%,3.5,0
+ESPORTSTMNT04/1600136,Gnar,4,50%,1.2,Hecarim,6,33%,2.5,Corki,5,20%,2.2,Senna,2,0%,1.4,Tahm Kench,34,50%,2.8,Sylas,7,100%,6.4,Udyr,5,60%,3.9,Azir,25,72%,5.1,Kalista,37,78%,6.4,Blitzcrank,2,50%,2.3,1
+ESPORTSTMNT01/1895024,Camille,4,50%,2.4,Udyr,1,0%,0.4,Viktor,7,57%,5.3,Vayne,7,57%,2.6,Karma,1,0%,0.8,Volibear,4,75%,4.1,Lillia,6,67%,4.1,Orianna,12,67%,6.3,Kai'Sa,12,67%,8.5,Gnar,1,100%,3.3,1
+ESPORTSTMNT04/1610180,Volibear,1,0%,1.0,Jarvan IV,4,25%,1.9,Ziggs,2,50%,3.8,Kai'Sa,9,22%,2.6,Rell,5,0%,1.6,Sion,10,60%,3.0,Udyr,3,33%,3.4,Tristana,1,100%,9.0,Seraphine,2,100%,22.0,Alistar,27,63%,3.7,1
+ESPORTSTMNT01/1895048,Gnar,4,50%,2.8,Olaf,11,45%,3.5,Ahri,11,64%,4.1,Xayah,21,48%,3.8,Alistar,2,0%,0.9,Sylas,5,40%,4.3,Hecarim,6,100%,8.7,Orianna,23,39%,4.6,Senna,6,50%,13.2,Rell,9,67%,2.9,1
+ESPORTSTMNT01/1895090,Sion,1,0%,1.5,Lillia,3,67%,4.2,Syndra,15,60%,5.5,Aphelios,8,75%,5.0,Thresh,12,42%,3.1,Aatrox,4,75%,4.7,Hecarim,2,100%,14.0,Zoe,18,72%,13.0,Jhin,3,33%,8.3,Nautilus,7,57%,2.3,1
+ESPORTSTMNT01/1895115,Gragas,5,40%,1.8,Udyr,5,20%,2.3,Seraphine,1,100%,13.0,Kai'Sa,7,43%,4.1,Rakan,9,33%,4.3,Irelia,1,0%,1.8,Dr. Mundo,2,50%,4.2,Ryze,6,50%,2.8,Senna,3,33%,4.3,Alistar,7,57%,3.3,0
+ESPORTSTMNT01/1895144,Gragas,2,50%,1.1,Udyr,2,50%,2.4,Seraphine,2,0%,2.0,Xayah,11,45%,3.2,Rakan,19,58%,4.6,Irelia,5,80%,4.6,Lillia,10,70%,5.6,Azir,29,48%,4.8,Vayne,3,67%,2.6,Alistar,40,70%,3.3,1
+ESPORTSTMNT01/1895167,Irelia,3,67%,1.9,Kayn,1,100%,5.0,Azir,10,60%,3.2,Jhin,10,80%,7.8,Leona,4,25%,1.7,Gragas,6,50%,5.6,Lillia,2,50%,2.1,Lucian,4,25%,2.4,Tristana,4,50%,3.2,Nautilus,15,40%,2.5,0
+ESPORTSTMNT01/1885454,Shen,33,58%,5.3,Hecarim,5,100%,9.8,Sylas,4,100%,18.7,Tristana,10,70%,8.4,Rell,8,75%,5.7,Pantheon,2,0%,0.8,Skarner,3,0%,1.3,Orianna,15,20%,2.9,Kai'Sa,14,29%,2.5,Rakan,19,68%,6.5,0
+ESPORTSTMNT01/1885491,Renekton,23,61%,2.9,Hecarim,10,70%,3.2,Orianna,20,60%,4.0,Jinx,3,33%,5.0,Rell,10,60%,4.3,Gnar,5,80%,5.4,Skarner,4,75%,3.8,Viktor,2,100%,6.6,Kalista,18,72%,6.0,Alistar,69,54%,3.1,1
+ESPORTSTMNT01/1885505,Renekton,11,45%,2.1,Hecarim,7,71%,6.1,Azir,46,59%,3.9,Kai'Sa,29,66%,5.0,Nautilus,39,51%,2.7,Gnar,1,0%,1.8,Lillia,9,67%,4.7,Viktor,14,43%,3.3,Caitlyn,27,56%,4.0,Morgana,4,50%,3.1,0
+ESPORTSTMNT01/1885512,Gangplank,32,63%,5.9,Hecarim,9,56%,3.7,Syndra,51,69%,5.4,Tristana,14,71%,4.9,Nautilus,17,35%,2.3,Cho'Gath,3,100%,4.2,Lillia,9,44%,3.9,Lucian,6,67%,2.9,Xayah,34,44%,3.3,Leona,8,38%,2.2,1
+ESPORTSTMNT01/1885529,Sion,14,50%,2.8,Lillia,6,50%,3.2,Syndra,8,38%,2.3,Xayah,23,48%,3.4,Rell,6,33%,2.0,Gnar,10,70%,7.3,Nidalee,11,64%,4.5,Azir,9,67%,4.6,Tristana,3,67%,1.8,Alistar,21,67%,5.2,1
+7141-9807,Aatrox,4,50%,1.9,Udyr,9,11%,1.4,Syndra,5,20%,2.1,Tristana,9,56%,2.8,Alistar,5,20%,1.3,Camille,12,75%,2.6,Lillia,3,33%,2.8,Orianna,44,45%,3.6,Kai'Sa,52,56%,4.0,Gragas,4,75%,3.6,1
+7141-9808,Gnar,9,67%,2.8,Olaf,49,57%,4.4,Syndra,38,45%,3.1,Xayah,22,59%,4.9,Rell,21,67%,3.2,Renekton,7,14%,1.2,Udyr,9,11%,1.4,LeBlanc,2,0%,2.5,Tristana,9,56%,2.8,Gragas,1,0%,0.8,0
+ESPORTSTMNT01/1895312,Fiora,6,67%,2.1,Udyr,13,54%,2.9,Corki,4,100%,6.8,Kai'Sa,12,67%,4.3,Leona,4,50%,3.8,Aatrox,7,57%,3.9,Hecarim,3,67%,5.1,Azir,2,0%,4.7,Ezreal,5,40%,9.6,Karma,2,0%,7.8,0
+7143-9809,Renekton,27,52%,2.3,Olaf,28,54%,4.2,Viktor,8,75%,2.7,Tristana,16,69%,5.2,Rell,11,64%,3.2,Camille,19,58%,2.9,Graves,13,38%,2.7,Twisted Fate,8,63%,6.2,Kai'Sa,24,58%,4.3,Gragas,0,0,0,0
+ESPORTSTMNT01/1895318,Jayce,4,50%,3.0,Hecarim,3,67%,4.4,Syndra,6,50%,2.2,Xayah,6,67%,5.3,Alistar,4,50%,2.5,Gnar,0,0,0,Skarner,3,33%,4.3,Zoe,6,17%,2.7,Kai'Sa,4,0%,2.3,Nautilus,13,23%,2.6,0
+7143-9812,Camille,14,57%,2.4,Nidalee,3,33%,2.9,Galio,9,56%,3.8,Tristana,16,69%,5.2,Gragas,2,50%,1.5,Jax,5,40%,2.0,Kindred,10,60%,2.3,Seraphine,4,75%,6.7,Kai'Sa,24,58%,4.3,Sett,0,0,0,1
+7329-9813,Gnar,33,48%,2.8,Udyr,8,25%,4.0,Orianna,7,29%,3.2,Xayah,14,57%,4.3,Leona,24,42%,2.4,Lulu,1,100%,2.2,Hecarim,6,100%,4.7,Viktor,5,60%,3.9,Tristana,24,67%,6.2,Gragas,11,55%,2.3,1
+7143-9814,Renekton,27,52%,2.3,Nidalee,3,33%,2.9,Viktor,8,75%,2.7,Kai'Sa,68,49%,3.8,Alistar,20,70%,3.1,Camille,19,58%,2.9,Taliyah,7,43%,4.8,Twisted Fate,8,63%,6.2,Ezreal,3,100%,20.0,Rell,0,0,0,1
+7144-9816,Camille,14,93%,8.9,Nidalee,12,75%,6.5,Zoe,28,46%,3.9,Tristana,3,67%,1.4,Rell,8,38%,2.0,Gragas,0,0,0,Lillia,8,50%,5.7,Yone,1,0%,1.0,Kai'Sa,18,44%,3.6,Alistar,1,0%,1.3,0
+7329-9815,Gnar,33,48%,2.8,Udyr,8,25%,4.0,Orianna,7,29%,3.2,Xayah,14,57%,4.3,Alistar,12,25%,2.4,Camille,28,57%,3.1,Lillia,7,71%,5.6,Lucian,11,82%,6.6,Tristana,24,67%,6.2,Gragas,5,80%,3.1,1
+7145-9819,Gnar,11,82%,4.7,Graves,26,23%,2.2,Twisted Fate,9,67%,4.0,Kai'Sa,17,71%,6.2,Rakan,17,82%,8.4,Lucian,2,0%,0.0,Olaf,15,60%,4.6,Seraphine,5,60%,2.9,Samira,10,70%,4.9,Leona,21,48%,2.7,0
+ESPORTSTMNT01/1885630,Gnar,3,100%,10.0,Udyr,5,60%,5.5,Orianna,2,50%,4.0,Kai'Sa,10,60%,4.0,Leona,8,50%,3.1,Lulu,1,0%,5.0,Olaf,1,0%,2.0,Syndra,9,44%,4.4,Xayah,2,0%,1.0,Alistar,5,40%,2.8,0
+7144-9818,Gnar,20,55%,4.3,Nidalee,12,75%,6.5,Pantheon,19,53%,3.7,Aphelios,10,70%,3.3,Thresh,12,58%,4.7,Aatrox,0,0,0,Lillia,8,50%,5.7,Viktor,12,67%,4.6,Kai'Sa,18,44%,3.6,Nautilus,1,0%,0.7,0
+7330-9817,Gnar,20,65%,3.9,Udyr,18,72%,4.4,Viktor,16,63%,3.4,Xayah,54,65%,5.2,Alistar,81,60%,4.2,Jayce,6,17%,2.2,Hecarim,4,0%,1.4,Azir,4,25%,2.4,Tristana,4,0%,1.5,Rakan,9,22%,2.0,0
+7145-9820,Aatrox,12,50%,2.4,Udyr,9,78%,6.7,Seraphine,5,60%,2.9,Tristana,20,60%,5.0,Nautilus,40,60%,3.1,Renekton,19,32%,2.0,Hecarim,13,85%,8.8,Galio,15,73%,6.9,Samira,6,83%,10.3,Alistar,17,65%,4.0,1
+7330-9821,Jayce,6,17%,2.2,Skarner,5,60%,1.7,Rumble,23,78%,5.4,Tristana,4,0%,1.5,Thresh,32,63%,3.8,Lucian,17,82%,4.3,Nidalee,5,80%,5.8,Renekton,9,67%,3.5,Jinx,6,50%,3.5,Alistar,81,60%,4.2,1
+ESPORTSTMNT01/1885647,Kennen,6,50%,4.1,Hecarim,4,75%,5.8,Orianna,2,50%,5.0,Kai'Sa,0,0,0,Leona,6,67%,5.4,Gnar,9,56%,2.7,Udyr,1,0%,0.7,Syndra,7,29%,3.5,Xayah,2,0%,1.0,Sett,1,0%,0.5,0
+ESPORTSTMNT01/1895436,Ornn,11,45%,3.8,Hecarim,6,17%,2.2,Sylas,3,33%,2.2,Kai'Sa,19,47%,3.7,Rell,2,0%,0.9,Gnar,10,70%,4.4,Graves,11,73%,5.0,Viktor,7,71%,4.2,Xayah,21,57%,3.8,Nautilus,23,52%,2.7,1
+ESPORTSTMNT01/1895443,Cho'Gath,4,25%,1.2,Lillia,6,17%,2.2,Cassiopeia,4,75%,4.1,Jinx,3,67%,5.1,Thresh,1,0%,5.0,Sion,10,40%,2.4,Evelynn,11,73%,4.2,Lucian,3,67%,2.5,Kai'Sa,28,61%,3.7,Bard,6,67%,4.6,1
+ESPORTSTMNT01/1895453,Gragas,1,100%,2.7,Dr. Mundo,3,67%,3.9,Viktor,6,33%,1.9,Senna,5,100%,9.4,Sett,1,100%,1.1,Volibear,2,0%,0.6,Hecarim,5,40%,4.4,Zoe,13,38%,3.7,Varus,5,80%,7.4,Nautilus,23,52%,2.7,0
+ESPORTSTMNT01/1895463,Malphite,3,67%,1.9,Ivern,1,100%,3.0,Tristana,4,100%,6.8,Heimerdinger,14,79%,3.9,Pyke,15,60%,2.9,Jayce,6,50%,2.6,Udyr,3,0%,1.9,Anivia,2,0%,2.1,Jhin,2,50%,16.5,Thresh,20,70%,3.5,0
+ESPORTSTMNT01/1885740,Gangplank,30,63%,3.7,Lillia,4,100%,23.5,Ryze,2,50%,2.9,Xayah,8,25%,2.0,Gragas,3,100%,5.2,Sion,4,0%,1.4,Udyr,4,0%,2.3,Twisted Fate,5,60%,6.9,Kai'Sa,10,60%,8.2,Rell,2,0%,1.1,0
+ESPORTSTMNT01/1895479,Malphite,4,50%,3.8,Udyr,2,50%,6.0,Azir,7,29%,3.8,Ezreal,4,25%,3.3,Karma,4,50%,7.7,Camille,3,0%,1.2,Skarner,2,0%,1.0,Viktor,9,33%,4.3,Caitlyn,3,0%,1.9,Lux,3,0%,1.8,0
+ESPORTSTMNT01/1895490,Gangplank,1,100%,14.0,Dr. Mundo,3,67%,3.9,Orianna,20,65%,3.9,Senna,9,89%,8.9,Gragas,1,100%,1.8,Gnar,10,70%,4.4,Skarner,1,0%,1.0,Azir,14,36%,3.9,Caitlyn,6,67%,7.4,Karma,8,50%,4.8,0
+ESPORTSTMNT01/1885775,Vladimir,10,70%,3.3,Udyr,7,86%,12.0,Lucian,3,67%,3.4,Xayah,8,25%,2.0,Rell,3,67%,2.8,Ornn,12,75%,4.3,Hecarim,5,20%,3.3,Viktor,10,40%,3.7,Kai'Sa,10,60%,8.2,Alistar,15,27%,2.4,0
+ESPORTSTMNT01/1895503,Fiora,5,40%,1.1,Kayn,3,33%,2.1,Azir,11,36%,3.0,Kai'Sa,20,65%,4.6,Alistar,6,50%,1.7,Sion,3,33%,3.5,Lillia,5,60%,3.6,Orianna,9,33%,3.4,Tristana,2,50%,11.5,Galio,2,50%,4.2,1
+ESPORTSTMNT01/1895514,Aatrox,8,88%,3.7,Lee Sin,10,40%,2.5,Orianna,5,60%,5.5,Varus,6,83%,6.4,Rakan,14,79%,6.7,Jayce,6,50%,2.6,Jarvan IV,6,67%,4.1,Azir,1,0%,0.3,Xayah,5,40%,4.0,Nautilus,8,75%,2.8,0
+ESPORTSTMNT01/1895524,Ornn,10,40%,2.9,Hecarim,5,40%,4.4,Azir,14,36%,3.9,Tristana,6,33%,2.7,Thresh,16,38%,2.9,Renekton,14,71%,3.2,Udyr,5,40%,3.3,Orianna,20,65%,3.9,Kai'Sa,19,47%,3.7,Nautilus,4,75%,2.3,1
+ESPORTSTMNT01/1885796,Gnar,5,40%,4.6,Skarner,6,83%,6.3,Twisted Fate,5,60%,6.9,Aphelios,12,92%,4.9,Thresh,14,71%,4.0,Gangplank,30,63%,3.7,Graves,3,33%,4.3,Ziggs,2,50%,2.9,Jhin,3,33%,3.0,Nautilus,5,60%,1.9,0
+ESPORTSTMNT01/1895540,Gnar,5,80%,3.3,Lillia,5,80%,4.7,Yone,3,100%,6.9,Heimerdinger,14,79%,3.9,Alistar,1,100%,19.0,Aatrox,9,78%,3.5,Udyr,3,0%,1.9,Twisted Fate,2,50%,4.6,Kai'Sa,4,50%,4.6,Janna,3,33%,2.1,0
+ESPORTSTMNT01/1895542,Gragas,1,0%,1.3,Hecarim,4,25%,2.5,Ryze,3,33%,2.3,Tristana,10,50%,5.5,Rell,2,50%,1.4,Cho'Gath,24,75%,3.2,Nocturne,4,50%,2.4,Galio,6,83%,5.3,Kai'Sa,18,67%,5.6,Alistar,11,45%,2.7,1
+ESPORTSTMNT01/1885821,Gangplank,30,63%,3.7,Lillia,4,100%,23.5,Viktor,5,60%,4.2,Kai'Sa,10,60%,3.2,Gragas,3,100%,5.2,Gnar,5,40%,4.6,Udyr,4,0%,2.3,Ekko,1,0%,1.0,Xayah,12,92%,10.1,Rell,2,0%,1.1,0
+ESPORTSTMNT01/1895562,Sion,2,50%,5.3,Hecarim,4,25%,3.2,Azir,10,40%,3.0,Sivir,7,14%,1.8,Gragas,6,67%,4.9,Gnar,16,69%,3.9,Skarner,5,100%,8.6,Orianna,15,80%,8.2,Xayah,11,64%,4.0,Rell,6,83%,2.8,1
+ESPORTSTMNT02/1720355,Gragas,12,58%,3.1,Udyr,7,57%,4.1,Tristana,3,33%,1.2,Kai'Sa,0,0,0,Alistar,0,0,0,Singed,3,33%,2.8,Olaf,8,50%,3.2,Orianna,15,33%,3.5,Jinx,0,0,0,Rell,3,0%,1.5,0
+ESPORTSTMNT02/1720368,Singed,3,33%,2.8,Nocturne,4,25%,3.0,Irelia,10,30%,1.6,Neeko,0,0,0,Rell,3,0%,1.5,Gragas,12,58%,3.1,Olaf,17,71%,5.2,Sylas,5,60%,3.9,Tristana,0,0,0,Alistar,0,0,0,1
+ESPORTSTMNT02/1720370,Camille,29,52%,2.3,Olaf,9,67%,4.2,Orianna,33,64%,4.3,Kai'Sa,41,59%,4.7,Galio,9,89%,4.8,Poppy,2,50%,1.6,Udyr,16,56%,4.5,Syndra,9,11%,1.3,Jinx,0,0,0,Thresh,17,35%,2.1,0
+ESPORTSTMNT02/1720374,Gragas,8,38%,1.6,Hecarim,16,44%,3.0,Syndra,9,11%,1.3,Jinx,0,0,0,Thresh,17,35%,2.1,Aatrox,30,57%,3.3,Skarner,8,88%,7.8,Orianna,21,67%,5.3,Kai'Sa,41,59%,4.7,Galio,9,89%,4.8,1
+ESPORTSTMNT02/1720392,Sylas,1,0%,1.3,Hecarim,4,0%,1.9,Syndra,3,0%,1.5,Xayah,7,14%,3.5,Rakan,3,33%,7.8,Gnar,5,80%,3.3,Lillia,9,78%,4.9,Orianna,38,32%,2.8,Tristana,11,64%,4.3,Alistar,24,63%,2.8,1
+ESPORTSTMNT01/1895691,Gnar,4,50%,5.1,Hecarim,2,50%,4.0,Orianna,2,50%,4.1,Jinx,10,40%,3.7,Galio,2,100%,4.8,Jayce,4,50%,3.0,Udyr,2,50%,5.8,Azir,1,0%,1.2,Kai'Sa,7,14%,2.7,Alistar,4,50%,2.5,0
+ESPORTSTMNT01/1895701,Sion,3,67%,5.4,Olaf,15,53%,2.4,Galio,4,100%,22.7,Ezreal,6,33%,7.7,Seraphine,2,100%,25.0,Yone,0,0,0,Nidalee,2,0%,0.8,Zoe,6,17%,2.7,Tristana,4,0%,1.3,Rakan,7,43%,3.9,0
+7331-9822,Jayce,66,67%,3.1,Udyr,3,67%,6.0,Viktor,43,60%,3.9,Tristana,23,57%,4.0,Alistar,42,50%,3.2,Aatrox,27,48%,2.2,Karthus,11,36%,3.0,Zoe,41,59%,7.0,Lucian,42,26%,3.7,Rell,8,50%,2.4,0
+7331-9823,Jayce,15,53%,3.2,Olaf,8,38%,2.1,Seraphine,2,0%,1.6,Kai'Sa,33,48%,4.4,Rell,8,50%,2.4,Gnar,30,47%,2.5,Udyr,3,67%,6.0,Orianna,31,74%,5.3,Tristana,23,57%,4.0,Alistar,42,50%,3.2,1
+ESPORTSTMNT01/1895709,Mordekaiser,1,0%,1.0,Hecarim,8,38%,2.1,Syndra,7,29%,3.5,Kai'Sa,9,56%,3.7,Gragas,7,71%,2.5,Camille,8,50%,2.8,Rek'Sai,6,100%,2.2,Zoe,8,50%,3.3,Aphelios,1,100%,2.3,Rell,8,75%,3.0,1
+7332-9824,Renekton,34,56%,2.7,Olaf,29,59%,5.4,Twisted Fate,7,43%,4.2,Kai'Sa,31,42%,3.4,Rell,6,33%,1.2,Quinn,4,100%,4.7,Hecarim,11,55%,3.6,Orianna,50,64%,6.1,Tristana,21,67%,4.7,Leona,22,64%,3.1,1
+ESPORTSTMNT01/1895736,Gnar,2,50%,4.3,Udyr,4,25%,4.2,Viktor,1,0%,0.8,Kai'Sa,7,29%,1.5,Nautilus,1,0%,0.2,Lucian,1,100%,1.8,Lillia,5,100%,9.1,Galio,13,54%,3.4,Tristana,0,0,0,Rakan,3,100%,13.0,1
+7332-9825,Jayce,24,75%,3.7,Hecarim,5,60%,6.9,Zoe,16,50%,7.0,Kai'Sa,31,42%,3.4,Nautilus,2,0%,1.0,Sion,14,71%,5.2,Olaf,36,75%,4.8,Ryze,17,59%,4.7,Aphelios,18,72%,3.4,Thresh,26,69%,5.7,1
+ESPORTSTMNT01/1886063,Camille,7,71%,3.2,Olaf,10,70%,4.6,Viktor,4,75%,8.8,Kai'Sa,18,78%,4.8,Alistar,8,75%,2.7,Shen,2,50%,4.3,Hecarim,0,0,0,Cassiopeia,5,60%,7.1,Tristana,2,0%,2.0,Rell,4,50%,3.0,0
+ESPORTSTMNT01/1895789,Fiora,18,83%,3.2,Hecarim,4,75%,6.7,Corki,8,63%,3.1,Senna,12,58%,4.4,Tahm Kench,6,33%,3.1,Gragas,1,0%,0.3,Kha'Zix,9,44%,3.2,Ryze,6,83%,5.8,Caitlyn,7,29%,2.3,Morgana,3,33%,1.3,0
+ESPORTSTMNT01/1886080,Aatrox,13,46%,3.3,Hecarim,6,33%,4.5,Corki,12,42%,5.1,Varus,15,60%,3.7,Leona,5,60%,3.6,Malphite,3,33%,3.0,Graves,0,0,0,Azir,7,43%,2.3,Xayah,10,70%,2.7,Alistar,3,67%,3.8,1
+ESPORTSTMNT01/1895800,Gangplank,2,50%,4.3,Udyr,6,67%,5.5,Orianna,9,56%,6.1,Jhin,10,60%,4.8,Rell,6,33%,2.4,Sion,6,67%,2.9,Skarner,2,50%,2.3,Ziggs,12,50%,6.0,Kai'Sa,12,67%,5.0,Galio,11,73%,4.3,1
+ESPORTSTMNT01/1895810,Fiora,18,83%,3.2,Garen,9,78%,4.3,Viktor,9,67%,3.7,Xayah,7,57%,3.9,Gragas,7,43%,1.7,Wukong,6,67%,2.9,Lillia,1,0%,4.0,Orianna,15,40%,4.4,Kai'Sa,17,65%,4.0,Braum,6,67%,3.6,0
+ESPORTSTMNT01/1895812,Wukong,1,0%,1.3,Lillia,0,0,0,Galio,5,40%,3.3,Kai'Sa,7,57%,6.0,Sett,3,0%,0.8,Gnar,14,57%,3.8,Udyr,7,57%,4.2,Orianna,18,50%,4.3,Tristana,4,50%,3.1,Rell,13,77%,2.9,1
+ESPORTSTMNT01/1895836,Gragas,5,80%,5.3,Karthus,8,75%,4.7,Tristana,8,75%,7.1,Kai'Sa,12,67%,7.1,Leona,18,83%,4.6,Camille,11,91%,4.1,Hecarim,7,14%,1.9,Syndra,10,10%,1.1,Jhin,3,33%,3.0,Alistar,6,50%,2.2,0
+ESPORTSTMNT04/1600207,Camille,3,67%,4.1,Lillia,9,67%,5.0,Azir,18,56%,4.7,Kai'Sa,22,73%,4.7,Galio,8,75%,6.3,Malphite,1,100%,3.5,Skarner,2,50%,2.5,Viktor,4,50%,6.2,Xayah,2,100%,18.0,Rell,6,17%,1.4,1
+ESPORTSTMNT01/1886144,Gangplank,4,25%,4.5,Udyr,0,0,0,Veigar,11,64%,4.8,Caitlyn,2,0%,2.4,Alistar,10,60%,2.9,Gnar,2,50%,3.0,Lillia,4,50%,3.0,Azir,18,56%,3.0,Tristana,2,50%,4.3,Morgana,3,67%,4.0,1
+ESPORTSTMNT01/1886145,Gnar,14,57%,3.8,Dr. Mundo,1,0%,1.3,Cassiopeia,5,60%,6.1,Xayah,3,33%,5.0,Rell,13,77%,2.9,Gangplank,4,50%,2.0,Udyr,5,60%,2.9,Orianna,6,67%,8.0,Kai'Sa,7,57%,6.0,Alistar,9,56%,2.5,1
+ESPORTSTMNT01/1895854,Aatrox,21,48%,2.6,Udyr,4,50%,12.0,Karma,8,63%,8.2,Xayah,18,72%,5.0,Rell,3,67%,3.9,Ornn,32,63%,3.0,Garen,9,78%,4.3,Orianna,8,50%,3.8,Kai'Sa,17,47%,2.7,Gragas,7,43%,1.7,0
+ESPORTSTMNT01/1895857,Pantheon,5,80%,2.2,Lillia,4,100%,23.5,Viktor,5,60%,4.2,Jhin,3,33%,3.0,Nautilus,5,60%,1.9,Gragas,5,80%,5.3,Udyr,8,63%,4.5,Lucian,4,25%,3.9,Kai'Sa,12,67%,7.1,Rell,1,0%,1.0,0
+ESPORTSTMNT04/1600214,Sion,10,60%,3.5,Graves,17,76%,5.6,Orianna,20,75%,6.3,Tristana,28,54%,3.8,Rell,6,83%,4.4,Sett,6,50%,1.9,Nidalee,8,50%,2.8,Azir,2,50%,8.3,Kai'Sa,30,57%,4.2,Alistar,23,52%,2.9,0
+ESPORTSTMNT04/1600214,Sion,10,60%,3.5,Graves,17,76%,5.6,Orianna,20,75%,6.3,Tristana,28,54%,3.8,Rell,6,83%,4.4,Sett,6,50%,1.9,Nidalee,8,50%,2.8,Azir,2,50%,8.3,Kai'Sa,30,57%,4.2,Alistar,23,52%,2.9,0
+ESPORTSTMNT01/1895871,Sion,6,67%,2.9,Skarner,2,50%,2.3,Ryze,11,45%,4.8,Kai'Sa,10,70%,6.6,Thresh,12,50%,2.7,Mordekaiser,6,50%,1.8,Udyr,6,67%,5.5,Tristana,2,100%,13.0,Swain,4,75%,7.8,Alistar,4,100%,4.1,1
+ESPORTSTMNT01/1895874,Ornn,32,63%,3.0,Dr. Mundo,2,50%,3.6,Lucian,8,88%,4.2,Tristana,5,100%,5.4,Rell,4,50%,2.2,Cho'Gath,2,50%,3.9,Udyr,4,50%,12.0,Karma,8,63%,8.2,Vayne,2,50%,6.8,Lulu,1,0%,5.0,0
+ESPORTSTMNT01/1886169,Lulu,2,50%,3.2,Olaf,10,70%,4.6,Orianna,18,50%,4.3,Kai'Sa,18,78%,4.8,Alistar,8,75%,2.7,Gnar,9,56%,3.3,Lillia,7,29%,4.9,Viktor,7,29%,3.1,Tristana,2,0%,2.0,Rell,4,50%,3.0,0
+ESPORTSTMNT01/1895880,Sion,10,80%,8.3,Olaf,10,40%,2.5,Corki,14,64%,7.1,Ashe,7,71%,8.0,Seraphine,7,71%,5.6,Gangplank,30,63%,3.7,Hecarim,7,14%,1.9,Orianna,11,55%,5.1,Kai'Sa,10,60%,3.2,Bard,3,67%,4.0,0
+ESPORTSTMNT01/1886180,Gnar,17,59%,3.7,Hecarim,6,33%,4.5,Zilean,6,50%,9.1,Kalista,5,60%,2.8,Leona,5,60%,3.6,Jayce,3,67%,2.4,Skarner,0,0,0,Orianna,10,50%,2.6,Aphelios,2,50%,2.1,Rell,7,14%,1.2,0
+ESPORTSTMNT01/1895899,Gangplank,4,25%,2.1,Lillia,0,0,0,Azir,4,25%,2.0,Kai'Sa,12,33%,4.0,Rell,3,33%,2.0,Gnar,3,33%,2.6,Graves,6,17%,2.4,Ryze,8,50%,3.3,Xayah,21,29%,3.2,Rakan,2,50%,2.6,1
