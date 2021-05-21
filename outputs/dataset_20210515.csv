@@ -2852,3 +2852,17 @@ ESPORTSTMNT02/1736016,Sion,7,0.71,7.0,Hecarim,4,0.5,3.3,Yone,5,0.6,2.8,Kai'Sa,12
 ESPORTSTMNT02/1736078,Cho'Gath,4,0.75,3.2,Hecarim,9,0.44,2.9,Syndra,30,0.67,4.4,Xayah,25,0.44,4.2,Alistar,20,0.6,3.2,Gangplank,24,0.5,3.6,Lillia,8,0.5,4.6,Viktor,14,0.43,3.4,Tristana,19,0.47,4.2,Nautilus,33,0.61,4.1,0
 ESPORTSTMNT02/1736082,Cho'Gath,2,1.0,8.0,Lillia,11,0.82,5.5,Yone,2,1.0,10.5,Kai'Sa,6,0.83,14.1,Alistar,6,0.83,9.2,Sion,3,0.33,2.2,Udyr,6,0.17,3.1,Cassiopeia,2,0.0,1.6,Xayah,10,0.6,4.6,Rell,7,0.71,2.7,0
 ESPORTSTMNT05/1870983,Renekton,7,0.29,1.9,Udyr,5,0.6,4.1,Viktor,11,0.55,7.8,Tristana,9,0.56,3.6,Galio,20,0.65,3.9,Sion,10,0.6,3.5,Hecarim,5,1.0,7.1,Seraphine,2,0.5,3.0,Jinx,8,0.25,2.6,Alistar,30,0.67,2.7,1
+ESPORTSTMNT02/1736089,Gnar,17,0.65,4.3,Udyr,6,0.5,4.5,Seraphine,4,0.5,3.4,Tristana,19,0.47,4.2,Leona,15,0.53,2.8,Sion,5,0.6,3.5,Hecarim,9,0.44,2.9,Zilean,3,0.0,3.6,Kai'Sa,30,0.63,4.3,Alistar,20,0.6,3.2,0
+ESPORTSTMNT02/1736094,Sett,4,0.75,3.0,Udyr,8,0.75,4.4,Syndra,30,0.67,4.4,Kai'Sa,30,0.63,4.3,Alistar,20,0.6,3.2,Sion,19,0.37,3.3,Lillia,8,0.5,4.6,Viktor,14,0.43,3.4,Tristana,19,0.47,4.2,Thresh,28,0.61,4.4,0
+ESPORTSTMNT05/1870989,Sion,10,0.6,3.5,Udyr,12,0.42,3.8,Syndra,15,0.53,3.9,Tristana,28,0.54,3.8,Alistar,30,0.67,2.7,Gnar,10,1.0,11.8,Hecarim,17,0.47,3.2,Viktor,11,0.55,7.8,Vayne,1,1.0,10.0,Galio,20,0.65,3.9,1
+ESPORTSTMNT05/1860926,Gnar,8,0.38,2.3,Karthus,7,0.57,3.3,Tristana,1,1.0,5.5,Ezreal,8,0.88,8.1,Alistar,7,0.29,2.2,Malphite,0,0,0,Udyr,3,0.33,7.8,Orianna,5,0.6,10.0,Xayah,1,0.0,1.0,Rell,5,0.0,1.5,0
+ESPORTSTMNT02/1736099,Sett,2,0.5,3.8,Lillia,11,0.82,5.5,Ahri,1,1.0,11.0,Draven,1,1.0,11.0,Nautilus,2,1.0,6.0,Urgot,5,0.8,8.7,Evelynn,1,0.0,0.5,Annie,1,0.0,0.4,Kai'Sa,9,0.44,4.0,Rell,7,0.71,2.7,0
+ESPORTSTMNT05/1860927,Camille,0,0,0,Udyr,3,0.33,7.8,Seraphine,1,0.0,2.4,Sivir,1,0.0,3.0,Alistar,10,0.3,2.5,Renekton,21,0.48,3.0,Dr. Mundo,2,1.0,20.5,Viktor,3,0.33,1.9,Xayah,4,0.75,4.9,Rell,4,0.75,4.9,1
+ESPORTSTMNT05/1870990,Gragas,7,0.57,5.1,Olaf,13,0.69,3.5,Viktor,11,0.55,7.8,Kai'Sa,30,0.57,4.2,Rell,16,0.56,2.6,Aatrox,11,0.82,5.4,Nidalee,11,0.64,4.1,Orianna,20,0.75,6.3,Aphelios,22,0.82,6.7,Thresh,26,0.62,3.3,1
+ESPORTSTMNT02/1736106,Aatrox,2,1.0,27.0,Lillia,7,0.71,5.3,Nocturne,1,1.0,4.2,Vayne,2,1.0,7.8,Rakan,1,1.0,5.5,Renekton,5,0.0,1.6,Olaf,4,0.5,3.9,Sylas,3,0.33,2.8,Tristana,2,0.0,2.4,Galio,4,0.75,4.7,0
+ESPORTSTMNT03/1810798,Gnar,9,0.22,2.4,Volibear,8,0.38,4.0,Cassiopeia,7,0.71,4.2,Sivir,3,1.0,7.6,Alistar,20,0.7,4.3,Gangplank,11,0.27,3.3,Olaf,13,0.31,2.9,Sylas,14,0.5,2.7,Kai'Sa,8,0.38,3.3,Rell,7,0.29,1.6,0
+ESPORTSTMNT03/1820871,Gnar,34,0.68,3.5,Lillia,22,0.64,3.9,Lucian,4,0.0,1.6,Ezreal,34,0.53,3.7,Braum,7,0.29,2.5,Wukong,13,0.46,2.5,Taliyah,6,0.83,6.1,Sett,6,0.5,3.7,Tristana,10,0.7,3.5,Alistar,31,0.61,3.1,1
+ESPORTSTMNT02/1736109,Gnar,17,0.65,4.3,Hecarim,12,0.58,2.9,Galio,8,0.63,6.8,Tristana,19,0.47,4.2,Braum,45,0.44,4.0,Cho'Gath,4,0.75,3.2,Udyr,8,0.75,4.4,Orianna,36,0.5,5.1,Kai'Sa,30,0.63,4.3,Nautilus,21,0.62,3.1,0
+ESPORTSTMNT05/1860928,Gnar,8,0.38,2.3,Hecarim,3,0.67,4.9,Syndra,4,0.75,6.6,Ezreal,8,0.88,8.1,Thresh,8,0.75,3.6,Gragas,0,0,0,Olaf,8,0.63,4.6,Ekko,3,0.0,1.1,Jhin,6,0.67,3.4,Rell,5,0.0,1.5,0
+ESPORTSTMNT05/1870991,Sion,10,0.6,3.5,Hecarim,5,1.0,7.1,Viktor,6,0.67,3.7,Tristana,28,0.54,3.8,Leona,10,0.4,2.1,Urgot,9,0.33,2.1,Udyr,5,0.6,4.1,Orianna,11,0.64,7.2,Sivir,6,0.67,3.0,Rell,16,0.56,2.6,0
+ESPORTSTMNT02/1736117,Gangplank,4,0.75,7.1,Graves,5,0.6,5.5,Syndra,8,0.5,3.1,Kai'Sa,6,0.83,14.1,Rell,6,0.67,3.7,Gnar,5,0.4,3.5,Ekko,4,0.75,4.3,Camille,1,0.0,0.4,Swain,2,0.0,0.7,Alistar,4,0.25,1.3,0
