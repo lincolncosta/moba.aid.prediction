@@ -78,4 +78,28 @@ g2  = mlr::plotCritDifferences(obj = obj)
 ggsave(g2, file = "../plots/cd_nemenyi.pdf", width = 6.95, height = 2.67)
 
 # --------------------------------------------------------------------------------------------------
+# PCA plot
+# --------------------------------------------------------------------------------------------------
+
+# dataset = read.csv("../data/dataset_picked_champions_players_statistics.csv")
+#
+# target = dataset$result
+#
+# df = dataset[,-c(1,2)]
+# df$result = NULL
+#
+#
+# objPCA = prcomp(df, scale = TRUE)
+#
+# objPCA = prcomp(df)
+#
+# dfOut = as.data.frame(objPCA$x)
+# dfOut$target = target
+#
+# p = ggplot(dfOut,aes(x=PC1,y=PC2,color=target ))
+# p = p + geom_point()
+# p
+
+
+# --------------------------------------------------------------------------------------------------
 # --------------------------------------------------------------------------------------------------
