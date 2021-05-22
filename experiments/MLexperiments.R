@@ -16,19 +16,25 @@ set.seed(42)
 # ---------------------------------
 
 cat("- Reading datasets\n")
-dataset1 = read.csv("../data/dataset_old_features.csv")
-dataset2 = read.csv("../data/dataset_new_features.csv")
-dataset3 = read.csv("../data/dataset_full.csv")
+dataset1 = read.csv("../data/dataset_picked_champions.csv")
+dataset2 = read.csv("../data/dataset_players_statistics.csv")
+dataset3 = read.csv("../data/dataset_picked_champions_players_statistics.csv")
+dataset4 = read.csv("../data/dataset_banned_champions.csv")
+dataset5 = read.csv("../data/dataset_full.csv")
 
 # ---------------------------------
 # defining classification tasks
 # ---------------------------------
 
 cat("- Creating tasks\n")
-task1 = makeClassifTask(id = "old_features",  data = dataset1[,-c(1,2)], target = "result")
-task2 = makeClassifTask(id = "new_features",  data = dataset2[,-c(1,2)], target = "result")
-task3 = makeClassifTask(id = "full_features", data = dataset3[,-c(1,2)], target = "result")
-tasks = list(task1, task2, task3)
+task1 = makeClassifTask(id = "picked_champions",  data = dataset1[,-c(1,2)], target = "result")
+task2 = makeClassifTask(id = "players_statistics",  data = dataset2[,-c(1,2)], target = "result")
+task3 = makeClassifTask(id = "picked_champions_players_statistics", data = dataset3[,-c(1,2)],
+  target = "result")
+task4 = makeClassifTask(id = "banned_champions",  data = dataset4[,-c(1,2)], target = "result")
+task5 = makeClassifTask(id = "full",  data = dataset5[,-c(1,2)], target = "result")
+
+tasks = list(task1, task2, task3, task4, task5)
 
 # ---------------------------------
 # learning process
@@ -57,7 +63,7 @@ resampling = makeResampleDesc(method = "RepCV", rep = 5, folds = 10, stratify = 
 
 cat("- Benchmarking\n")
 bmk = benchmark(tasks = tasks, learners = learners, resamplings = resampling,
-  measures = measures, keep.pred = TRUE, models = TRUE, show.info = TRUE)
+  measures = measures, keep.pred = FALSE, models = TRUE, show.info = TRUE)
 
 #showing reuslts
 print(bmk)
