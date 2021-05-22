@@ -3,7 +3,7 @@
 # install if you do not have the packages in your R system
 
 # uncomment the following line to install packages
-# install.packages(c("ggplot2", "PMCMR"))
+# install.packages(c("ggplot2", "PMCMR", "PMCMRplus"), repos = "http://cran.us.r-project.org")
 
 library(mlr)
 library(ggplot2)

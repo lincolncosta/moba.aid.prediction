@@ -3,7 +3,7 @@
 # install if you do not have the packages in your R system
 
 # uncomment the following line to install packages
-# install.packages(c("mlr", "randomForest", "rpart", "e1071", "kknn", "partykit"))
+# install.packages(c("mlr", "randomForest", "rpart", "e1071", "kknn", "partykit"), repos = "http://cran.us.r-project.org")
 
 # --------------------------------------------------------------------------------------------------
 # --------------------------------------------------------------------------------------------------
