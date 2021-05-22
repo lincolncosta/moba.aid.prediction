@@ -47,7 +47,7 @@ lrn.svm = makeLearner("classif.svm", predict.type = "prob")
 lrn.nb  = makeLearner("classif.naiveBayes", predict.type = "prob")
 lrn.knn = makeLearner("classif.kknn", predict.type = "prob")
 lrn.log = makeLearner("classif.logreg", predict.type = "prob")
-learners   = list(lrn.rf, lrn.dt, lrn.svm, lrn.nb, lrn.knn, lrn.log)
+learners   = list(lrn.dt, lrn.svm, lrn.nb, lrn.knn, lrn.log, lrn.rf)
 
 
 cat("- Defining Measures and resampling\n")
