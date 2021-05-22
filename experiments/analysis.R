@@ -3,7 +3,7 @@
 # install if you do not have the packages in your R system
 
 # uncomment the following line to install packages
-# install.packages(c("ggplot2", "partykit"))
+# install.packages(c("ggplot2", "PMCMR"))
 
 library(mlr)
 library(ggplot2)
@@ -68,8 +68,14 @@ for(task in tasks) {
     width = 6.89, height = 3.04)
 }
 
+# --------------------------------------------------------------------------------------------------
+# Plot critical difference test for a selected measure
+# --------------------------------------------------------------------------------------------------
 
+obj = mlr::generateCritDifferencesData(bmr = bmk, measure = auc, p.value = 0.05, test = "nemenyi")
+g2  = mlr::plotCritDifferences(obj = obj)
 
+ggsave(g2, file = "../plots/cd_nemenyi.pdf", width = 6.95, height = 2.67)
 
 # --------------------------------------------------------------------------------------------------
 # --------------------------------------------------------------------------------------------------
