@@ -41,7 +41,7 @@ for(task in tasks) {
 
   cat("RF feature importance for: ", task, "\n")
 
-  rf.models = mlr::getBMRModels(bmr=bmk, learner.ids = "classif.randomForest",
+  rf.models = mlr::getBMRModels(bmr=bmk, learner.ids = "RandomForest",
     task.ids = task, drop = TRUE)
 
   # feature importance

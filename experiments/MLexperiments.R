@@ -41,12 +41,12 @@ tasks = list(task1, task2, task3, task4, task5)
 # ---------------------------------
 
 cat("- Instantiating learners\n")
-lrn.rf  = makeLearner("classif.randomForest", predict.type = "prob")
-lrn.dt  = makeLearner("classif.rpart", predict.type = "prob")
-lrn.svm = makeLearner("classif.svm", predict.type = "prob")
-lrn.nb  = makeLearner("classif.naiveBayes", predict.type = "prob")
-lrn.knn = makeLearner("classif.kknn", predict.type = "prob")
-lrn.log = makeLearner("classif.logreg", predict.type = "prob")
+lrn.rf  = makeLearner("classif.randomForest", predict.type = "prob", id="RandomForest")
+lrn.dt  = makeLearner("classif.rpart", predict.type = "prob", id="Rpart")
+lrn.svm = makeLearner("classif.svm", predict.type = "prob", id="SVM")
+lrn.nb  = makeLearner("classif.naiveBayes", predict.type = "prob", id="NaiveBayes")
+lrn.knn = makeLearner("classif.kknn", predict.type = "prob", id="KKNN")
+lrn.log = makeLearner("classif.logreg", predict.type = "prob", id="LogReg")
 learners   = list(lrn.dt, lrn.svm, lrn.nb, lrn.knn, lrn.log, lrn.rf)
 
 
