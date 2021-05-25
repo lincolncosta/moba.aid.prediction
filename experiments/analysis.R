@@ -136,25 +136,29 @@ ggsave(g, file = "../plots/customized_boxplot_f1.pdf", width = 8.17, height = 2.
 # PCA plot
 # --------------------------------------------------------------------------------------------------
 
-# dataset = read.csv("../data/dataset_picked_champions_players_statistics.csv")
-#
-# target = dataset$result
-#
-# df = dataset[,-c(1,2)]
-# df$result = NULL
-#
-#
-# objPCA = prcomp(df, scale = TRUE)
-#
-# objPCA = prcomp(df)
-#
-# dfOut = as.data.frame(objPCA$x)
-# dfOut$target = target
-#
-# p = ggplot(dfOut,aes(x=PC1,y=PC2,color=target ))
-# p = p + geom_point()
-# p
+dataset = read.csv("../data/dataset_players_statistics.csv")
 
+Class = dataset$result
+df = dataset[,-1]
+df$result = NULL
+
+objPCA = prcomp(df, scale = TRUE)
+dfOut = as.data.frame(objPCA$x)
+dfOut$Class = as.factor(Class)
+
+p = ggplot(dfOut,aes(x=PC1,y=PC2,color=Class, shape=Class))
+p = p + geom_point() + theme_bw()
+p = p + scale_colour_manual(values = c("red", "black"))
+ret = round(100 * summary(objPCA)$importance[2,], 2)
+p = p + labs(x = paste0("PCA1 ", ret[1], "%"), y = paste0("PCA2 ", ret[2], "%"))
+ggsave(p, file = "../plots/PCA_plot.pdf", width = 4.68, height = 3.61)
+
+# PCA elbow curve
+# sumRet = ret
+# for(i in 1:length(ret)) {
+  # sumRet[i] = sum(ret[1:i])
+# }
+# plot(x = 1:length(sumRet), y = sumRet)
 
 # --------------------------------------------------------------------------------------------------
 # --------------------------------------------------------------------------------------------------
