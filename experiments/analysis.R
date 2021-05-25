@@ -3,7 +3,8 @@
 # install if you do not have the packages in your R system
 
 # uncomment the following line to install packages
-# install.packages(c("ggplot2", "PMCMR", "PMCMRplus"), repos = "http://cran.us.r-project.org")
+# install.packages(c("ggplot2", "PMCMR", "PMCMRplus", "dplyr"),
+# repos = "http://cran.us.r-project.org")
 
 library(mlr)
 library(ggplot2)
@@ -76,6 +77,60 @@ obj = mlr::generateCritDifferencesData(bmr = bmk, measure = auc, p.value = 0.05,
 g2  = mlr::plotCritDifferences(obj = obj)
 
 ggsave(g2, file = "../plots/cd_nemenyi.pdf", width = 6.95, height = 2.67)
+
+
+
+# --------------------------------------------------------------------------------------------------
+#  customized boxplots
+# --------------------------------------------------------------------------------------------------
+
+perfs = getBMRPerformances(bmr = bmk, as.df = TRUE)
+measures = c("auc", "bac", "f1")
+colnames(perfs)[1:2] = c("Task", "Learner")
+
+# Renaming task factors
+perfs$Task = dplyr::recode_factor(perfs$Task,
+  banned_champions = "Banned Champions",
+  full = "Complete",
+  picked_champions = "Picked Champions",
+  picked_champions_players_statistics = "Picked Champions and\n Players Statistics",
+  players_statistics = "Players Statistics")
+
+perfs$Task = factor(perfs$Task, levels = c("Banned Champions", "Picked Champions",
+  "Players Statistics", "Picked Champions and\n Players Statistics", "Complete"))
+
+# Renaming learner factors
+perfs$Learner = dplyr::recode_factor(perfs$Learner,
+  RandomForest = "RF", Rpart = "DT", SVM = "SVM",
+  LogReg = "LR", NaiveBayes = "NB", KKNN = "kNN")
+
+# Reordeing learner factors
+perfs$Learner = factor(perfs$Learner, levels = c("DT", "NB", "kNN",
+  "SVM", "RF", "LR"))
+
+# Plot AUC
+sel = c("Task", "Learner", "iter", "auc")
+sub = perfs[, sel]
+g = ggplot(data = sub, mapping = aes(x = Learner, y = auc))
+g = g + geom_boxplot() + facet_grid(.~Task) + theme_bw()
+g = g + theme(axis.text.x = element_text(angle = 90, vjust = .5, hjust = 1))
+ggsave(g, file = "../plots/customized_boxplot_auc.pdf", width = 8.17, height = 2.37)
+
+# Plot BAC
+sel = c("Task", "Learner", "iter", "bac")
+sub = perfs[, sel]
+g = ggplot(data = sub, mapping = aes(x = Learner, y = bac))
+g = g + geom_boxplot() + facet_grid(.~Task) + theme_bw()
+g = g + theme(axis.text.x = element_text(angle = 90, vjust = .5, hjust = 1))
+ggsave(g, file = "../plots/customized_boxplot_bac.pdf", width = 8.17, height = 2.37)
+
+# Plot BAC
+sel = c("Task", "Learner", "iter", "f1")
+sub = perfs[, sel]
+g = ggplot(data = sub, mapping = aes(x = Learner, y = f1))
+g = g + geom_boxplot() + facet_grid(.~Task) + theme_bw()
+g = g + theme(axis.text.x = element_text(angle = 90, vjust = .5, hjust = 1))
+ggsave(g, file = "../plots/customized_boxplot_f1.pdf", width = 8.17, height = 2.37)
 
 # --------------------------------------------------------------------------------------------------
 # PCA plot
