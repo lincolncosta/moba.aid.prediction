@@ -27,12 +27,12 @@ dataset5 = read.csv("../data/dataset_full.csv")
 # ---------------------------------
 
 cat("- Creating tasks\n")
-task1 = makeClassifTask(id = "picked_champions",  data = dataset1[,-c(1,2)], target = "result")
-task2 = makeClassifTask(id = "players_statistics",  data = dataset2[,-c(1,2)], target = "result")
-task3 = makeClassifTask(id = "picked_champions_players_statistics", data = dataset3[,-c(1,2)],
+task1 = makeClassifTask(id = "picked_champions",  data = dataset1[,-1], target = "result")
+task2 = makeClassifTask(id = "players_statistics",  data = dataset2[,-1], target = "result")
+task3 = makeClassifTask(id = "picked_champions_players_statistics", data = dataset3[,-1],
   target = "result")
-task4 = makeClassifTask(id = "banned_champions",  data = dataset4[,-c(1,2)], target = "result")
-task5 = makeClassifTask(id = "full",  data = dataset5[,-c(1,2)], target = "result")
+task4 = makeClassifTask(id = "banned_champions",  data = dataset4[,-1], target = "result")
+task5 = makeClassifTask(id = "full",  data = dataset5[,-1], target = "result")
 
 tasks = list(task1, task2, task3, task4, task5)
 
@@ -48,7 +48,6 @@ lrn.nb  = makeLearner("classif.naiveBayes", predict.type = "prob", id="NaiveBaye
 lrn.knn = makeLearner("classif.kknn", predict.type = "prob", id="KKNN")
 lrn.log = makeLearner("classif.logreg", predict.type = "prob", id="LogReg")
 learners   = list(lrn.dt, lrn.svm, lrn.nb, lrn.knn, lrn.log, lrn.rf)
-
 
 cat("- Defining Measures and resampling\n")
 measures   = list(auc, bac, f1)
