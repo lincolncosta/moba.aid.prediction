@@ -15,11 +15,13 @@ library(ggplot2)
 dir.create("../plots/", showWarnings = FALSE)
 
 # loading data
+cat("- Loading data\n")
 load(file = "./benchmarking_results.RData") #bmk
 
 # --------------------------------------------------------------------------------------------------
 # boxplots
 # --------------------------------------------------------------------------------------------------
+cat("- Boxplots from mlr\n")
 
 g1 = plotBMRBoxplots(bmk, measure = auc)
 ggsave(g1, file = "../plots/bench_auc.pdf", width = 7.97, height = 5.01)
@@ -73,6 +75,8 @@ for(task in tasks) {
 # Plot critical difference test for a selected measure
 # --------------------------------------------------------------------------------------------------
 
+cat("- Nemenyi from mlr (learners) \n")
+
 obj = mlr::generateCritDifferencesData(bmr = bmk, measure = auc, p.value = 0.05, test = "nemenyi")
 g2  = mlr::plotCritDifferences(obj = obj)
 
@@ -81,6 +85,8 @@ ggsave(g2, file = "../plots/cd_nemenyi.pdf", width = 6.95, height = 2.67)
 # --------------------------------------------------------------------------------------------------
 #  customized boxplots
 # --------------------------------------------------------------------------------------------------
+
+cat("- Customized boxplots\n")
 
 perfs = getBMRPerformances(bmr = bmk, as.df = TRUE)
 measures = c("auc", "bac", "f1")
@@ -134,6 +140,8 @@ ggsave(g, file = "../plots/customized_boxplot_f1.pdf", width = 8.17, height = 2.
 # PCA plot
 # --------------------------------------------------------------------------------------------------
 
+cat("- PCA plot for visualization \n")
+
 dataset = read.csv("../data/dataset_players_statistics.csv")
 
 Class = dataset$result
@@ -163,14 +171,15 @@ ggsave(p, file = "../plots/PCA_plot.pdf", width = 4.68, height = 3.61)
 # Whe would like to compare different tasks (features)
 # --------------------------------------------------------------------------------------------------
 
+cat("- Export data to perform statistics\n")
+
+
 dir.create("../stats/", showWarnings = FALSE)
 
 # aggregated performances
 df = getBMRPerformances(bmr = bmk, as.df = TRUE)
 colnames(df)[1:2] = c("task", "learner")
 
-# Friedman for AUC
-# Friedman for BAC
 for( i in c(4, 5, 6)) {
 
   data.sub = df[,c(1,2,3,i)]
@@ -190,9 +199,14 @@ for( i in c(4, 5, 6)) {
   })
   frd = do.call("cbind", aux.tasks)
   colnames(frd) = tasks
-  write.table(frd, file = paste0("../stats/friedman_", name, ".txt"),
-    sep = "\t", row.names = FALSE, col.names = TRUE)
+  write.csv(frd, file = paste0("../stats/friedman_", name, ".csv"))
 }
+
+# https://github.com/gabrieljaguiar/nemenyi
+# Python command
+# python3 nemenyi.py examples/friedman_bac.csv examples/friedman_bac.tex --h --ignore_first_column
+
+cat("- Finished :)\n")
 
 # --------------------------------------------------------------------------------------------------
 # --------------------------------------------------------------------------------------------------
