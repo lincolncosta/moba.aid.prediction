@@ -12,7 +12,7 @@ library(ggplot2)
 # --------------------------------------------------------------------------------------------------
 # --------------------------------------------------------------------------------------------------
 
-dir.create("../plots/")
+dir.create("../plots/", showWarnings = FALSE)
 
 # loading data
 load(file = "./benchmarking_results.RData") #bmk
@@ -77,8 +77,6 @@ obj = mlr::generateCritDifferencesData(bmr = bmk, measure = auc, p.value = 0.05,
 g2  = mlr::plotCritDifferences(obj = obj)
 
 ggsave(g2, file = "../plots/cd_nemenyi.pdf", width = 6.95, height = 2.67)
-
-
 
 # --------------------------------------------------------------------------------------------------
 #  customized boxplots
@@ -159,6 +157,42 @@ ggsave(p, file = "../plots/PCA_plot.pdf", width = 4.68, height = 3.61)
   # sumRet[i] = sum(ret[1:i])
 # }
 # plot(x = 1:length(sumRet), y = sumRet)
+
+# --------------------------------------------------------------------------------------------------
+# Exporting data to Friedman-nemenyi
+# Whe would like to compare different tasks (features)
+# --------------------------------------------------------------------------------------------------
+
+dir.create("../stats/", showWarnings = FALSE)
+
+# aggregated performances
+df = getBMRPerformances(bmr = bmk, as.df = TRUE)
+colnames(df)[1:2] = c("task", "learner")
+
+# Friedman for AUC
+# Friedman for BAC
+for( i in c(4, 5, 6)) {
+
+  data.sub = df[,c(1,2,3,i)]
+  name = colnames(df)[i]
+  print(name)
+
+  tasks = unique(data.sub$task)
+  lrns  = unique(data.sub$learner)
+
+  aux.tasks = lapply(tasks, function(tsk) {
+    aux.lrns = lapply(lrns, function(lrn) {
+      sub = dplyr::filter(data.sub, task == tsk & learner == lrn)
+      return(sub[4])
+    })
+    ret = do.call("rbind", aux.lrns)
+    return(ret)
+  })
+  frd = do.call("cbind", aux.tasks)
+  colnames(frd) = tasks
+  write.table(frd, file = paste0("../stats/friedman_", name, ".txt"),
+    sep = "\t", row.names = FALSE, col.names = TRUE)
+}
 
 # --------------------------------------------------------------------------------------------------
 # --------------------------------------------------------------------------------------------------
