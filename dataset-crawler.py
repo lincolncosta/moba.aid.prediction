@@ -256,7 +256,9 @@ def getPlayerURL(playerName, role):
         'cc': 'Cc',
         'Noway': 'Noway (Nguyễn Vũ Long)',
         'invincible': 'Invincible',
-        'Aria': 'Aria (Lee Ga-eul)'
+        'Aria': 'Aria (Lee Ga-eul)',
+        'Carry': 'Carry (Mustafa Selim Yılmaz)',
+        'LIMIT': 'LIMIT (Dino Tot)'
     }
 
     if playerName in namesMapping:
