@@ -2,7 +2,6 @@ import pandas as pd
 
 import csv
 import time
-import datetime
 
 from tqdm import tqdm
 from datetime import datetime as dt
@@ -258,7 +257,9 @@ def getPlayerURL(playerName, role):
         'invincible': 'Invincible',
         'Aria': 'Aria (Lee Ga-eul)',
         'Carry': 'Carry (Mustafa Selim Yılmaz)',
-        'LIMIT': 'LIMIT (Dino Tot)'
+        'LIMIT': 'LIMIT (Dino Tot)',
+        'Unlucky': 'Unlucky (Luca Santos)',
+        'Hopeful': 'Hopefulx'
     }
 
     if playerName in namesMapping:
