@@ -259,8 +259,13 @@ def getPlayerURL(playerName, role):
         'Carry': 'Carry (Mustafa Selim Yılmaz)',
         'LIMIT': 'LIMIT (Dino Tot)',
         'Unlucky': 'Unlucky (Luca Santos)',
-        'Hopeful': 'Hopefulx'
+        'Hopeful': 'Hopefulx',
+        'Unforgiven': 'Unforgiven (Maximiliano Utrero)',
+        'Miracle': 'Miracle (Ruslan Zainulin)',
+        'MnM': 'MnM (Wong Ka Chun)',
+        'Stark': 'Stark (Phan Công Minh)'
     }
+
 
     if playerName in namesMapping:
         if isinstance(namesMapping[playerName], str):
