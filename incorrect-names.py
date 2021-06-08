@@ -236,7 +236,26 @@ namesMapping = {
     },
     'Rock': 'Rock (Tsai Chung-Ting)',
     'Blaze': 'Blaze (Jia Xiang)',
-    'APEX': 'APEX (Hsieh Chia-Wei)'
+    'APEX': 'APEX (Hsieh Chia-Wei)',
+    'Sin': 'Sin (Alin Sin)',
+    'Savior': 'Savior (Zhang Jun-Chao)',
+    'Akuma': 'Akuma (Wu Kuan)',
+    'cc': 'Cc',
+    'Noway': 'Noway (Nguyễn Vũ Long)',
+    'invincible': 'Invincible',
+    'Aria': 'Aria (Lee Ga-eul)',
+    'Carry': 'Carry (Mustafa Selim Yılmaz)',
+    'LIMIT': 'LIMIT (Dino Tot)',
+    'Unlucky': 'Unlucky (Luca Santos)',
+    'Hopeful': 'Hopefulx',
+    'Unforgiven': 'Unforgiven (Maximiliano Utrero)',
+    'Miracle': 'Miracle (Ruslan Zainulin)',
+    'MnM': 'MnM (Wong Ka Chun)',
+    'Stark': 'Stark (Phan Công Minh)',
+    'Rainbow': 'Rainbow (Kim Soo-gi)',
+    'Humble': 'Humble (Huang Min-Min)',
+    'Jekko': 'Jekko (Jemal Revazishvili)',
+    'Tempest': 'Tempest (Andrew Stark)'
 }
 
 

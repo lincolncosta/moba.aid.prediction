@@ -281,7 +281,9 @@ def getPlayerURL(playerName, role):
         'MnM': 'MnM (Wong Ka Chun)',
         'Stark': 'Stark (Phan Công Minh)',
         'Rainbow': 'Rainbow (Kim Soo-gi)',
-        'Humble': 'Humble (Huang Min-Min)'
+        'Humble': 'Humble (Huang Min-Min)',
+        'Jekko': 'Jekko (Jemal Revazishvili)',
+        'Tempest': 'Tempest (Andrew Stark)'
     }
 
     if playerName in namesMapping:
@@ -356,9 +358,12 @@ def live_test_model(GBCmodel, X_train, match_to_predict, blueTeam, redTeam):
     prob = GBCmodel.predict_proba(X_test)
 
     print('--- Distribuicao de probabilidades para {} VS {} ---'.format(blueTeam, redTeam))
-    print('Probabilidade de vitoria do time azul {}: {}'.format(blueTeam, prob[:,1]))
-    print('Probabilidade de vitoria do time vermelho {}: {}'.format(redTeam, prob[:,0]))
-    print('Acredito que o vencedor sera: {}'.format(blueTeam if GBCmodel.predict(X_test)[0] == 1 else redTeam))
+    print('Probabilidade de vitoria do time azul {}: {}'.format(
+        blueTeam, prob[:, 1]))
+    print('Probabilidade de vitoria do time vermelho {}: {}'.format(
+        redTeam, prob[:, 0]))
+    print('Acredito que o vencedor sera: {}'.format(
+        blueTeam if GBCmodel.predict(X_test)[0] == 1 else redTeam))
 
 
 def run():

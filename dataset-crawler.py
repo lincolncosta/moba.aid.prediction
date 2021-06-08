@@ -265,7 +265,9 @@ def getPlayerURL(playerName, role):
         'MnM': 'MnM (Wong Ka Chun)',
         'Stark': 'Stark (Phan Công Minh)',
         'Rainbow': 'Rainbow (Kim Soo-gi)',
-        'Humble': 'Humble (Huang Min-Min)'
+        'Humble': 'Humble (Huang Min-Min)',
+        'Jekko': 'Jekko (Jemal Revazishvili)',
+        'Tempest': 'Tempest (Andrew Stark)'
     }
 
     if playerName in namesMapping:
