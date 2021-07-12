@@ -273,7 +273,12 @@ def getPlayerURL(playerName, role):
         'Tomate': 'Tomate (Tomás García)',
         'Caos': 'Caos (Nicolás Guzmán)',
         'Sty1e': 'Style (Nguyễn Hoàng Sơn)',
-        'Kingkong': 'Kingkong (Byeon Jeong-hyeon)'
+        'Kingkong': 'Kingkong (Byeon Jeong-hyeon)',
+        'Simon': {
+            'top': 'Simon (Dương Thanh Hoà)',
+            'mid': 'Simon (Szymon Marcinkiewicz)'
+        },
+        'Vit': 'Vit (Lê Hoài An)'
     }
 
     if playerName in namesMapping:
