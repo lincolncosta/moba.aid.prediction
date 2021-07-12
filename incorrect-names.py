@@ -81,7 +81,9 @@ namesMapping = {
     'Solo': 'Solo (Colin Earnest)',
     'Griffin': 'Griffin (Raymond Griffin)',
     'Vulcan': 'Vulcan (Philippe Laflamme)',
-    'Neo': 'Neo (Toàn Trần)',
+    'Neo': {
+            'bot': 'Neo (Toàn Trần)'
+    },
     'Diamond': 'Diamond (David Bérubé)',
     'Ye': 'Ye (Ji Xin-Yu)',
     'Naruto': 'Naruto (Nie Hao)',
@@ -265,7 +267,23 @@ namesMapping = {
             'top': 'Simon (Dương Thanh Hoà)',
             'mid': 'Simon (Szymon Marcinkiewicz)'
     },
-    'Vit': 'Vit (Lê Hoài An)'
+    'Vit': 'Vit (Lê Hoài An)',
+    'Hide': {
+        'bot': 'Hide (Gil Seon-ho)',
+        'sup': 'Hide (Mark Angelov)'
+    },
+    'Leon': {
+        'sup': 'Leon (Leon Anton)'
+    },
+    'Carnage': {
+        'jng': 'Carnage (Vasilis Syrianos)'
+    },
+    'Bung': {
+        'bot': 'Bung (Jakob Gramm)'
+    },
+    'Danny': {
+        'bot': 'Danny (Kyle Sakamaki)'
+    }
 }
 
 
