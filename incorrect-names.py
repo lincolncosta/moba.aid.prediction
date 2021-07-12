@@ -255,7 +255,17 @@ namesMapping = {
     'Rainbow': 'Rainbow (Kim Soo-gi)',
     'Humble': 'Humble (Huang Min-Min)',
     'Jekko': 'Jekko (Jemal Revazishvili)',
-    'Tempest': 'Tempest (Andrew Stark)'
+    'Tempest': 'Tempest (Andrew Stark)',
+    'Noxus': 'Noxus (Stavros Xiarchogiannopoulos)',
+    'Tomate': 'Tomate (Tomás García)',
+    'Caos': 'Caos (Nicolás Guzmán)',
+    'Sty1e': 'Style (Nguyễn Hoàng Sơn)',
+    'Kingkong': 'Kingkong (Byeon Jeong-hyeon)',
+    'Simon': {
+            'top': 'Simon (Dương Thanh Hoà)',
+            'mid': 'Simon (Szymon Marcinkiewicz)'
+    },
+    'Vit': 'Vit (Lê Hoài An)'
 }
 
 
