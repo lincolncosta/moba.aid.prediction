@@ -94,7 +94,9 @@ def getPlayerURL(playerName, role):
         'Solo': 'Solo (Colin Earnest)',
         'Griffin': 'Griffin (Raymond Griffin)',
         'Vulcan': 'Vulcan (Philippe Laflamme)',
-        'Neo': 'Neo (Toàn Trần)',
+        'Neo': {
+            'bot': 'Neo (Toàn Trần)'
+        },
         'Diamond': 'Diamond (David Bérubé)',
         'Ye': 'Ye (Ji Xin-Yu)',
         'Naruto': 'Naruto (Nie Hao)',
@@ -273,7 +275,28 @@ def getPlayerURL(playerName, role):
         'Tomate': 'Tomate (Tomás García)',
         'Caos': 'Caos (Nicolás Guzmán)',
         'Sty1e': 'Style (Nguyễn Hoàng Sơn)',
-        'Kingkong': 'Kingkong (Byeon Jeong-hyeon)'
+        'Kingkong': 'Kingkong (Byeon Jeong-hyeon)',
+        'Simon': {
+            'top': 'Simon (Dương Thanh Hoà)',
+            'mid': 'Simon (Szymon Marcinkiewicz)'
+        },
+        'Vit': 'Vit (Lê Hoài An)',
+        'Hide': {
+            'bot': 'Hide (Gil Seon-ho)',
+            'sup': 'Hide (Mark Angelov)'
+        },
+        'Leon': {
+            'sup': 'Leon (Leon Anton)'
+        },
+        'Carnage': {
+            'jng': 'Carnage (Vasilis Syrianos)'
+        },
+        'Bung': {
+            'bot': 'Bung (Jakob Gramm)'
+        },
+        'Danny': {
+            'bot': 'Danny (Kyle Sakamaki)'
+        }
     }
 
     if playerName in namesMapping:
@@ -344,7 +367,7 @@ def processGames(game):
 
     if isinstance(game, str):
 
-        # GAME DATETIME        
+        # GAME DATETIME
         endDate = dt.strptime(
             df[(df['gameid'] == game)].date.values[0], '%Y-%m-%d %H:%M:%S')
         startDate = endDate - relativedelta(months=1)
