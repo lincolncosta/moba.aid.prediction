@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split
 from xgboost.sklearn import XGBClassifier
 import shap
 
-df = pd.read_csv('../../outputs/lol/dataset_players_statistics.csv')
+df = pd.read_csv('../../data/dataset_players_statistics.csv')
 
 df = df.drop(['game'], axis=1)
 
@@ -37,4 +37,4 @@ shap.dependence_plot("blueMidKDA", shap_values, X_test,
 
 # plot do 'cabo de guerra' de vitória ou derrota
 shap.force_plot(explainer.expected_value,
-                shap_values[15, :], X_test.iloc[15, :], matplotlib=True)
+                shap_values[1, :], X_test.iloc[1, :], matplotlib=True)

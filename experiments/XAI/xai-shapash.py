@@ -3,7 +3,7 @@ from xgboost.sklearn import XGBClassifier
 from sklearn.model_selection import train_test_split
 from shapash.explainer.smart_explainer import SmartExplainer
 
-df = pd.read_csv('../../outputs/lol/dataset_players_statistics.csv')
+df = pd.read_csv('../../data/dataset_players_statistics.csv')
 df = df.drop(['game'], axis=1)
 df_dict = df.to_dict()
 

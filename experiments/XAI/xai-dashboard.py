@@ -3,7 +3,7 @@ import dalex as dx
 from sklearn.model_selection import train_test_split
 from xgboost.sklearn import XGBClassifier
 
-df = pd.read_csv('../../outputs/lol/dataset_players_statistics.csv')
+df = pd.read_csv('../../data/dataset_players_statistics.csv')
 
 df = df.drop(['game'], axis=1)
 
