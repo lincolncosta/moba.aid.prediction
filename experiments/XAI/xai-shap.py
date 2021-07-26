@@ -22,15 +22,19 @@ explainer = shap.TreeExplainer(classifier)
 shap_values = explainer.shap_values(X_test)
 
 # plot do impacto de todas as features
-# shap.summary_plot(shap_values, X_test)
+shap.summary_plot(shap_values, X_test)
 
 # plot da média do valor SHAP das features
-# shap.summary_plot(shap_values, X_test, plot_type="bar", max_display=20)
+shap.summary_plot(shap_values, X_test, plot_type="bar")
 
 # plot da média do valor SHAP das features
-# shap.dependence_plot("blueJungleWR", shap_values, X_test,
-#                      interaction_index=None, xmax=1)
+shap.dependence_plot("redAdcKDA", shap_values, X_test,
+                     interaction_index=None)
+
+# plot da média do valor SHAP das features
+shap.dependence_plot("blueMidKDA", shap_values, X_test,
+                     interaction_index=None)
 
 # plot do 'cabo de guerra' de vitória ou derrota
 shap.force_plot(explainer.expected_value,
-                shap_values[0, :], X_test.iloc[0, :], matplotlib=True)
+                shap_values[15, :], X_test.iloc[15, :], matplotlib=True)
