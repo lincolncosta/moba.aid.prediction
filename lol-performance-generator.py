@@ -33,7 +33,7 @@ def processGames(game):
         # GAME DATETIME
         endDate = dt.strptime(
             df[(df['gameid'] == game)].date.values[0], '%Y-%m-%d %H:%M:%S')
-        startDate = endDate - relativedelta(months=3)
+        startDate = endDate - relativedelta(months=6)
         formatedEndDate = endDate.strftime('%Y-%m-%d %H:%M:%S')
         formatedStartDate = startDate.strftime('%Y-%m-%d %H:%M:%S')
 
