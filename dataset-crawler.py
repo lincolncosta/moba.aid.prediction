@@ -300,7 +300,9 @@ def getPlayerURL(playerName, role):
         },
         'OddOrange': 'TheOddOrange',
         'DRX ZMT': 'ZMT',
-        'Comp Array': 'Array'
+        'Comp Array': 'Array',
+        'Hanabi': 'Hanabi (Su Chia-Hsiang)',
+        'ReaL': 'ReaL (Artūras Stefanovič)'
     }
 
     if playerName in namesMapping:
