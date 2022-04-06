@@ -518,10 +518,15 @@ def processGames(game, side):
         firstHerald = df[(df['gameid'] == game) & (df['side'] == side)
                          & (df['position'] == 'team')].firstherald.values[0]
 
+        if side == 'Blue':
+            flagSide = 1
+        else:
+            flagSide = 0
+
         # WRITING TO DATASET FILE
         with open('data/secondary-prediction/secondary_prediction_players_statistics.csv', mode='a', newline="") as dataset2022:
             datasetWriter = csv.writer(dataset2022, delimiter=',')
-            datasetWriter.writerow([game, topGP, topWR, topKDA, jungleGP, jungleWR, jungleKDA, midGP, midWR, midKDA, carryGP, carryWR, carryKDA, suppGP, suppWR,
+            datasetWriter.writerow([game, flagSide, topGP, topWR, topKDA, jungleGP, jungleWR, jungleKDA, midGP, midWR, midKDA, carryGP, carryWR, carryKDA, suppGP, suppWR,
                                     suppKDA, kills, deaths, firstBlood, firstTower, firstHerald, dragons, barons, inhibitors, towers, heralds])
 
 
@@ -533,7 +538,7 @@ processed_df = pd.read_csv(
 processed_games = processed_df.game.drop_duplicates()
 sides = ['Blue', 'Red']
 
-header = 'game,topGP,topWR,topKDA,jungleGP,jungleWR,jungleKDA,midGP,midWR,midKDA,carryGP,carryWR,carryKDA,suppGP,suppWR,suppKDA,kills,deaths,firstBlood,firstTower,firstHerald,dragons,barons,inhibitors,towers,heralds\n'
+header = 'game,flagSide,topGP,topWR,topKDA,jungleGP,jungleWR,jungleKDA,midGP,midWR,midKDA,carryGP,carryWR,carryKDA,suppGP,suppWR,suppKDA,kills,deaths,firstBlood,firstTower,firstHerald,dragons,barons,inhibitors,towers,heralds\n'
 with open('data/secondary-prediction/secondary_prediction_players_statistics.csv', mode='a') as dataset:
     dataset.write(header)
 
