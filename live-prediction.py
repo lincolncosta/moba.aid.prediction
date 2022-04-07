@@ -29,6 +29,7 @@ def train_model(X_train, y_train):
 
 
 def getPlayerURL(playerName, role):
+
     namesMapping = {
         'Ghost': 'Ghost (Jang Yong-jun)',
         'Rich': 'Rich (Lee Jae-won)',
@@ -109,7 +110,9 @@ def getPlayerURL(playerName, role):
         'Solo': 'Solo (Colin Earnest)',
         'Griffin': 'Griffin (Raymond Griffin)',
         'Vulcan': 'Vulcan (Philippe Laflamme)',
-        'Neo': 'Neo (Toàn Trần)',
+        'Neo': {
+            'bot': 'Neo (Toàn Trần)'
+        },
         'Diamond': 'Diamond (David Bérubé)',
         'Ye': 'Ye (Ji Xin-Yu)',
         'Naruto': 'Naruto (Nie Hao)',
@@ -255,7 +258,8 @@ def getPlayerURL(playerName, role):
         'Maxim': 'Maxim (Maxim Tarasov)',
         'Jacob': {
             'jng': 'Jacob (Jakub Milý)',
-            'mid': 'Jacob (Jacob Nielsen)'
+            'mid': 'Jacob (Jacob Nielsen)',
+            'bot': 'Jacob (Jakub Przewozniczuk)'
         },
         'Flash': 'Flash (Luís Cerqueira)',
         'Sky': {
@@ -283,7 +287,65 @@ def getPlayerURL(playerName, role):
         'Rainbow': 'Rainbow (Kim Soo-gi)',
         'Humble': 'Humble (Huang Min-Min)',
         'Jekko': 'Jekko (Jemal Revazishvili)',
-        'Tempest': 'Tempest (Andrew Stark)'
+        'Tempest': 'Tempest (Andrew Stark)',
+        'Noxus': 'Noxus (Stavros Xiarchogiannopoulos)',
+        'Tomate': 'Tomate (Tomás García)',
+        'Caos': 'Caos (Nicolás Guzmán)',
+        'Sty1e': 'Style (Nguyễn Hoàng Sơn)',
+        'Kingkong': 'Kingkong (Byeon Jeong-hyeon)',
+        'Simon': {
+            'top': 'Simon (Dương Thanh Hoà)',
+            'mid': 'Simon (Szymon Marcinkiewicz)'
+        },
+        'Vit': 'Vit (Lê Hoài An)',
+        'Hide': {
+            'bot': 'Hide (Gil Seon-ho)',
+            'sup': 'Hide (Mark Angelov)'
+        },
+        'Leon': {
+            'sup': 'Leon (Leon Anton)'
+        },
+        'Carnage': {
+            'jng': 'Carnage (Vasilis Syrianos)'
+        },
+        'Bung': {
+            'bot': 'Bung (Jakob Gramm)'
+        },
+        'Danny': {
+            'bot': 'Danny (Kyle Sakamaki)'
+        },
+        'OddOrange': 'TheOddOrange',
+        'DRX ZMT': 'ZMT',
+        'Comp Array': 'Array',
+        'Hanabi': 'Hanabi (Su Chia-Hsiang)',
+        'ReaL': 'ReaL (Artūras Stefanovič)',
+        'Raptor': 'Raptor (Jeon Eo-jin)',
+        'Prove': {
+            'top': 'Prove (Patryk Adamiec)',
+            'sup': 'Prove (Son Min-hyeong)'
+        },
+        'Zest': {
+            'top': 'Zest (Kim Dong-min)',
+            'sup': 'Zest (Hsieh Ming-Hsuan)'
+        },
+        'Lucid': 'Lucid (Choi Yong-hyeok)',
+        'Seonbi': 'Seonbi (Koo Gwan-mo)',
+        'Noodle': 'Noodle (Kim Kroon)',
+        'Winner': 'Winner (Woo Joo-sung)',
+        'MC': 'MC (Mohammed Chinoune)',
+        'Jeremy': 'Jeremy (Jeremy Gnas)',
+        'Pluto': {
+            'jng': 'Pluto (David Hrabánek)',
+            'sup': 'Pluto (Nick Jones)'
+        },
+        'Perry': 'Perry (Perry Norman)',
+        'Topo': 'Topo (Charles Uram)',
+        'Enigma': 'Enigma (Julien Mayrand)',
+        'Chris': {
+            'jng': 'Chris (Krystian Dobrzański)'
+        },
+        'Sword': 'Sword (Rico Chen)',
+        'marlon': 'Marlon (Igor Tomczyk)'
     }
 
     if playerName in namesMapping:

@@ -302,7 +302,34 @@ def getPlayerURL(playerName, role):
         'DRX ZMT': 'ZMT',
         'Comp Array': 'Array',
         'Hanabi': 'Hanabi (Su Chia-Hsiang)',
-        'ReaL': 'ReaL (Artūras Stefanovič)'
+        'ReaL': 'ReaL (Artūras Stefanovič)',
+        'Raptor': 'Raptor (Jeon Eo-jin)',
+        'Prove': {
+            'top': 'Prove (Patryk Adamiec)',
+            'sup': 'Prove (Son Min-hyeong)'
+        },
+        'Zest': {
+            'top': 'Zest (Kim Dong-min)',
+            'sup': 'Zest (Hsieh Ming-Hsuan)'
+        },
+        'Lucid': 'Lucid (Choi Yong-hyeok)',
+        'Seonbi': 'Seonbi (Koo Gwan-mo)',
+        'Noodle': 'Noodle (Kim Kroon)',
+        'Winner': 'Winner (Woo Joo-sung)',
+        'MC': 'MC (Mohammed Chinoune)',
+        'Jeremy': 'Jeremy (Jeremy Gnas)',
+        'Pluto': {
+            'jng': 'Pluto (David Hrabánek)',
+            'sup': 'Pluto (Nick Jones)'
+        },
+        'Perry': 'Perry (Perry Norman)',
+        'Topo': 'Topo (Charles Uram)',
+        'Enigma': 'Enigma (Julien Mayrand)',
+        'Chris': {
+            'jng': 'Chris (Krystian Dobrzański)'
+        },
+        'Sword': 'Sword (Rico Chen)',
+        'marlon': 'Marlon (Igor Tomczyk)'
     }
 
     if playerName in namesMapping:
