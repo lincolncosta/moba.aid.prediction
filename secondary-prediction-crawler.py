@@ -329,7 +329,15 @@ def getPlayerURL(playerName, role):
             'jng': 'Chris (Krystian Dobrzański)'
         },
         'Sword': 'Sword (Rico Chen)',
-        'marlon': 'Marlon (Igor Tomczyk)'
+        'marlon': 'Marlon (Igor Tomczyk)',
+        'DuDu': 'DuDu (Lee Dong-ju)',
+        'Peng': 'Peng (Pengcheng Shen)',
+        'Peter': 'Peter (Jeong Yoon-su)',
+        'Sketch': 'Sketch (Brady Holmich)',
+        'Revenge': {
+            'top': 'Revenge (Mohamed Kaddoura)',
+            'mid': 'Peng (Pengcheng Shen)'
+        }
     }
 
     if playerName in namesMapping:
