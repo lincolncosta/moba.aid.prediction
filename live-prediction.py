@@ -362,7 +362,8 @@ def getPlayerURL(playerName, role):
         'Faded': 'Faded (Anastasios Koutsouras)',
         'Dragon': {
             'mid': 'Dragon (María Zarate)',
-            'top': 'Dragon (Manuel Cortes)'
+            'top': 'Dragon (Manuel Cortes)',
+            'bot': 'Dragon (Manuel Cortes)'
         },
         'Twelve': 'Twelve (Idriss Madouche)',
         'Rift': 'Rift (Jérémie Luthy)',
@@ -437,6 +438,9 @@ def getPlayerURL(playerName, role):
         'Benji': {
             'mid': 'Benji (Petros Tsiafitsas)',
             'bot': 'Benji (Nicolas Vidal)'
+        },
+        'Sloth': {
+            'sup': 'Sloth (Bae Jung-sub)'
         }
     }
 
