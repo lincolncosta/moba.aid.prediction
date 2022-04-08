@@ -79,7 +79,9 @@ def getPlayerURL(playerName, role):
         'Lotus': 'Lotus (Dušan Nedeljković)',
         'Jay': 'Jay (Chen Bo)',
         'FATE': 'FATE (Yoo Su-hyeok)',
-        'River': 'River (Luo Bai-Jiang)',
+        'River': {
+            'jng': 'River (Kim Dong-woo)',
+        },
         'QingZhi': 'QingZhi (Lin Han)',
         'BAO': 'BAO (Jeong Hyeon-woo)',
         'Becca': 'Becca (Son Min-woo)',
@@ -131,7 +133,9 @@ def getPlayerURL(playerName, role):
         'Sven': 'Sven (Sven Olejnikow)',
         'Eren': 'Eren (Nguyễn Đức Anh)',
         'Scarface': 'Scarface (Daniel Aitbelkacem)',
-        'Lion': 'Lion (Leon Anton)',
+        'Lion': {
+            'sup': 'Lion (Stelios Marinos)'
+        },
         'SMILEY': 'SMILEY (Ludvig Granquist)',
         'Adam': 'Adam (Adam Maanane)',
         'Rabble': 'Rabble (Jochem van Graafeiland)',
@@ -144,7 +148,7 @@ def getPlayerURL(playerName, role):
         'flare': 'Flare (Luiz Felipe Lobo)',
         'Prime': 'Prime (Olivier Payet)',
         'asta': 'Asta (Wyllian Adriano)',
-        'Bounty': 'Bounty (Gabriel Donner)',
+        'Bounty': 'Bounty',
         'Raven': 'Ravenzin',
         'Leo': 'Leo (Han Gyeo-re)',
         'Air': 'Air (Shenghao He)',
@@ -329,7 +333,95 @@ def getPlayerURL(playerName, role):
             'jng': 'Chris (Krystian Dobrzański)'
         },
         'Sword': 'Sword (Rico Chen)',
-        'marlon': 'Marlon (Igor Tomczyk)'
+        'marlon': 'Marlon (Igor Tomczyk)',
+        'DuDu': 'DuDu (Lee Dong-ju)',
+        'Peng': 'Peng (Pengcheng Shen)',
+        'Peter': 'Peter (Jeong Yoon-su)',
+        'Sketch': 'Sketch (Brady Holmich)',
+        'Revenge': {
+            'top': 'Revenge (Mohamed Kaddoura)',
+            'mid': 'Peng (Pengcheng Shen)'
+        },
+        'Misaki': 'Misaki (Telmo Oliveira)',
+        'Faded': 'Faded (Anastasios Koutsouras)',
+        'Dragon': {
+            'mid': 'Dragon (María Zarate)',
+            'top': 'Dragon (Manuel Cortes)'
+        },
+        'Twelve': 'Twelve (Idriss Madouche)',
+        'Rift': 'Rift (Jérémie Luthy)',
+        'Joo': 'Joo (João Pereira)',
+        'Paradox': {
+            'bot': 'Paradox (Dimitris Tsiavos)',
+            'sup': 'Paradox (Federico Princiotta Cariddi)',
+            'mid': 'Paradox (Selina Stengel)'
+        },
+        'JDG': 'JDG (Manuel Soares)',
+        'Music': 'Music (Sean Wishko)',
+        'Lelouch': {
+            'bot': 'Lelouch (Alexandrescu Cristian)'
+        },
+        'Strange': {
+            'mid': 'Strange (Cristopher Gonzalez)'
+        },
+        'Syrpy': 'Meager',
+        'baekho': {
+            'bot': 'BaeKHo (Baek Seung-min)',
+            'jng': 'Baekho (Hyun-woo Choe)'
+        },
+        'Porsche': {
+            'top': 'Porsche (Shane Higginbotham)'
+        },
+        'Ice': {
+            'bot': 'Ice (Yoon Sang-hoon)'
+        },
+        'Philip': {
+            'top': 'Philip (Philip Zeng)'
+        },
+        'Music': {
+            'jng': 'Music (Sean Wishko)'
+        },
+        'Mayhem': 'Mayhem (Samuel García)',
+        'Mega': {
+            'jng': 'Mega (Carlos Herrera)',
+            'bot': 'Mega (Åsmund Rosshaug)'
+        },
+        'Marth': {
+            'top': 'Marth (Luis De La Rosa)',
+            'bot': 'Marth (Julian Maletzky)'
+        },
+        'Machine': {
+            'bot': 'Machine (Batuhan Karagenç)'
+        },
+        'Crazy': {
+            'top': 'Crazy (Kim Jae-hee)'
+        },
+        'Black': 'Black (Murat Ulukan Ayaz)',
+        'Chloe': 'Chloe (Jeon Seong-hyeon)',
+        'Hoon': 'Hoon (Lee Jang-hoon)',
+        'Typhoon': {
+            'bot': 'Typhoon (Chen Dai-Feng)',
+            'jng': 'Typhoon (Tayfun Gümüş)'
+        },
+        'Drop': {
+            'bot': 'Drop (Matheus Herdy)'
+        },
+        'Kick': 'Kick (João Rosas)',
+        'Lionel': {
+            'sup': 'Lionel (Matthew Desa)'
+        },
+        'Fang': 'Fang (Ignacio Gutierrez)',
+        'Pinky': 'Pinky (Oscar Gomez)',
+        'Lance': {
+            'top': 'Lance (Rafael Romero)'
+        },
+        'ALPHA': 'ALPHA (Derick Reyes)',
+        'Darkin': 'Darkin (Santiago Rendón)',
+        'Catan': 'Catan (Dylan Bravo)',
+        'Benji': {
+            'mid': 'Benji (Petros Tsiafitsas)',
+            'bot': 'Benji (Nicolas Vidal)'
+        }
     }
 
     if playerName in namesMapping:
