@@ -79,7 +79,9 @@ def getPlayerURL(playerName, role):
         'NooB': 'NooB (Léo Pitrey)',
         'GGsir': 'GG Sir',
         'Seal': 'Seal (Fabian de Lint)',
-        'Shadow': 'Shadow (Li Hao)',
+        'Shadow': {
+            'sup': 'Shadow (Facundo Cuello)'
+        },
         'Doran': 'Doran (Choi Hyeon-joon)',
         'HyBriD': 'HyBriD (Lee Woo-jin)',
         'Ahn': 'Ahn (An Shan-Ye)',
@@ -92,7 +94,7 @@ def getPlayerURL(playerName, role):
         'Taxer': 'Taxer (Christian Vendelbo)',
         'Click': 'Click (Vittorio Massolo)',
         'aki': 'Aki (Daniel Lauri)',
-        'Lotus': 'Lotus (Dušan Nedeljković)',
+        'Lotus': 'Lotus (Ignatios Psarros)',
         'Jay': 'Jay (Chen Bo)',
         'FATE': 'FATE (Yoo Su-hyeok)',
         'River': {
@@ -441,7 +443,21 @@ def getPlayerURL(playerName, role):
         },
         'Sloth': {
             'sup': 'Sloth (Bae Jung-sub)'
-        }
+        },
+        'Mime': 'Mime (Nicolas Bojos)',
+        'Pyl': 'Pyl (Bryan Torres)',
+        'Chaos': {
+            'jng': 'Chaos (Álvaro Dória)'
+        },
+        'Feng': {
+            'jng': 'Feng (Jose Ricalday)',
+            'sup': 'Feng (Chen Guo-Feng)'
+        },
+        'Van': {
+            'jng': 'Van (Ivan Dellanque)'
+        },
+        'Jason': 'Jason (Kevin Yuquilema)',
+        'Billy': 'Billy (Adriano Moreno)'
     }
 
     if playerName in namesMapping:
