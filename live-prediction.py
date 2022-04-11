@@ -454,10 +454,36 @@ def getPlayerURL(playerName, role):
             'sup': 'Feng (Chen Guo-Feng)'
         },
         'Van': {
-            'jng': 'Van (Ivan Dellanque)'
+            'jng': 'Van (Ivan Dellanque)',
+            'top': 'Van (Hikaru Murokoshi)'
         },
         'Jason': 'Jason (Kevin Yuquilema)',
-        'Billy': 'Billy (Adriano Moreno)'
+        'Billy': 'Billy (Adriano Moreno)',
+        'Fade': 'Fade (Muhammed Fatih Kurşun)',
+        'Archer': 'Archer (Lee Keun-hee)',
+        'Shall': 'Shall (Jorge Mendoza)',
+        'Snoopy': 'Snoopy (Renato Chávez)',
+        'Billy': 'Billy (Adriano Moreno)',
+        'San': 'San (Jose Luis Caceres)',
+        'Kenny': {
+            'sup': 'Kenny (Lukáš Křivánek)'
+        },
+        'FIare': 'Flare (Franco Pombo)',
+        'Kz': 'Kz (Nicolás Gutiérrez)',
+        'Jelly': 'Jelly (Son Ho-gyeong)',
+        'Fear': 'Fear (Joel Reyna)',
+        'Berserker': 'Berserker (Kim Min-cheol)',
+        'Stealth': 'Stealth (Alejandro Cardenaz)',
+        'DarkMoon': 'DarkMoon (Jorge Baca)',
+        'Holo': 'Holo (Tsang Dek Lam)',
+        'Faith': 'Faith (Sit Chong Fai)',
+        'Kaito': 'Kaito (Kaito Mitsufuji)',
+        'Taco': 'Taco (Fan Zhao-Fu)',
+        'eXyu': 'EXyu',
+        'Quiet': {
+            'bot': 'Quiet (Tang Yong)',
+            'top': 'Quiet (Lin Wei-Zhe)'
+        }
     }
 
     if playerName in namesMapping:
