@@ -467,7 +467,13 @@ def getPlayerURL(playerName, role):
         'Quiet': {
             'bot': 'Quiet (Tang Yong)',
             'top': 'Quiet (Lin Wei-Zhe)'
-        }
+        },
+        'Shin': 'Shin (Kirill Shurkin)',
+        'Silk': 'Silk (Ivan Gantsyuk)',
+        'Akashi': 'Akashi (Oussama Cherradi)',
+        'Punisher': 'Punisher (Konstantinos Katsikadakos)',
+        'DK': 'DK (Yuot Mayuom)',
+        'Wally': 'Wally (Waeel Elhilali)'
     }
 
     if playerName in namesMapping:
@@ -511,20 +517,20 @@ def crawlerPlayerInfos(playerName, playingChampion, startDate, endDate, game, ro
 
     # Aguardando carregamento da página e exibição do input de End Date
     start_date_input = wait.until(ec.presence_of_element_located(
-        (By.XPATH, '//*[@id="end_date"]')), message='Campo "Start Date" era esperado na busca do jogador {} e não foi encontrado.'.format(playerName))    
+        (By.XPATH, '//*[@id="end_date"]')), message='Campo "Start Date" era esperado na busca do jogador {} e não foi encontrado.'.format(playerName))
     start_date_input.send_keys(endDate)
 
     # Aguardando carregamento da página e exibição dos resultados
     time.sleep(5)
 
-    if (len(driver.find_elements_by_xpath("//*[text()=\"{}\"]/following::div/following::div".format(playingChampion))) != 0):
+    if (len(driver.find_elements(by=By.XPATH, value="//*[text()=\"{}\"]/following::div/following::div".format(playingChampion))) != 0):
         # Obtendo valores de GP, W% e KDA
-        games_played_element = driver.find_elements_by_xpath(
-            "//*[text()=\"{}\"]/following::div/following::div".format(playingChampion))[0]
-        win_rate_element = driver.find_elements_by_xpath(
-            "//*[text()=\"{}\"]/following::div/following::div/following::div".format(playingChampion))[0]
-        kda_element = driver.find_elements_by_xpath(
-            "//*[text()=\"{}\"]/following::div/following::div/following::div/following::div/following::div".format(playingChampion))[0]
+        games_played_element = driver.find_elements(
+            by=By.XPATH, value="//*[text()=\"{}\"]/following::div/following::div".format(playingChampion))[0]
+        win_rate_element = driver.find_elements(
+            by=By.XPATH, value="//*[text()=\"{}\"]/following::div/following::div/following::div".format(playingChampion))[0]
+        kda_element = driver.find_elements(
+            by=By.XPATH, value="//*[text()=\"{}\"]/following::div/following::div/following::div/following::div/following::div".format(playingChampion))[0]
 
         gp = games_played_element.text
         wr = win_rate_element.text
@@ -546,9 +552,9 @@ def processGames(game):
         # startDate = endDate - relativedelta(months=1)
         formatedEndDate = "{}-{:02d}-{:02d}".format(
             endDate.year, endDate.month, endDate.day - 1)
-        formatedStartDate = ''            
+        formatedStartDate = ''
         # formatedStartDate = "{:02d}/{:02d}/{}".format(
-            # startDate.day - 1, startDate.month, startDate.year)
+        # startDate.day - 1, startDate.month, startDate.year)
 
         # BLUE TEAM
         blueTop = df[(df['gameid'] == game) & (df['side'] == 'Blue')

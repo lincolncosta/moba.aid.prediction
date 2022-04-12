@@ -483,7 +483,13 @@ def getPlayerURL(playerName, role):
         'Quiet': {
             'bot': 'Quiet (Tang Yong)',
             'top': 'Quiet (Lin Wei-Zhe)'
-        }
+        },
+        'Shin': 'Shin (Kirill Shurkin)',
+        'Silk': 'Silk (Ivan Gantsyuk)',
+        'Akashi': 'Akashi (Oussama Cherradi)',
+        'Punisher': 'Punisher (Konstantinos Katsikadakos)',
+        'DK': 'DK (Yuot Mayuom)',
+        'Wally': 'Wally (Waeel Elhilali)'
     }
 
     if playerName in namesMapping:
@@ -531,14 +537,14 @@ def crawlerPlayerInfos(playerName, playingChampion, endDate, game, role):
     # Aguardando carregamento da página e exibição dos resultados
     time.sleep(5)
 
-    if (len(driver.find_elements_by_xpath("//*[text()=\"{}\"]/following::div/following::div".format(playingChampion))) != 0):
+    if (len(driver.find_elements(by=By.XPATH, value="//*[text()=\"{}\"]/following::div/following::div".format(playingChampion))) != 0):
         # Obtendo valores de GP, W% e KDA
-        games_played_element = driver.find_elements_by_xpath(
-            "//*[text()=\"{}\"]/following::div/following::div".format(playingChampion))[0]
-        win_rate_element = driver.find_elements_by_xpath(
-            "//*[text()=\"{}\"]/following::div/following::div/following::div".format(playingChampion))[0]
-        kda_element = driver.find_elements_by_xpath(
-            "//*[text()=\"{}\"]/following::div/following::div/following::div/following::div/following::div".format(playingChampion))[0]
+        games_played_element = driver.find_elements(
+            by=By.XPATH, value="//*[text()=\"{}\"]/following::div/following::div".format(playingChampion))[0]
+        win_rate_element = driver.find_elements(
+            by=By.XPATH, value="//*[text()=\"{}\"]/following::div/following::div/following::div".format(playingChampion))[0]
+        kda_element = driver.find_elements(
+            by=By.XPATH, value="//*[text()=\"{}\"]/following::div/following::div/following::div/following::div/following::div".format(playingChampion))[0]
 
         gp = games_played_element.text
         wr = win_rate_element.text
