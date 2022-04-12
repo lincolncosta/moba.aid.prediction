@@ -473,7 +473,15 @@ def getPlayerURL(playerName, role):
         'Akashi': 'Akashi (Oussama Cherradi)',
         'Punisher': 'Punisher (Konstantinos Katsikadakos)',
         'DK': 'DK (Yuot Mayuom)',
-        'Wally': 'Wally (Waeel Elhilali)'
+        'Wally': 'Wally (Waeel Elhilali)',
+        'Zenitsu': {
+            'top': 'Zenitsu (Marco Rodriguez)',
+            'bot': 'Zenitsu (Sérgio Silva)'
+        },
+        'Duel': 'Duel (Jim Alvear)',
+        'Yato': 'Yato (Walter Vargas)',
+        'Imperial': 'Imperial (Evgeny Sorokin)',
+        'Sweet': 'Sweet (Yousef Rakabe)'
     }
 
     if playerName in namesMapping:
