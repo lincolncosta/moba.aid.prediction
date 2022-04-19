@@ -496,6 +496,7 @@ def getPlayerURL(playerName, role):
         'Kingdom': 'Kingdom (Kim Seong-kwon)',
         'Way': {
             'sup': 'Way (Han Gil)',
+            'bot': 'Way (Han Gil)',
             'mid': 'Way (Park Byeong-joon)'
         },
         'mumus100': 'Mumus100',

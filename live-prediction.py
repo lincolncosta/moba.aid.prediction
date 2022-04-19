@@ -497,7 +497,30 @@ def getPlayerURL(playerName, role):
         'Duel': 'Duel (Jim Alvear)',
         'Yato': 'Yato (Walter Vargas)',
         'Imperial': 'Imperial (Evgeny Sorokin)',
-        'Sweet': 'Sweet (Yousef Rakabe)'
+        'Sweet': 'Sweet (Yousef Rakabe)',
+        'Senshi': 'Senshi (Angello Molina)',
+        'Rebirth': 'Rebirth (Fu Chun Kit)',
+        'Awakër': 'Awakër (Martin Maxa)',
+        'Crow': 'Crow (Luca Nucci)',
+        'Lure': 'Lure (Shin Jae-yoon)',
+        'Nash': 'Nash (Alf-Kristian Sund)',
+        'Dante': {
+            'bot': 'Dante (Alvin Wong)',
+            'jng': 'Dante (Lê Văn Dự)'
+        },
+        'Trap': 'Trap (Shin Seung-min)',
+        'Kingdom': 'Kingdom (Kim Seong-kwon)',
+        'Way': {
+            'sup': 'Way (Han Gil)',
+            'bot': 'Way (Han Gil)',
+            'mid': 'Way (Park Byeong-joon)'
+        },
+        'mumus100': 'Mumus100',
+        'Min': {
+            'top': 'Min (Ryan Min)',
+            'mid': 'Min (Lim Hyeong-min)'
+        },
+        'Miss': 'Miss (Letícia Porto)'
     }
 
     if playerName in namesMapping:
