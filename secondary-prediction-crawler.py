@@ -404,6 +404,7 @@ def getPlayerURL(playerName, role):
         'Hoon': 'Hoon (Lee Jang-hoon)',
         'Typhoon': {
             'bot': 'Typhoon (Chen Dai-Feng)',
+            'mid': 'Typhoon (Chen Dai-Feng)',
             'jng': 'Typhoon (Tayfun Gümüş)'
         },
         'Drop': {
@@ -504,7 +505,16 @@ def getPlayerURL(playerName, role):
             'top': 'Min (Ryan Min)',
             'mid': 'Min (Lim Hyeong-min)'
         },
-        'Miss': 'Miss (Letícia Porto)'
+        'Miss': 'Miss (Letícia Porto)',
+        'Akira': {
+            'top': 'Akira (Sebastian Diaz)'
+        },
+        'NiuNai': 'NiuNai (Xiang Cheng)',
+        'Venom': {
+            'bot': 'Venom (David Martínez Puerta)'
+        },
+        'Aaron': 'Aaron (Aarón Gallego)',
+        'Orange': 'Orange (Alfredo Teran)'
     }
 
     if playerName in namesMapping:
